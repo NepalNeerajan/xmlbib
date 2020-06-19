@@ -83,7 +83,7 @@ int main()
   // Load XML file from fstream
 
   //  std::ifstream xml_file("test.xml");
-  std::ifstream xml_file("bdn.xml");
+  std::ifstream xml_file("mass.xml");
 
   if(!load_elements()){
     std::cerr << "ERROR: can't load file with info on chemical elements" << std::endl;
@@ -98,7 +98,7 @@ int main()
       return 1;
     }
 
-  std::ofstream xml_new("rprocess.xml");
+  std::ofstream xml_new("rprocess2.xml");
 
 
   xml_document doc;
@@ -163,7 +163,7 @@ int main()
 	pos2= description.find('}',pos+2); //find closing bracket '}'
 	mass = description.substr(pos+2, pos2-pos-2);
 
-	if(is_digits(mass)){
+	if(is_digits(mass) && (pos2-pos-2)>0 ){
 	  //std::cout << mass << ", "; 
 
 	  if(!get_A(mass, A)){
