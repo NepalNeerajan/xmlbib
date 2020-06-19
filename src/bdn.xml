@@ -1,0 +1,1904 @@
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2000BE56</keyno>
+<history>A20001201</history>
+<coden>JOUR PYLBB 493 12</coden>
+<refrence>Phys.Lett. 493B, 12 (2000)</refrence>
+<authors>R.Bernabei, M.Amato, P.Belli, R.Cerulli, C.J.Dai, V.Yu.Denisov, H.L.He, A.Incicchitti, H.H.Kuang, J.M.Ma, F.Montecchia, O.A.Ponkratenko, D.Prosperi, V.I.Tretyak, Yu.G.Zdesenko</authors>
+<title>Search for the Nucleon and Di-Nucleon Decay into Invisible Channels</title>
+<keywords>RADIOACTIVITY {+129}Xe(p),(n); measured T{-1/2} limits for nucleon and dinucleon decays that do not conserve baryonic number.  Gran Sasso underground detector.</keywords>
+<doi>10.1016/S0370-2693(00)01112-6</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2000BU33</keyno>
+<history>A20001214</history>
+<coden>JOUR NIMAE 455 412</coden>
+<refrence>Nucl.Instrum.Methods Phys.Res. A455, 412 (2000)</refrence>
+<authors>A.Buta, T.Martin, C.Timis, N.Achouri, J.C.Angelique, C.Borcea, I.Cruceru, A.Genoux-Lubain, S.Grevy, M.Lewitowicz, E.Lienard, F.M.Marques, F.Negoita, F.de Oliveira, N.A.Orr, J.Peter, M.Sandu</authors>
+<title>TONNERRE: An array for delayed-neutron decay spectroscopy</title>
+<keywords>NUCLEAR REACTIONS Be({+18}O,X){+15}B/{+16}C/{+17}N,E=77 MeV/nucleon; measured |b-delayed neutron spectra.</keywords>
+<keywords>RADIOACTIVITY {+15}B,{+16}C,{+17}N(|b{+-}n) [from {+18}O fragmentation]; measured |b-delayed neutron spectra.</keywords>
+<doi>10.1016/S0168-9002(00)00510-6</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2000HA55</keyno>
+<history>A20001127</history>
+<coden>JOUR PRVCA 62 054301</coden>
+<refrence>Phys.Rev. C62, 054301 (2000)</refrence>
+<authors>M.Hannawald, K.-L.Kratz, B.Pfeiffer, W.B.Walters, V.N.Fedoseyev, V.I.Mishin, W.F.Mueller, H.Schatz, J.Van Roosbroeck, U.Koster, V.Sebastian, H.L.Ravn, and the ISOLDE Collaboration</authors>
+<title>Selective Laser Ionization of Very Neutron-Rich Cadmium Isotopes: Decay properties of {+131}Cd{-83} and {+132}Cd{-84}</title>
+<keywords>RADIOACTIVITY {+131},{+132}Cd(|b{+-}),(|b{+-}n) [from {+238}U(p,F)]; measured T{-1/2},|b-delayed neutron branching ratios. {+131},{+132}In deduced levels,|b-branching intensities. Comparison with model predictions.</keywords>
+<doi>10.1103/PhysRevC.62.054301</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2000HO32</keyno>
+<history>A20080723</history>
+<coden>JOUR HYIND 129 141</coden>
+<refrence>Hyperfine Interactions 129, 141 (2000)</refrence>
+<authors>P.Hoff, P.Baumann, A.Huck, A.Knipper, G.Walter, G.Marguier, B.Fogelberg, A.Lindroth, H.Mach, M.Sanchez-Vega, R.B.E.Taylor, P.van Duppen, A.Jokinen, M.Lindroos, M.Ramdhane, W.Kurcewicz, B.Jonson, G.Nyman, Y.Jading, K.-L.Kratz, A.Wohr, G.Lovhoiden, T.F.Thorsteinsen, J.Blomqvist, and the ISOLDE Collaboration</authors>
+<title>Nuclear spectroscopy at {+133}Sn</title>
+<keywords>RADIOACTIVITY {+133},{+134}In(|b{+-}),(|b{+-}n) [from {+238}U(p,F),E=1 GeV]; measured E|g,I|g,En,In,|b|g-,|g|g-,n|g-coin. {+133}Sn deduced levels,J,|p,single particle levels and configurations. Comparisons with Shell Model calculations.</keywords>
+<doi>10.1023/A:1012661816716</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2001GR06</keyno>
+<history>A20010301</history>
+<coden>JOUR PRVCA 63 037302</coden>
+<refrence>Phys.Rev. C63, 037302 (2001)</refrence>
+<authors>S.Grevy, N.L.Achouri, J.C.Angelique, C.Borcea, A.Buta, F.De Oliveira, M.Lewitowicz, E.Lienard, T.Martin, F.Negoita, N.A.Orr, J.Peter, S.Pietri, C.Timis</authors>
+<title>Observation of a New Transition in the |b-Delayed Neutron Decay of {+16}C</title>
+<keywords>RADIOACTIVITY {+15}B,{+16}C,{+17}N(|b{+-}n) [from {+18}O fragmentation]; measured |b-delayed neutron spectra. {+16}N deduced level,J,|p. Comparison with shell model predictions.</keywords>
+<doi>10.1103/PhysRevC.63.037302</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2001LH02</keyno>
+<history>A20010425</history>
+<coden>JOUR PRVCA 63 054302</coden>
+<refrence>Phys.Rev. C63, 054302 (2001)</refrence>
+<authors>G.Lhersonneau, B.Pfeiffer, H.Gabelmann, K.-L.Kratz, and the ISOLDE Collaboration</authors>
+<title>Identical Transitions in the Strongly Deformed {+99}Sr and {+100}Sr</title>
+<keywords>RADIOACTIVITY {+100}Rb(|b{+-}),(|b{+-}n) [from {+238}U(p,F)]; measured E|g,I|g,|g|g-,|b|g-coin. {+99},{+100}Sr deduced levels,J,|p,configurations,rotational band features. Comparisons with neighboring nuclides. Mass-separated sources.</keywords>
+<doi>10.1103/PhysRevC.63.054302</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2001NU02</keyno>
+<history>A20011029</history>
+<coden>JOUR PRVCA 64 054313</coden>
+<refrence>Phys.Rev. C64, 054313 (2001)</refrence>
+<authors>S.Nummela, F.Nowacki, P.Baumann, E.Caurier, J.Cederkall, S.Courtin, P.Dessagne, A.Jokinen, A.Knipper, G.Le Scornet, L.G.Lyapin, Ch.Miehe, M.Oinonen, E.Poirier, Z.Radivojevic, M.Ramdhane, W.H.Trzaska, G.Walter, J.Aysto, and the ISOLDE Collaboration</authors>
+<title>Intruder Features in the Island of Inversion: The case of {+33}Mg</title>
+<keywords>RADIOACTIVITY {+33}Na(|b{+-}),(|b{+-}n) [from U(p,X)]; measured E|g,I|g,|g|g-,|b|g-,(neutron)|g-coin. {+31},{+32},{+33}Mg deduced levels,J,|p,configurations. Mass-separated source. Comparison with shell-model calculations.</keywords>
+<doi>10.1103/PhysRevC.64.054313</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2001WI21</keyno>
+<history>A20011127</history>
+<coden>JOUR PRVCA 64 064318</coden>
+<refrence>Phys.Rev. C64, 064318 (2001)</refrence>
+<authors>J.A.Winger, P.F.Mantica, R.M.Ronningen, M.A.Caprio</authors>
+<title>Low-Energy Structure of {+40}S Through {+40}P |b Decay</title>
+<keywords>RADIOACTIVITY {+40}P(|b{+-}),(|b{+-}n) [from {+48}Ca fragmentation]; measured E|g,I|g,|g|g-,|b|g-coin; deduced T{-1/2},log ft,delayed neutron emission probability. {+40}P deduced ground state J,|p. {+40}S deduced levels,J,|p. Comparisons with previous results,neighboring nuclides,geometrical collective model calculations.</keywords>
+<doi>10.1103/PhysRevC.64.064318</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2002AO03</keyno>
+<history>A20020815</history>
+<coden>JOUR PRVCA 66 014301</coden>
+<refrence>Phys.Rev. C66, 014301 (2002)</refrence>
+<authors>N.Aoi, K.Yoneda, E.Ideguchi, T.Kishida, T.Nakamura, M.Notani, H.Sakurai, T.Teranishi, Y.Watanabe, H.Wu, A.Yoshida, H.Miyatake, Y.Yamamoto, H.Ogawa, S.S.Yamamoto, M.Ishihara</authors>
+<title>Anomaly of N = 8 Shell Closure in Neutron-Rich Be and B Isotopes Studied via Delayed Neutron Emitting {+14}Be |b Decay</title>
+<keywords>RADIOACTIVITY {+14}Be(|b{+-}),(|b{+-}n) [from Be({+18}O,X)]; measured E|b,|b-delayed En,E|g,n|g-coin,T{-1/2}; deduced branching ratios,log ft. {+14}B deduced level J,|p,width. {+12},{+13},{+14}B,{+13}C deduced feeding intensities.</keywords>
+<doi>10.1103/PhysRevC.66.014301</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2002BE53</keyno>
+<history>A20020708</history>
+<coden>JOUR NUPAB 701 363c</coden>
+<refrence>Nucl.Phys. A701, 363c (2002)</refrence>
+<authors>U.C.Bergmann, L.Axelsson, J.R.J.Bennett, M.J.G.Borge, R.Catherall, P.V.Drumm, V.N.Fedoseyev, C.Forssen, L.M.Fraile, H.O.U.Fynbo, U.Georg, T.Giles, S.Grevy, P.Hornshoj, B.Jonson, O.C.Jonsson, U.Koster, J.Lettry, K.Markenroth, F.M.Marques, V.I.Mishin, I.Mukha, T.Nilsson, G.Nyman, A.Oberstedt, H.L.Ravn, K.Riisager, G.Schrieder, V.Sebastian, H.Simon, O.Tengblad, F.Wenander, K.Wilhelmsen Rolander</authors>
+<title>Light Exotic Isotopes: Recent beam developments and physics applications at ISOLDE</title>
+<keywords>RADIOACTIVITY {+12}Be(|b{+-}),(|b{+-}n); measured E|b,|b-delayed neutron spectra,T{-1/2}. {+14}Be(|b{+-}); measured |b-delayed neutrons,charged particles; deduced decay branching ratios. {+9}C(|b{++}); measured Ep,E|a following daughter nucleus decay.</keywords>
+<doi>10.1016/S0375-9474(01)01611-6</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2002DI12</keyno>
+<history>A20020419</history>
+<coden>JOUR ZAANE 13 281</coden>
+<refrence>Eur.Phys.J. A 13, 281 (2002)</refrence>
+<authors>I.Dillmann, M.Hannawald, U.Koster, V.N.Fedoseyev, A.Wohr, B.Pfeiffer, D.Fedorov, J.Shergur, L.Weissman, W.B.Walters, K.-L.Kratz</authors>
+<title>Selective Laser Ionization of N |> 82 Indium Isotopes: The new r-process nuclide {+135}In</title>
+<keywords>RADIOACTIVITY {+135},{+134},{+133},{+132}In(|b{+-}n) [from {+238}U(n,F)]; measured |b-delayed neutron intensity vs time, T{-1/2}.  Comparison with RPA results, earlier data.  ISOL method, laser ionization source.</keywords>
+<doi>10.1007/s10050-002-8756-7</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2002JE11</keyno>
+<history>A20021002</history>
+<coden>JOUR NUPAB 709 119</coden>
+<refrence>Nucl.Phys. A709, 119 (2002)</refrence>
+<authors>H.Jeppesen, U.C.Bergmann, M.J.G.Borge, J.Cederkall, V.N.Fedoseyev, H.O.U.Fynbo, V.Y.Hansper, B.Jonson, K.Markenroth, V.I.Mishin, T.Nilsson, G.Nyman, K.Riisager, O.Tengblad, K.Wilhelmsen Rolander, and the ISOLDE Collaboration</authors>
+<title>Search for Beta-Delayed Charged Particles from the Halo Nucleus {+14}Be</title>
+<keywords>RADIOACTIVITY {+14}Be(|b{+-}),(|b{+-}n) [from Ta(p,X)]; measured |b-delayed charged particle spectra,branching ratios,|b-delayed neutron spectra. Mass separated source,Si-gas telescope,time distribution analysis.</keywords>
+<doi>10.1016/S0375-9474(02)01093-X</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2002NU02</keyno>
+<history>A20020708</history>
+<coden>JOUR NUPAB 701 410c</coden>
+<refrence>Nucl.Phys. A701, 410c (2002)</refrence>
+<authors>S.Nummela, P.Baumann, E.Caurier, S.Courtin, P.Dessagne, O.Holmlund, A.Jokinen, A.Knipper, G.Le Scornet, C.Mieh, F.Nowacki, L.G.Lyapin, M.Oinonen, E.Poirier, Z.Radivojevic, M.Ramdhane, W.H.Trzaska, G.Walter, J.Aysto, and the ISOLDE Collaboration</authors>
+<title>Study of the Neutron-Rich Nuclei with N = 21, {+35}Si and {+33}Mg, by  Beta Decay of {+35}Al and {+33}Na</title>
+<keywords>RADIOACTIVITY {+35}Al,{+33}Na(|b{+-}),(|b{+-}n); measured E|g,I|g,|b-delayed neutron spectra,T{-1/2}. {+35}Si,{+33}Mg deduced levels,J,|p.</keywords>
+<doi>10.1016/S0375-9474(01)01619-0</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2002RA16</keyno>
+<history>A20020423</history>
+<coden>JOUR NIMAE 481 464</coden>
+<refrence>Nucl.Instrum.Methods Phys.Res. A481, 464 (2002)</refrence>
+<authors>Z.Radivojevic, P.Baumann, E.Caurier, J.Cederkall, S.Courtin, Ph.Dessagne, A.Jokinen, A.Knipper, G.Le Scornet, V.Lyapin, Ch.Miehe, F.Nowacki, S.Nummela, M.Oinonen, E.Poirier, M.Ramdhane, W.H.Trzaska, G.Walter, J.Aysto, and the ISOLDE Collaboration</authors>
+<title>Beta-Delayed Neutron Decay of {+33}Na</title>
+<keywords>RADIOACTIVITY {+33}Na(|b{+-}n),(|b{+-}) [from U(p,X)]; measured |b-delayed En,E|g,n|g-,|b|g-coin,T{-1/2}; deduced one- and two-neutron emission probabilities. {+33}Mg levels deduced feeding intensities.</keywords>
+<doi>10.1016/S0168-9002(01)01347-X</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2002SH08</keyno>
+<history>A20020308 M20130802</history>
+<coden>JOUR PRVCA 65 034313</coden>
+<refrence>Phys.Rev. C65, 034313 (2002)</refrence>
+<authors>J.Shergur, B.A.Brown, V.Fedoseyev, U.Koster, K.L.Kratz, D.Seweryniak, W.B.Walters, A.Wohr, D.Fedorov, M.Hannawald, M.Hjorth-Jensen, V.Mishin, B.Pfeiffer, J.J.Ressler, H.O.U.Fynbo, P.Hoff, H.Mach, T.Nilsson, K.Wilhelmsen-Rolander, H.Simon, A.Bickley, and the ISOLDE Collaboration</authors>
+<title>|b-Decay Studies of {+135-137}Sn using Selective Resonance Laser Ionization Techniques</title>
+<keywords>RADIOACTIVITY {+135},{+136},{+137}Sn(|b{+-}),(|b{+-}n) [from U(p,X)]; measured |b-delayed neutron spectra,E|g,I|g,|g|g-coin,T{-1/2}; deduced delayed neutron emission probabilities. {+135}Sb deduced levels, J,|p, |b-branching ratio. Resonance laser ionization,mass separator.</keywords>
+<keywords>RADIOACTIVITY  {+137}Sb(|b{+-}),(|b{+-}n); estimated T{-1/2}  and %P(n) from extrapolation.</keywords>
+<doi>10.1103/PhysRevC.65.034313</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2003BA42</keyno>
+<history>A20030613</history>
+<coden>JOUR PYLBB 563 23</coden>
+<refrence>Phys.Lett. B 563, 23 (2003)</refrence>
+<authors>H.O.Back, M.Balata, A.de Bari, T.Beau, A.de Bellefon, G.Bellini, J.Benziger, S.Bonetti, C.Buck, B.Caccianiga, L.Cadonati, F.Calaprice, G.Cecchet, M.Chen, A.Di Credico, O.Dadoun, D.D'Angelo, V.Yu.Denisov, A.Derbin, M.Deutsch, F.Elisei, A.Etenko, F.von Feilitzsch, R.Fernholz, R.Ford, D.Franco, B.Freudiger, C.Galbiati, F.Gatti, S.Gazzana, M.G.Giammarchi, D.Giugni, M.Goeger-Neff, A.Goretti, C.Grieb, C.Hagner, G.Heusser, A.Ianni, A.M.Ianni, H.de Kerret, J.Kiko, T.Kirsten, V.Kobychev, G.Korga, G.Korschinek, Y.Kozlov, D.Kryn, M.Laubenstein, E.Litvinovich, C.Lendvai, P.Lombardi, I.Machulin, S.Malvezzi, J.Maneira, I.Manno, D.Manuzio, G.Manuzio, F.Masetti, A.Martemianov, U.Mazzucato, K.McCarty, E.Meroni, L.Miramonti, M.E.Monzani, P.Musico, L.Niedermeier, L.Oberauer, M.Obolensky, F.Ortica, M.Pallavicini, L.Papp, L.Perasso, A.Pocar, O.A.Ponkratenko, R.S.Raghavan, G.Ranucci, A.Razeto, A.Sabelnikov, C.Salvo, R.Scardaoni, D.Schimizzi, S.Schoenert, H.Simgen, T.Shutt, M.Skorokhvatov, O.Smirnov, A.Sonnenschein, A.Sotnikov, S.Sukhotin, V.Tarasenkov, R.Tartaglia, G.Testera, V.I.Tretyak, D.Vignaud, R.B.Vogelaar, V.Vyrodov, M.Wojcik, O.Zaimidoroga, Yu.G.Zdesenko, G.Zuzel</authors>
+<title>New limits on nucleon decays into invisible channels with the BOREXINO counting test facility</title>
+<keywords>RADIOACTIVITY {+12}C(n); {+13}C(p); measured T{-1/2} lower limits for bound nucleon decay to invisible channels.</keywords>
+<doi>10.1016/S0370-2693(03)00636-1</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2003BE05</keyno>
+<history>A20030204</history>
+<coden>JOUR NUPAB 714 21</coden>
+<refrence>Nucl.Phys. A714, 21 (2003)</refrence>
+<authors>U.C.Bergmann, C.Aa.Diget, K.Riisager, L.Weissman, G.Aubock, J.Cederkall, L.M.Fraile, H.O.U.Fynbo, H.Gausemel, H.Jeppesen, U.Koster, K.-L.Kratz, P.Moller, T.Nilsson, B.Pfeiffer, H.Simon, K.Van de Vel, J.Aysto, and the ISOLDE Collaboration</authors>
+<title>Beta-decay properties of the neutron-rich {+94-99}Kr and {+142-147}Xe isotopes</title>
+<keywords>RADIOACTIVITY {+94},{+95},{+96},{+97},{+98},{+99}Kr,{+142},{+143},{+144},{+145},{+146},{+147}Xe(|b{+-}),(|b{+-}n) [from U(p,X)]; measured E|b,|b-delayed neutron spectra,neutron emission probability,T{-1/2}. Mass separation,QRPA calculations,astrophysical implications discussed.</keywords>
+<keywords>NUCLEAR REACTIONS U(p,X){+94}Kr/{+95}Kr/{+96}Kr/{+97}Kr/{+98}Kr/{+99}Kr/{+142}Xe/{+143}Xe/{+144}Xe/{+145}Xe/{+146}Xe/{+147}Xe,E=1,1.4 GeV; measured yields. Mass separator.</keywords>
+<doi>10.1016/S0375-9474(02)01352-0</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2003MI01</keyno>
+<history>A20030207</history>
+<coden>JOUR PRVCA 67 014306</coden>
+<refrence>Phys.Rev. C 67, 014306 (2003)</refrence>
+<authors>H.Miyatake, H.Ueno, Y.Yamamoto, N.Aoi, K.Asahi, E.Ideguchi, M.Ishihara, H.Izumi, T.Kishida, T.Kishida, T.Kubo, S.Mitsuoka, Y.Mizoi, M.Notani, H.Ogawa, A.Ozawa, M.Sasaki, T.Shimoda, T.Shirakura, N.Takahashi, S.Tanimoto, K.Yoneda</authors>
+<title>Spin-parity assignments in {+15}C{+*} by a new method: |b-delayed spectroscopy for a spin-polarized nucleus</title>
+<keywords>RADIOACTIVITY {+15}B,{+17}N(|b{+-}n) [from {+9}Be({+22}Ne,X)]; measured |b asymmetry,|b-delayed neutron spectra from spin-polarized source. {+15}C levels deduced J,|p. |b-NMR technique.</keywords>
+<doi>10.1103/PhysRevC.67.014306</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2003PE18</keyno>
+<history>A20030919</history>
+<coden>JOUR YAFIA 66 1467</coden>
+<refrence>Yad.Fiz. 66, 1467 (2003); Phys.Atomic Nuclei 66, 1421 (2003)</refrence>
+<authors>O.Perru, F.Ibrahim, O.Bajeat, C.Bourgeois, F.Clapier, E.Cottereau, C.Donzaud, M.Ducourtieux, S.Gales, D.Guillemaud-Mueller, C.Lau, H.Lefort, F.Le Blanc, A.C.Mueller, J.Obert, N.Pauwels, J.C.Potier, F.Pougheon, J.Proust, B.Roussiere, J.Sauvage, O.Sorlin, D.Verney</authors>
+<title>Decay of Neutron-Rich Ga Isotopes near N = 50 at PARRNe</title>
+<keywords>RADIOACTIVITY {+83},{+84}Ga(|b{+-}),(|b{+-}n) [from {+238}U(n,F)]; measured E|g,I|g,|g|g-,|b|g-coin,T{-1/2}. {+82},{+83},{+84}Ge deduced transitions. Mass-separated sources.</keywords>
+<doi>10.1134/1.1601744</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2003WE09</keyno>
+<history>A20030606</history>
+<coden>JOUR PRVCA 67 054314</coden>
+<refrence>Phys.Rev. C 67, 054314 (2003)</refrence>
+<authors>L.Weissman, U.Bergmann, J.Cederkall, L.M.Fraile, S.Franchoo, H.Fynbo, H.Gausemel, H.Jeppesen, U.Koster, K.-L.Kratz, T.Nilsson, B.Pfeiffer, K.Van del Vel, and the ISOLDE Collaboration</authors>
+<title>|b decay of {+49,50}Ar</title>
+<keywords>RADIOACTIVITY {+49},{+50}Ar(|b{+-}),(|b{+-}n) [from U(p,X)]; measured T{-1/2},|b-delayed neutron probability. Mass separator. Comparison with quasiparticle RPA model predictions.</keywords>
+<keywords>NUCLEAR REACTIONS U(p,X),E=1.4 GeV; measured fragment yields.</keywords>
+<doi>10.1103/PhysRevC.67.054314</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2003YO02</keyno>
+<history>A20030207</history>
+<coden>JOUR PRVCA 67 014316</coden>
+<refrence>Phys.Rev. C 67, 014316 (2003)</refrence>
+<authors>K.Yoneda, N.Aoi, H.Iwasaki, H.Sakurai, H.Ogawa, T.Nakamura, W.-D.Schmidt-Ott, M.Schafer, M.Notani, N.Fukuda, E.Ideguchi, T.Kishida, S.S.Yamamoto, M.Ishihara</authors>
+<title>|b-decay half-lives and |b-delayed neutron multiplicities of the neutron drip-line nuclei {+19}B, {+22}C, and {+23}N</title>
+<keywords>RADIOACTIVITY {+15},{+19}B,{+20},{+22}C,{+22},{+23}N(|b{+-}),(|b{+-}n) [from Ta({+40}Ar,X)]; measured |b-decay T{-1/2},|b-delayed neutron multiplicities. Comparison with previous work,model predictions.</keywords>
+<doi>10.1103/PhysRevC.67.014316</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2004CO29</keyno>
+<history>A20051222 M20160621</history>
+<coden>JOUR BJPHE 34 850</coden>
+<refrence>Braz.J.Phys. 34, 850 (2004)</refrence>
+<authors>S.Courtin, P.Baumann, Ph.Dessagne, F.Marechal, Ch.Miehe, F.Perrot, E.Poirier, M.Ramdhane, and the ISOLDE Collaboration</authors>
+<title>Beta Decay and Structure of Exotic Nuclei in the Mass Regions N=Z,A |J 70 and Near the N=20 Closed Shell</title>
+<keywords>RADIOACTIVITY {+74}Kr(EC),(|b{++}) [from Nb(p,X)]; measured |b|g-coin; deduced Gamow-Teller strength distribution. {+33}Na(|b{+-}),(|b{+-}n) [from U(p,X)]; measured |b|g-,n|b-,|g|g-coin,T{-1/2}. {+33}Mg deduced ground-state J,|p. Total absorption spectrometer.</keywords>
+<doi>10.1590/s0103-97332004000500037</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2004FY01</keyno>
+<history>A20040507</history>
+<coden>JOUR NUPAB 736 39</coden>
+<refrence>Nucl.Phys. A736, 39 (2004)</refrence>
+<authors>H.O.U.Fynbo, M.J.G.Borge, J.Cederkall, S.Courtin, P.Dessagne, B.Jonson, G.Le Scornet, T.Nilsson, G.Nyman, E.Poirier, K.Riisager, O.Tengblad, K.Wilhelmsen, and the ISOLDE Collaboration</authors>
+<title>New information on the |b-decay of {+11}Li from Doppler broadened |g  lines</title>
+<keywords>RADIOACTIVITY {+11}Li(|b{+-}),(|b{+-}n) [from Ta(p,X)]; measured |b-delayed E|g,I|g,|b|g-coin,DSA; deduced neutron spectrum. {+10}Be deduced excited states T{-1/2}.</keywords>
+<doi>10.1016/j.nuclphysa.2004.02.020</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2004GR08</keyno>
+<history>A20040426 M20080306</history>
+<coden>JOUR NUPAB 734 369</coden>
+<refrence>Nucl.Phys. A734, 369 (2004)</refrence>
+<authors>S.Grevy, S.Pietri, L.Achouri, J.C.Angelique, P.Baumann, C.Borcea, A.Buta, W.Catford, S.Courtin, J.M.Daugas, F.De Oliveira, P.Dessagne, Z.Dlouhy, D.Guillemaud-Mueller, R.Hadeler, A.Knipper, F.R.Lecolley, J.L.Lecouey, M.Lewitowicz, E.Lienard, C.Miehe, J.Mrazek, F.Negoita, N.A.Orr, Y.Penionzhkevich, J.Peter, E.Poirier, M.Stanoiu, O.Tarasov, C.Timis, G.Walter</authors>
+<title>Spectroscopy at the N = 20 shell closure: the |b-decay of {+32}Mg</title>
+<keywords>RADIOACTIVITY {+32}Mg(|b{+-}),(|b{+-}n) [from Be({+36}S,X)]; measured E|g,I|g,|g|g-coin,T{-1/2},|b-delayed neutron spectra; deduced neutron emission probability. {+32}Al deduced levels,J,|p,|b-feeding intensities.</keywords>
+<doi>10.1016/j.nuclphysa.2004.01.068</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2004HI12</keyno>
+<history>A20040730</history>
+<coden>JOUR NUPAB 738 201</coden>
+<refrence>Nucl.Phys. A738, 201 (2004)</refrence>
+<authors>Y.Hirayama, T.Shimoda, H.Izumi, H.Yano, M.Yagi, A.Hatakeyama, C.D.P.Levy, K.P.Jackson, H.Miyatake</authors>
+<title>Spectroscopic study of {+11}Be through |b-delayed neutron and |g-decays of spin-polarized {+11}Li</title>
+<keywords>RADIOACTIVITY {+11}Li(|b{+-}),(|b{+-}n); measured |b-delayed En,E|g,|b|g-,n|b-coin following decay of spin-polarized source; deduced log ft. {+11}Be deduced levels,J,|p,neutron spectroscopic factors. {+10}Be deduced levels,transition intensities.</keywords>
+<doi>10.1016/j.nuclphysa.2004.04.032</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2004HI24</keyno>
+<history>A20041230</history>
+<coden>JOUR NUPAB 746 71c</coden>
+<refrence>Nucl.Phys. A746, 71c (2004)</refrence>
+<authors>Y.Hirayama, T.Shimoda, H.Izumi, H.Yano, M.Yagi, A.Hatakeyama, C.D.P.Levy, K.P.Jackson, H.Miyatake</authors>
+<title>Structure of {+11}Be studied in |b-delayed neutron- and |g- decay from polarized {+11}Li</title>
+<keywords>RADIOACTIVITY {+11}Li(|b{+-}),(|b{+-}n); measured |b-delayed E|g,En,asymmetry following decay of spin-polarized source. {+10},{+11}Be deduced levels,J,|p. Comparison with antisymmetrized molecular dynamics model predictions.</keywords>
+<doi>10.1016/j.nuclphysa.2004.09.018</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2004MR01</keyno>
+<history>A20040625 M20040723</history>
+<coden>JOUR NUPAB 734 E65</coden>
+<refrence>Nucl.Phys. A734, E65 (2004)</refrence>
+<authors>J.Mrazek, S.Grevy, S.Iulian, A.Buta, F.Negoita, J.C.Angelique, P.Baumann, C.Borcea, G.Canchel, W.Catford, S.Courtin, J.M.Daugas, Z.Dlouhy, P.Dessagne, A.Knipper, G.Lehrsenneau, F.R.Lecolley, J.L.Lecouey, M.Lewitowicz, E.Lienard, S.Lukyanov, F.Marechal, C.Miehe, F.de Oliveira, N.A.Orr, D.Pantelica, Y.Penionzhkevich, J.Peter, S.Pietri, E.Poirier, O.Sorlin, M.Stanoiu, O.Stodel, O.Tarasov, C.Timis</authors>
+<title>Study of neutron-rich argon isotopes in |b-decay</title>
+<keywords>RADIOACTIVITY {+44},{+45},{+46}Cl(|b{+-}),(|b{+-}n) [from Be({+48}Ca,X)]; measured E|g,I|g,|b|g-,n|g-,|g|g-coin. {+44},{+45},{+46}Ar deduced levels,J,|p.</keywords>
+<doi>10.1016/j.nuclphysa.2004.03.021</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2004SA46</keyno>
+<history>A20041008</history>
+<coden>JOUR PRVCA 70 031302</coden>
+<refrence>Phys.Rev. C 70, 031302 (2004)</refrence>
+<authors>F.Sarazin, J.S.Al-Khalili, G.C.Ball, G.Hackman, P.M.Walker, R.A.E.Austin, B.Eshpeter, P.Finlay, P.E.Garrett, G.F.Grinyer, K.A.Koopmans, W.D.Kulp, J.R.Leslie, D.Melconian, C.J.Osborne, M.A.Schumaker, H.C.Scraggs, J.Schwarzenberg, M.B.Smith, C.E.Svensson, J.C.Waddington, J.L.Wood</authors>
+<title>Halo neutrons and the |b decay of {+11}Li</title>
+<keywords>RADIOACTIVITY {+11}Li(|b{+-}),(|b{+-}n) [from Ta(p,X)]; measured E|g,I|g,|b-delayed neutron spectra. {+10},{+11}Be deduced levels,J,|p,halo features.</keywords>
+<doi>10.1103/PhysRevC.70.031302</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2005GA61</keyno>
+<history>A20060623</history>
+<coden>JOUR BRSPE 69 714</coden>
+<refrence>Bull.Rus.Acad.Sci.Phys. 69, 714 (2005)</refrence>
+<authors>Yu.P.Gangrsky, K.Gladnishki, V.I.Zhemenik, G.V.Myshinsky, Yu.E.Penionzhkevich, E.A.Sokol</authors>
+<title>Detection of |b-delayed two-neutron emission from {+238}U photofission fragments</title>
+<keywords>RADIOACTIVITY {+136}Sb(|b{+-}2n) [from {+238}U(|g,F)]; measured |b-delayed En,nn-coin; deduced branching ratio.</keywords>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2005HI03</keyno>
+<history>A20050331</history>
+<coden>JOUR PYLBB 611 239</coden>
+<refrence>Phys.Lett. B 611, 239 (2005)</refrence>
+<authors>Y.Hirayama, T.Shimoda, H.Izumi, A.Hatakeyama, K.P.Jackson, C.D.P.Levy, H.Miyatake, M.Yagi, H.Yano</authors>
+<title>Study of {+11}Be structure through |b-delayed decays from polarized {+11}Li</title>
+<keywords>RADIOACTIVITY {+11}Li(|b{+-}),(|b{+-}n); measured |b-delayed E|g,En,asymmetry following decay of spin-polarized source. {+10},{+11}Be deduced levels,J,|p,S-factors. Comparison with antisymmetrized molecular dynamics model predictions.</keywords>
+<doi>10.1016/j.physletb.2005.02.040</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2005LI60</keyno>
+<history>A20060106</history>
+<coden>JOUR PRVCA 72 064327</coden>
+<refrence>Phys.Rev. C 72, 064327 (2005)</refrence>
+<authors>Z.H.Li, Y.L.Ye, H.Hua, D.X.Jiang, Y.M.Zhang, F.R.Xu, Q.Y.Hu, G.L.Zhang, Z.Q.Chen, T.Zheng, C.E.Wu, J.L.Lou, X.Q.Li, D.Y.Pang, S.Wang, C.Li, H.S.Xu, Z.Y.Sun, L.M.Duan, Z.G.Hu, R.J.Hu, H.G.Xu, R.S.Mao, Y.Wang, X.H.Yuan, H.Gao, L.J.Wu, H.R.Qi, T.H.Huang, F.Fu, F.Jia, Q.Gao, X.L.Ding, J.L.Han, X.Y.Zhang</authors>
+<title>|b-decay of the neutron-rich nucleus {+18}N</title>
+<keywords>RADIOACTIVITY {+18}N(|b{+-}),(|b{+-}n) [from Be({+22}Ne,X)]; measured T{-1/2},|b-delayed neutron spectra,E|g,I|g; deduced branching ratios,Gamow-Teller strengths. {+18}O deduced levels,J,|p. Comparison with shell model calculations.</keywords>
+<doi>10.1103/PhysRevC.72.064327</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2005MA95</keyno>
+<history>A20051215</history>
+<coden>JOUR ZAANE 25 s01 93</coden>
+<refrence>Eur.Phys.J. A 25, Supplement 1, 93 (2005)</refrence>
+<authors>C.Mazzocchi, R.Grzywacz, J.C.Batchelder, C.R.Bingham, D.Fong, J.H.Hamilton, J.K.Hwang, M.Karny, W.Krolas, S.N.Liddick, A.C.Morton, P.F.Mantica, W.F.Mueller, K.P.Rykaczewski, M.Steiner, A.Stolz, J.A.Winger</authors>
+<title>Beta-delayed |g and neutron emission near the double shell closure at {+78}Ni</title>
+<keywords>RADIOACTIVITY {+71},{+72},{+73},{+74}Co(|b{+-}),(|b{+-}n) [from {+9}Be({+86}Kr,X)]; measured E|g,E|b,|b|g-coin; deduced |bn branching fraction. {+70},{+71},{+72},{+73},{+74}Ni deduced levels,J,|p.</keywords>
+<doi>10.1140/epjad/i2005-06-212-0</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2005MA96</keyno>
+<history>A20051215</history>
+<coden>JOUR ZAANE 25 s01 105</coden>
+<refrence>Eur.Phys.J. A 25, Supplement 1, 105 (2005)</refrence>
+<authors>H.Mach, L.M.Fraile, O.Tengblad, R.Boutami, C.Jollet, W.A.Plociennik, D.T.Yordanov, M.Stanoiu, M.J.G.Borge, P.A.Butler, J.Cederkall, Ph.Dessagne, B.Fogelberg, H.Fynbo, P.Hoff, A.Jokinen, A.Korgul, U.Koster, W.Kurcewicz, F.Marechal, T.Motobayashi, J.Mrazek, G.Neyens, T.Nilsson, S.Pedersen, A.Poves, B.Rubio, E.Ruchowska, and the ISOLDE Collaboration</authors>
+<title>New structure information on {+30}Mg, {+31}Mg and {+32}Mg</title>
+<keywords>RADIOACTIVITY {+30},{+31},{+32}Na(|b{+-}); {+31},{+32}Na(|b{+-}n); measured E|g,I|g,|g|g-,|b|g-coin. {+30},{+31},{+32}Mg deduced levels T{-1/2}. Ultra-fast timing techniques.</keywords>
+<doi>10.1140/epjad/i2005-06-159-0</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2005SH23</keyno>
+<history>A20050715</history>
+<coden>JOUR PRVCA 71 064321</coden>
+<refrence>Phys.Rev. C 71, 064321 (2005)</refrence>
+<authors>J.Shergur, A.Wohr, W.B.Walters, K.-L.Kratz, O.Arndt, B.A.Brown, J.Cederkall, I.Dillmann, L.M.Fraile, P.Hoff, A.Joinet, U.Koster, B.Pfeiffer</authors>
+<title>Level structure of odd-odd {+134}Sb populated in the |b{+-} decays of {+134,135}Sn</title>
+<keywords>RADIOACTIVITY {+134}Sn(|b{+-}); {+135}Sn(|b{+-}),(|b{+-}n); measured E|g,I|g,|b|g-,|g|g-coin. {+134}Sb deduced levels,J,|p,|b-decaying isomeric state. Mass separator,shell model calculations.</keywords>
+<doi>10.1103/PhysRevC.71.064321</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2005SH53</keyno>
+<history>A20051215</history>
+<coden>JOUR ZAANE 25 s01 121</coden>
+<refrence>Eur.Phys.J. A 25, Supplement 1, 121 (2005)</refrence>
+<authors>J.Shergur, N.Hoteling, A.Wohr, W.B.Walters, O.Arndt, B.A.Brown, C.N.Davids, D.J.Dean, K.-L.Kratz, B.Pfeiffer, D.Seweryniak, and the ISOLDE Collaboration</authors>
+<title>New level information on Z = 51 isotopes, {+111}Sb{-60} and {+134,135}Sb{-83,84}</title>
+<keywords>RADIOACTIVITY {+111}Te(|b{++}) [from {+58}Ni({+56}Fe,2pn)]; {+135}Sn(|b{+-}),(|b{+-}n) [from U(p,F),E=1.4 GeV]; measured E|g,I|g,|g|g-coin following decay of mass-separated sources. {+111},{+134},{+135}Sb deduced levels,J,|p. Comparison with model calculations.</keywords>
+<doi>10.1140/epjad/i2005-06-071-7</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2005TI11</keyno>
+<history>A20051014</history>
+<coden>JOUR JPGPE 31 S1965</coden>
+<refrence>J.Phys.(London) G31, S1965 (2005)</refrence>
+<authors>C.Timis, J.C.Angelique, A.Buta, N.L.Achouri, D.Baiborodin, P.Baumann, C.Borcea, S.Courtin, P.Dessagne, Z.Dlouhy, J.M.Daugas, S.Grevy, D.Guillemaud-Mueller, A.Knipper, F.R.Lecolley, J.L.Lecouey, M.Lewitowicz, E.Lienard, S.M.Lukyanov, F.M.Marques, C.Miehe, J.Mrazek, F.Negoita, F.Nowacki, F.de Oliveira, N.A.Orr, J.Peter, S.Pietri, Yu.E.Penionzhkevich, E.Poirier, M.Stanoiu, G.Walter</authors>
+<title>Spectroscopy around N = 20 shell closure: |b-n decay study of {+35}Al</title>
+<keywords>RADIOACTIVITY {+35}Al(|b{+-}),(|b{+-}n) [from {+36}S fragmentation]; measured |b-delayed E|g,En,T{-1/2},neutron emission probability; deduced log ft. {+34},{+35}Si deduced levels,J,|p,feeding intensities.</keywords>
+<doi>10.1088/0954-3899/31/10/111</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2005VA19</keyno>
+<history>A20050610 M20050617</history>
+<coden>JOUR PRVCA 71 054307</coden>
+<refrence>Phys.Rev. C 71, 054307 (2005)</refrence>
+<authors>J.Van Roosbroeck, H.De Witte, M.Gorska, M.Huyse, K.Kruglov, D.Pauwels, J.-Ch.Thomas, K.Van de Vel, P.Van Duppen, S.Franchoo, J.Cederkall, V.N.Fedoseyev, H.Fynbo, U.Georg, O.Jonsson, U.Koster, L.Weissman, W.F.Mueller, V.I.Mishin, D.Fedorov, A.De Maesschalck, N.A.Smirnova, K.Heyde</authors>
+<title>Evolution of the nuclear structure approaching {+78}Ni: |b decay of {+74-78}Cu</title>
+<keywords>RADIOACTIVITY {+74},{+76},{+78}Cu(|b{+-}); {+78}Cu(|b{+-}n) [from {+238}U(n,F),(p,F)]; measured E|g,I|g,|b|g-coin,T{-1/2}. {+74},{+76},{+77},{+78}Zn deduced levels,J,|p,configurations. Mass separator,comparisons with model predictions.</keywords>
+<doi>10.1103/PhysRevC.71.054307</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2006MO07</keyno>
+<history>A20060407</history>
+<coden>JOUR PRVCA 73 035801</coden>
+<refrence>Phys.Rev. C 73, 035801 (2006)</refrence>
+<authors>F.Montes, A.Estrade, P.T.Hosmer, S.N.Liddick, P.F.Mantica, A.C.Morton, W.F.Mueller, M.Ouellette, E.Pellegrini, P.Santi, H.Schatz, A.Stolz, B.E.Tomlin, O.Arndt, K.-L.Kratz, B.Pfeiffer, P.Reeder, W.B.Walters, A.Aprahamian, A.Wohr</authors>
+<title>|b-decay half-lives and |b-delayed neutron emission probabilities for neutron rich nuclei close to the N = 82 r-process path</title>
+<keywords>RADIOACTIVITY {+114},{+115}Tc,{+114},{+115},{+116},{+117},{+118}Ru,{+116},{+117},{+118},{+119},{+120},{+121}Rh,{+119},{+120},{+121},{+122},{+123},{+124}Pd,{+121},{+122},{+123},{+124}Ag(|b{+-}) [from Be({+136}Xe,X)]; measured T{-1/2}. {+116},{+117},{+118},{+119},{+120}Rh,{+121},{+122},{+123}Pd,{+122},{+123},{+124}Ag(|b{+-}n); measured |b-delayed neutron emission probability. Astrophysical implications discussed.</keywords>
+<doi>10.1103/PhysRevC.73.035801</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2006PE16</keyno>
+<history>A20060804</history>
+<coden>JOUR PRVCA 74 014313</coden>
+<refrence>Phys.Rev. C 74, 014313 (2006)</refrence>
+<authors>F.Perrot, F.Marechal, C.Jollet, Ph.Dessagne, J.-C.Angelique, G.Ban, P.Baumann, F.Benrachi, U.Bergmann, C.Borcea, A.Buta, J.Cederkall, S.Courtin, J.-M.Daugas, L.M.Fraile, S.Grevy, A.Jokinen, F.R.Lecolley, E.Lienard, G.Le Scornet, V.Meot, Ch.Miehe, F.Negoita, N.A.Orr, S.Pietri, E.Poirier, M.Ramdhane, O.Roig, I.Stefan, W.Wang</authors>
+<title>|b-decay studies of neutron-rich K isotopes</title>
+<keywords>RADIOACTIVITY {+51},{+52},{+53}K(|b{+-}),(|b{+-}n) [from U(p,X)]; measured |b-delayed E|g,En,|g|g-,n|g-coin,T{-1/2}; deduced one- and two-neutron emission probabilities. {+50},{+51},{+52},{+53}Ca deduced transitions,levels.</keywords>
+<doi>10.1103/PhysRevC.74.014313</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2006PE20</keyno>
+<history>A20060825</history>
+<coden>JOUR ZAANE 28 307</coden>
+<refrence>Eur.Phys.J. A 28, 307 (2006)</refrence>
+<authors>O.Perru, D.Verney, F.Ibrahim, O.Bajeat, C.Bourgeois, F.Clapier, E.Cottereau, C.Donzaud, S.Du, M.Ducourtieux, S.Essabaa, S.Gales, D.Guillemaud-Mueller, O.Hubert, C.Lau, H.Lefort, F.Le Blanc, A.C.Mueller, J.Obert, N.Pauwels, J.C.Potier, F.Pougheon, J.Proust, B.Roussiere, J.Sauvage, O.Sorlin</authors>
+<title>Study of the N = 50 major shell effect toward {+78}Ni at PARRNe: Evidence of a weak-coupling structure in {+83}{-32}Ge{-51}</title>
+<keywords>RADIOACTIVITY {+83}Ga(|b{+-}); {+84}Ga(|b{+-}n) [from {+238}U(n,F),E=fast]; measured E|g,I|g,E|b,I|b,|g|g-coin,|b|g-coin. {+83}Ge deduced levels,J,|p,transitions. Isotope separator.</keywords>
+<doi>10.1140/epja/i2005-10285-9</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2006SU12</keyno>
+<history>A20060908</history>
+<coden>JOUR PRVCA 74 024322</coden>
+<refrence>Phys.Rev. C 74, 024322 (2006)</refrence>
+<authors>C.S.Sumithrarachchi, D.W.Anthony, P.A.Lofy, D.J.Morrissey</authors>
+<title>|b-delayed neutron decay of {+19}N and {+20}N</title>
+<keywords>RADIOACTIVITY {+19},{+20}N(|b{+-}),(|b{+-}n) [from Be({+22}Ne,X)]; measured |b-delayed En,E|g,|b|g-,n|g-,n|b-coin,T{-1/2}; deduced |b-emission and |g-emission probabilities,B(GT). {+18},{+19},{+20}O deduced levels,|b-feeding intensities. Shell model analysis.</keywords>
+<doi>10.1103/PhysRevC.74.024322</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2006TR02</keyno>
+<history>A20060609</history>
+<coden>JOUR PRVCA 73 054303</coden>
+<refrence>Phys.Rev. C 73, 054303 (2006)</refrence>
+<authors>V.Tripathi, S.L.Tabor, C.R.Hoffman, M.Wiedeking, A.Volya, P.F.Mantica, A.D.Davies, S.N.Liddick, W.F.Mueller, A.Stolz, B.E.Tomlin, T.Otsuka, Y.Utsuno</authors>
+<title>|b-delayed |g spectroscopy of neutron rich {+27,28,29}Na</title>
+<keywords>RADIOACTIVITY {+27},{+28},{+29}Ne(|b{+-}); {+28},{+29}Ne(|b{+-}n); {+29}Ne(|b{+-}2n) [from Be({+48}Ca,X)]; measured |b-delayed E|g,I|g,T{-1/2}; deduced log ft,branching ratios. {+27},{+28},{+29}Na deduced levels,J,|p.</keywords>
+<keywords>NUCLEAR REACTIONS Be({+48}Ca,X){+27}F/{+29}Ne/{+30}Na/{+31}Na/{+32}Mg,E=12.3 MeV/nucleon; measured yields.</keywords>
+<doi>10.1103/PhysRevC.73.054303</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2006TU03</keyno>
+<history>A20060505</history>
+<coden>JOUR PRVCA 73 044313</coden>
+<refrence>Phys.Rev. C 73, 044313 (2006)</refrence>
+<authors>K.Turzo, P.Himpe, D.L.Balabanski, G.Belier, D.Borremans, J.M.Daugas, G.Georgiev, F.de Oliveira Santos, S.Mallion, I.Matea, G.Neyens, Yu.E.Penionzhkevich, Ch.Stodel, N.Vermeulen, D.Yordanov</authors>
+<title>Spin polarization of {+34}Al fragments produced by nucleon pickup at intermediate energies</title>
+<keywords>NUCLEAR REACTIONS {+9}Be({+36}S,X){+34}Al,E=77.5 MeV/nucleon; measured yield,induced polarization. {+34}Al deduced ground-state J,|p.</keywords>
+<keywords>RADIOACTIVITY {+34}Al(|b{+-}),(|b{+-}n) [from {+9}Be({+36}S,X)]; measured |b-decay asymmetry from oriented nuclei; deduced reaction-induced polarization.</keywords>
+<doi>10.1103/PhysRevC.73.044313</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2007MA04</keyno>
+<history>A20070202</history>
+<coden>JOUR PRVCA 75 017302</coden>
+<refrence>Phys.Rev. C 75, 017302 (2007)</refrence>
+<authors>C.M.Mattoon, F.Sarazin, G.Hackman, E.S.Cunningham, R.A.E.Austin, G.C.Ball, R.S.Chakrawarthy, P.Finlay, P.E.Garrett, G.F.Grinyer, B.Hyland, K.A.Koopmans, J.R.Leslie, A.A.Phillips, M.A.Schumaker, H.C.Scraggs, J.Schwarzenberg, M.B.Smith, C.E.Svensson, J.C.Waddington, P.M.Walker, B.Washbrook, E.Zganjar</authors>
+<title>|b decay of {+32}Na</title>
+<keywords>RADIOACTIVITY {+32}Na(|b{+-}),(|b{+-}n),(|b{+-}2n) [from Ta(p,X)]; measured E|g,I|g,|g|g-,|b|g-coin. {+32}Mg deduced levels,J,|p. {+30},{+31}Mg deduced transitions.</keywords>
+<doi>10.1103/PhysRevC.75.017302</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2007SU05</keyno>
+<history>A20070309</history>
+<coden>JOUR PRVCA 75 024305</coden>
+<refrence>Phys.Rev. C 75, 024305 (2007)</refrence>
+<authors>C.S.Sumithrarachchi, D.J.Morrissey, B.A.Brown, A.D.Davies, D.A.Davies, M.Fancina, E.Kwan, P.F.Mantica, M.Portillo, Y.Shimbara, J.Stoker, R.R.Weerasiri</authors>
+<title>Structure of {+23}F via |b decay of {+23}O</title>
+<keywords>RADIOACTIVITY {+23}O,{+21}N,{+24}F,{+26}Ne(|b{+-}) [from Be({+48}Ca,X)]; measured E|g,I|g,|b|g-coin,T{-1/2}. {+23}O(|b{+-}n); measured |b-delayed neutron spectra; deduced neutron emission probability. {+23}F,{+26}Na deduced levels,J,|p,|b-feeding intensities.</keywords>
+<doi>10.1103/PhysRevC.75.024305</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2007VE08</keyno>
+<history>A20080103</history>
+<coden>JOUR PRVCA 76 054312</coden>
+<refrence>Phys.Rev. C 76, 054312 (2007)</refrence>
+<authors>D.Verney, F.Ibrahim, C.Bourgeois, S.Essabaa, S.Gales, L.Gaudefroy, D.Guillemaud-Mueller, F.Hammache, C.Lau, F.Le Blanc, A.C.Mueller, O.Perru, F.Pougheon, B.Roussiere, J.Sauvage, O.Sorlin, for the PARRNe Collaboration</authors>
+<title>Low-energy states of {+81}{-31}Ga{-50} Proton structure of the nuclei close to {+78}Ni</title>
+<keywords>RADIOACTIVITY {+81}Zn,{+81}Ga,{+81}Ge,{+81}As (|b{+-}) [from U(d,F),E=26 MeV]; {+81}Zn,{+81}Ga (|b{+-}n); measured E|g,I|g,|g|g-,|b|g-coin,half-lives. {+81}Ga; deduced levels,J,|p,configurations. {+81}Ga,{+83}As; calculated levels,J,|p,configurations. {+80}Zn,{+81}Ga,{+82}Ge,{+83}As,{+84}Se,{+85}Br,{+86}Kr,{+87}Rb; systematics.</keywords>
+<doi>10.1103/PhysRevC.76.054312</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2008HA27</keyno>
+<history>A20080822</history>
+<coden>JOUR PRVCA 78 014319</coden>
+<refrence>Phys.Rev. C 78, 014319 (2008)</refrence>
+<authors>P.J.Haigh, N.I.Ashwood, T.Bloxham, N.Curtis, M.Freer, P.McEwan, D.Price, V.Ziman, H.G.Bohlen, Tz.Kokalova, Ch.Schulz, R.Torabi, W.von Oertzen, C.Wheldon, W.Catford, C.Harlin, R.Kalpakchieva, T.N.Massey</authors>
+<title>Measurement of |a and neutron decay widths of excited states of {+14}C</title>
+<keywords>NUCLEAR REACTIONS {+12}C({+16}O,{+14}O),E=234 MeV; measured charged particle spectra. {+14}C; deduced levels,J,|p,configurations,widths of excited states. {+7}Li({+9}Be,{+14}C);{+14}C({+13}C,{+14}C),({+14}C,{+14}C); {+9}Be({+7}Li,d); {+13}C(polarized p,|p{++}),(n,n); comparison of levels.</keywords>
+<keywords>RADIOACTIVITY {+14}C(n)(|a); measured partial decay widths. {+10}Be,{+13}C; deduced levels,J,|p,angular distributions,configurations. Comparison with model calculations.</keywords>
+<doi>10.1103/PhysRevC.78.014319</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2008HI05</keyno>
+<history>A20080424</history>
+<coden>JOUR PRVCA 77 034305</coden>
+<refrence>Phys.Rev. C 77, 034305 (2008)</refrence>
+<authors>T.A.Hinners, V.Tripathi, S.L.Tabor, A.Volya, P.C.Bender, C.R.Hoffman, S.Lee, M.Perry, P.F.Mantica, A.D.Davies, S.N.Liddick, W.F.Mueller, A.Stolz, B.E.Tomlin</authors>
+<title>Complementary studies of T = 2 {+30}Al and the systematics of intruder states</title>
+<keywords>RADIOACTIVITY {+30}Mg(|b{+-}),(|b{+-}n),(2|b{+-}) [from {+9}Be({+48}Ca,X),E=140 MeV/nucleon]; measured E|g,I|g,|b|g-coin,|b|g|g-coin,half-lives. {+30}Al; deduced levels,J,|p.</keywords>
+<keywords>NUCLEAR REACTIONS {+18}O({+14}C,np),E=22 MeV; measured E|g,I|g,(particle)|g-coin,|g(|q). {+30}Al; deduced levels,J,|p,comparison with shell-model calculations. {+26}Na,{+28},{+32}Al,{+30},{+32},{+34}P; systematics.</keywords>
+<doi>10.1103/PhysRevC.77.034305</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2008TR04</keyno>
+<history>A20080424 M20090423</history>
+<coden>JOUR PRVCA 77 034310</coden>
+<refrence>Phys.Rev. C 77, 034310 (2008)</refrence>
+<authors>V.Tripathi, S.L.Tabor, P.Bender, C.R.Hoffman, S.Lee, K.Pepper, M.Perry, P.F.Mantica, J.M.Cook, J.Pereira, J.S.Pinter, J.B.Stoker, D.Weisshaar, Y.Utsuno, T.Otsuka</authors>
+<title>Excited intruder states in {+32}Mg</title>
+<keywords>NUCLEAR REACTIONS {+9}Be({+48}Ca,X){+30}Na/{+31}Na/{+32}Na/{+33}Mg,E=140 MeV/nucleon; measured yields.</keywords>
+<keywords>RADIOACTIVITY {+32}Na(|b{+-}),(|b{+-}n) [from {+9}Be({+48}Ca,X),E=140 MeV/nucleon]; measured E|g,I|g,|g|g-coin,half-lives; deduced I|b,B(GT),logft. {+32}Mg; deduced levels,J|p. {+26},{+28},{+30},{+34},{+36}Mg,{+28},{+30},{+32},{+34},{+36},{+38}Si; systematics. Comparison with shell-model calculations.</keywords>
+<doi>10.1103/PhysRevC.77.034310</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2008WI01</keyno>
+<history>A20080320</history>
+<coden>JOUR APOBB 39 525</coden>
+<refrence>Acta Phys.Pol. B39, 525 (2008)</refrence>
+<authors>J.A.Winger, S.V.Ilyushkin, A.Korgul, C.J.Gross, K.P.Rykaczewski, J.C.Batchelder, C.Goodin, R.Grzywacz, J.H.Hamilton, W.Krolas, S.N.Liddick, C.Mazzocchi, C.Nelson, S.Padgett, A.Piechaczek, M.M.Rajabali, D.Shapira, E.F.Zganjar</authors>
+<title>Decay Studies of Very Neutron Rich Nuclei Near {+78}Ni</title>
+<keywords>RADIOACTIVITY {+76}Cu(|b{+-}n); {+78}Cu(|b{+-}); {+79}Cu(|b{+-}n); measured E|g,I|g,|b|g-coin. {+75},{+78}Zn; deduced levels.</keywords>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2009IL01</keyno>
+<history>A20100105</history>
+<coden>JOUR PRVCA 80 054304</coden>
+<refrence>Phys.Rev. C 80, 054304 (2009)</refrence>
+<authors>S.V.Ilyushkin, J.A.Winger, C.J.Gross, K.P.Rykaczewski, J.C.Batchelder, L.Cartegni, I.G.Darby, C.Goodin, R.Grzywacz, J.H.Hamilton, A.Korgul, W.Krolas, S.N.Liddick, C.Mazzocchi, S.Padgett, A.Piechaczek, M.M.Rajabali, D.Shapira, E.F.Zganjar</authors>
+<title>|b decay of the |pf{-5/2} ground state of {+77}Cu studied with 225 MeV and 0.2 MeV purified radioactive beams</title>
+<keywords>RADIOACTIVITY {+77}Cu(|b{+-}),(|b{+-}n)[from U(p,X),E not given]; measured E|g,I|g,|b-spectra,|g|g-,|b|g-coin, half-lives. Isobarically purified {+77}Cu beams of 200 keV and 225 MeV obtained at the Holifield Radioactive Ion Beam Facility. {+77m}Zn(IT); measured E|g,half-life and decay branches. {+76},{+77}Zn,{+76},{+77}Ga,{+77}Ge(|b{+-}); measured E|g. {+76},{+77}Zn; deduced levels,J,|p, and half-life. Comparison with {+73}Cu to {+73}Zn decay.</keywords>
+<doi>10.1103/PhysRevC.80.054304</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2009LE26</keyno>
+<history>A20091130</history>
+<coden>JOUR PRVCA 80 044308</coden>
+<refrence>Phys.Rev. C 80, 044308 (2009)</refrence>
+<authors>M.Lebois, D.Verney, F.Ibrahim, S.Essabaa, F.Azaiez, M.C.Mhamed, E.Cottereau, P.V.Cuong, M.Ferraton, K.Flanagan, S.Franchoo, D.Guillemaud-Mueller, F.Hammache, C.Lau, F.Le Blanc, J.-F.Le Du, J.Libert, B.Mouginot, C.Petrache, B.Roussiere, L.Sagui, N.de Sereville, I.Stefan, B.Tastet</authors>
+<title>Experimental study of {+84}Ga  beta decay: Evidence for a rapid onset of collectivity in the vicinity of {+78}Ni</title>
+<keywords>RADIOACTIVITY {+84g}Ga,{+84m}Ga(|b{+-}),(|b{+-}n),{+84}Ge(|b{+-})[from U(|g,X),E=0-50 MeV]; measured E|g,I|g,|b|g-coin,half-lives. {+84}Ga,{+84}Ge,{+84}As,{+83}Ge; deduced levels,J,|p,delayed-neutron emission probabilities,logft. {+83}Ge,{+84}As,{+89},{+90},{+93},{+94},{+96}Rb(|b{+-}); measured E|g. PARRNe-ALTO facility. Implications for structure near doubly-magic {+78}Ni nucleus. Z=32-40 (even), N=52; N=42-54, Z=32; systematics of first 2+ and 4+ states.</keywords>
+<keywords>NUCLEAR STRUCTURE {+74},{+76},{+78},{+80},{+82},{+84}Ge; calculated potential energy surfaces (PES) and B(E2) using HFB+GCM approach.</keywords>
+<doi>10.1103/PhysRevC.80.044308</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2009LI51</keyno>
+<history>A20100105</history>
+<coden>JOUR PRVCA 80 054315</coden>
+<refrence>Phys.Rev. C 80, 054315 (2009)</refrence>
+<authors>Z.H.Li, J.L.Lou, Y.L.Ye, H.Hua, D.X.Jiang, X.Q.Li, S.Q.Zhang, T.Zheng, Y.C.Ge, Z.Kong, L.H.Lv, C.Li, F.Lu, F.Y.Fan, Z.Y.Li, Z.X.Cao, L.Y.Ma, Q.Faisal, H.S.Xu, Z.G.Hu, M.Wang, X.G.Lei, L.M.Duan, Z.G.Xiao, W.L.Zhan, G.Q.Xiao, T.H.Huang, F.Fu, X.H.Zhang, C.Zheng, Y.H.Yu, X.L.Tu, Y.P.Zhang, Y.Y.Yang, H.B.Zhang, B.Thang, Y.L.Tian, Z.Ouang, M.R.Huang, Z.G.Xu, K.Yue, Q.Gao</authors>
+<title>Experimental study of the |b-delayed neutron decay of {+21}N</title>
+<keywords>RADIOACTIVITY {+21}N(|b{+-}),(|b{+-}n) [from {+9}Be({+26}Mg,X),E=68.8 MeV]; measured E|g,I|g,E|b,I|b,En,In,|bn-,|b|g-,|b|gn-coin, half-lives and. delayed-neutron emission probabilities. {+20},{+21}O; deduced levels,J,|p,branching ratios,logft values and B(GT). Comparison with shell model calculations. {+20},{+21}F,{+20},{+21}O(|b{+-}); measured E|g.</keywords>
+<keywords>NUCLEAR REACTIONS {+9}Be({+26}Mg,X),E=68.8 MeV; measured isotopic yields. {+6}He,{+7},{+8},{+9}Li,{+9},{+10},{+11},{+12}Be,{+12},{+13},{+14},{+15},{+17}B,{+15},{+16},{+17},{+18},{+19}C,{+19},{+20},{+21}N,{+22},{+23}O; measured yields.</keywords>
+<doi>10.1103/PhysRevC.80.054315</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2009MA54</keyno>
+<history>A20091029</history>
+<coden>JOUR PRVCA 80 034318</coden>
+<refrence>Phys.Rev. C 80, 034318 (2009)</refrence>
+<authors>C.M.Mattoon, F.Sarazin, C.Andreoiu, A.N.Andreyev, R.A.E.Austin, G.C.Ball, R.S.Chakrawarthy, D.Cross, E.S.Cunningham, J.Daoud, P.E.Garrett, G.F.Grinyer, G.Hackman, D.Melconian, C.Morton, C.Pearson, J.J.Ressler, J.Schwarzenberg, M.B.Smith, C.E.Svensson</authors>
+<title>Line-shape analysis of Doppler-broadened |g lines following the |b decay of {+11}Li</title>
+<keywords>RADIOACTIVITY {+11}Li(|b{+-}),(|b{+-}n) [from Ta(p,X),E=500 MeV]; measured E|g,I|g,|g|g-,|b|g-coin, half-lives by line-shape method using 8pi array. {+10},{+11}Be; deduced levels,J,|p, branching ratios, B(E1), delayed neutron emission probabilities.</keywords>
+<doi>10.1103/PhysRevC.80.034318</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2009PA35</keyno>
+<history>A20091029</history>
+<coden>JOUR PRVCA 80 034307</coden>
+<refrence>Phys.Rev. C 80, 034307 (2009)</refrence>
+<authors>N.Patronis, H.De Witte, M.Gorska, M.Huyse, K.Kruglov, D.Pauwels, K.Van de Vel, P.Van Duppen, J.Van Roosbroeck, J.-C.Thomas, S.Franchoo, J.Cederkall, V.N.Fedoseyev, H.Fynbo, U.Georg, O.Jonsson, U.Koster, T.Materna, L.Mathieu, O.Serot, L.Weissman, W.F.Mueller, V.I.Mishin, D.Fedorov</authors>
+<title>|b-decay study of {+77}Cu</title>
+<keywords>RADIOACTIVITY {+77}Cu(|b{+-}),(|b{+-}n)[from {+238}U(n,F),(p,F),E=1 GeV]; measured E|g,I|g,|g|g-,|b|g-,|bn-coin and |b-delayed neutron yield. {+76}Zn,{+77}Zn; deduced levels,J,|p, half-lives. Systematics of low-lying levels of A=63-77 Cu nuclei.</keywords>
+<doi>10.1103/PhysRevC.80.034307</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2009PE06</keyno>
+<history>A20090430</history>
+<coden>JOUR PRVCA 79 035806</coden>
+<refrence>Phys.Rev. C 79, 035806 (2009)</refrence>
+<authors>J.Pereira, S.Hennrich, A.Aprahamian, O.Arndt, A.Becerril, T.Elliot, A.Estrade, D.Galaviz, R.Kessler, K.-L.Kratz, G.Lorusso, P.F.Mantica, M.Matos, P.Moller, F.Montes, B.Pfeiffer, H.Schatz, F.Schertz, L.Schnorrenberger, E.Smith, A.Stolz, M.Quinn, W.B.Walters, A.Wohr</authors>
+<title>|b-decay half-lives and |b-delayed neutron emission probabilities of nuclei in the region A | 110, relevant for the r process</title>
+<keywords>RADIOACTIVITY {+100},{+101},{+102},{+103},{+104},{+105}Y,{+103},{+104},{+105},{+106},{+107}Zr,{+106},{+107},{+108},{+109}Nb,{+108},{+109},{+110},{+111}Mo,{+109},{+110},{+111},{+112},{+113}Tc(|b{+-}),(|b{+-}n)[from {+9}Be({+136}Xe,X),E=120 MeV/nucleon]; measured fragments,neutrons,|b,(fragment)|b-coin,half-lives; deduced delayed neutron-emission probabilities. Comparisons with quasiparticle random phase approximation (QRPA03 and QRPA06) calculations. Discussed relevance to r-process nuclei.</keywords>
+<doi>10.1103/PhysRevC.79.035806</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010BE08</keyno>
+<history>A20100426</history>
+<coden>JOUR PRVCA 81 034317</coden>
+<refrence>Phys.Rev. C 81, 034317 (2010)</refrence>
+<authors>G.Bellini, for the Borexino Collaboration</authors>
+<title>New experimental limits on the Pauli-forbidden transitions in {+12}C nuclei obtained with 485 days Borexino data</title>
+<keywords>RADIOACTIVITY {+12}C(|b{++}),(|b{+-}),(n),(p),(IT); measured |g, particle spectra, limits of half-lives for Pauli-forbidden transitions using Borexino detector. Comparison with previous measurements. Test of Pauli exclusion principle for nucleons in {+12}C through search for |g, neutron, proton, |b{+-} or |b{++} emission in Pauli-forbidden transition from 1p{-3/2}-shell nucleons to the filled 1s{-1/2} shell in nuclei.</keywords>
+<doi>10.1103/PhysRevC.81.034317</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010CR02</keyno>
+<history>A20100823</history>
+<coden>JOUR PRVCA 82 014311</coden>
+<refrence>Phys.Rev. C 82, 014311 (2010)</refrence>
+<authors>H.L.Crawford, R.V.F.Janssens, P.F.Mantica, J.S.Berryman, R.Broda, M.P.Carpenter, N.Cieplicka, B.Fornal, G.F.Grinyer, N.Hoteling, B.P.Kay, T.Lauritsen, K.Minamisono, I.Stefanescu, J.B.Stoker, W.B.Walters, S.Zhu</authors>
+<title>|b decay and isomeric properties of neutron-rich Ca and Sc isotopes</title>
+<keywords>RADIOACTIVITY {+53},{+54},{+55},{+56},{+57}Sc,{+53},{+54}Ca(|b{+-}); {+54},{+56}Sc(IT)[from Be({+76}Ge,X),E=130 MeV/nucleon]; measured E|g,I|g, (fragment)|b-,|g|g-,|b|g-,(fragment)|b|g-coin, half-lives. {+53},{+54},{+55},{+56},{+57}Ti,{+53},{+54},{+56}Sc; deduced levels,J,|p,logft,configurations. Comparison with GXPF1 shell-model calculations. {+54}Ti(|b{+-}); measured half-life. {+54},{+55},{+56}Sc(|b{+-}n); deduced %|b{+-}-n.</keywords>
+<keywords>NUCLEAR STRUCTURE {+52},{+54},{+56}Sc; calculated levels,J,|p using GXPF1 shell-model.</keywords>
+<keywords>NUCLEAR REACTIONS Be({+76}Ge,X){+52}Ca/{+53}Ca/{+54}Ca/{+53}Sc/{+54}Sc/{+55}Sc/{+56}Sc/{+55}Ti/{+56}Ti/{+57}Ti/{+58}Ti/{+57}V/{+58}V/{+59}V/{+60}V/,E=130 MeV/nucleon; measured yields.</keywords>
+<doi>10.1103/PhysRevC.82.014311</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010HO12</keyno>
+<history>A20101007</history>
+<coden>JOUR PRVCA 82 025806</coden>
+<refrence>Phys.Rev. C 82, 025806 (2010)</refrence>
+<authors>P.Hosmer, H.Schatz, A.Aprahamian, O.Arndt, R.R.C.Clement, A.Estrade, K.Farouqi, K.-L.Kratz, S.N.Liddick, A.F.Lisetskiy, P.F.Mantica, P.Moller, W.F.Mueller, F.Montes, A.C.Morton, M.Ouellette, E.Pellegrini, J.Pereira, B.Pfeiffer, P.Reeder, P.Santi, M.Steiner, A.Stolz, B.E.Tomlin, W.B.Walters, A.Wohr</authors>
+<title>Half-lives and branchings for |b-delayed neutron emission for neutron-rich Co-Cu isotopes in the r-process</title>
+<keywords>RADIOACTIVITY {+73},{+74},{+75}Co,{+75},{+76},{+77},{+78}Ni,          {+76},{+77},{+78},{+79},{+80}Cu,{+79},{+80},{+81}Zn,{+81},{+82}Ga(|b{+-}),(|b{+-}n)[from Be({+86}Kr,X),E=140 MeV/nucleon]; measured |b spectra,|bn-coin, neutron spectra, half-lives, delayed neutron-emission probabilities; calculated half-lives, P(n) using QRPA, CQRPA and OXBASH shell model. Discussed effects on various types of models for the rapid neutron-capture process (r-process) in nucleosynthesis.    A=1-210; calculated abundances with classical r-process and HEW models using    known decay data. {+78}Ni(|b{+-}); calculated Gamow-Teller strengths, effect on abundances.</keywords>
+<doi>10.1103/PhysRevC.82.025806</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010KI15</keyno>
+<history>A20110718</history>
+<coden>JOUR NUPAB 835 434c</coden>
+<refrence>Nucl.Phys. A835, 434c (2010)</refrence>
+<authors>M.Kim, S.Ajimura, K.Aoki, A.Banu, H.Bhang, T.Fukuda, O.Hashimoto, J.I.Hwang, S.Kameoka, B.H.Kang, E.Kim, J.H.Kim, T.Maruta, Y.Miura, Y.Miyake, T.Nagae, M.Nakamura, S.N.Nakamura, H.Noumi, S.Okada, Y.Okayasu, H.Outa, H.Park, P.K.Saha, Y.Sato, M.Sekimoto, T.Takahashi, H.Tamura, K.Tanida, A.Toyoda, K.Tshoo, K.Tsukada, T.Watanabe, H.J.Yim</authors>
+<title>Coincidence measurement of the weak decay of {+12}{-|L}C and the three-body weak decay process (J-PARC 50GeV PS E18)</title>
+<keywords>RADIOACTIVITY {+12}C(p),(n); measured hypernucleus decay particle spectra, Ep,Ip,En,In,pn-coin,pp-coin,nn-coin,pion spectra; deduced hypernucleus nucleon decay width. Non-mesonic weak decay.</keywords>
+<doi>10.1016/j.nuclphysa.2010.01.237</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010PA33</keyno>
+<history>A20110124 M20110224</history>
+<coden>JOUR PRVCA 82 064314</coden>
+<refrence>Phys.Rev. C 82, 064314 (2010); Erratum Phys.Rev. C 83, 019903 (2011)</refrence>
+<authors>S.Padgett, M.Madurga, R.Grzywacz, I.G.Darby, S.N.Liddick, S.V.Paulauskas, L.Cartegni, C.R.Bingham, C.J.Gross, K.Rykaczewski, D.Shapira, D.W.Stracener, A.J.Mendez, II, J.A.Winger, S.V.Ilyushkin, A.Korgul, W.Krolas, E.Zganjar, C.Mazzocchi, S.Liu, J.H.Hamilton, J.C.Batchelder, M.M.Rajabali</authors>
+<title>|b decay of {+81}Zn and migrations of states observed near the N=50 closed shell</title>
+<keywords>RADIOACTIVITY {+81}Zn(|b{+-}),(|b{+-}n)[from U(p,X),E not given]; measured E|g,I|g,|b|g-,|g|g-coin, parent half-life, delayed-neutron branching ratio. {+81}Ga; deduced levels,J,|p, logft. Comparison with shell-model calculations. Systematics of level energies in N=51,Z=28-42(even) and core-excited states and B(GT) distributions in N=50,Z=31,33,35 nuclei. Strengthening of the N=40 subshell gap near {+78}Ni. {+79}Ni(|b{+-}); predicted decay properties from systematics of neighboring nuclides.</keywords>
+<doi>10.1103/PhysRevC.82.064314</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010SU03</keyno>
+<history>A20100303</history>
+<coden>JOUR PRVCA 81 014302</coden>
+<refrence>Phys.Rev. C 81, 014302 (2010)</refrence>
+<authors>C.S.Sumithrarachchi, D.J.Morrissey, A.D.Davies, D.A.Davies, M.Facina, E.Kwan, P.F.Mantica, M.Portillo, Y.Shimbara, J.Stoker, R.R.Weerasiri</authors>
+<title>States in {+22}O via |b decay of {+22}N</title>
+<keywords>RADIOACTIVITY {+22}N(|b{+-}),(|b{+-}n),(|b{+-}2n)[from Be({+48}Ca,X),E=140 MeV/nucleon]; measured E|g,I|g,E|b,I|b,E|n,I|n,|b|g-coin,half-lives, branching ratios; deduced logft. {+20},{+21},{+22}O; deduced levels,J,|p, B(GT) values. Comparison with shell model calculations. Discussed halo structure and shell closure.</keywords>
+<doi>10.1103/PhysRevC.81.014302</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010WI03</keyno>
+<history>A20100524</history>
+<coden>JOUR PRVCA 81 044303</coden>
+<refrence>Phys.Rev. C 81, 044303 (2010)</refrence>
+<authors>J.A.Winger, K.P.Rykaczewski, C.J.Gross, R.Grzywacz, J.C.Batchelder, C.Goodin, J.H.Hamilton, S.V.Ilyushkin, A.Korgul, W.Krolas, S.N.Liddick, C.Mazzocchi, S.Padgett, A.Piechaczek, M.M.Rajabali, D.Shapira, E.F.Zganjar, J.Dobaczewski</authors>
+<title>New subshell closure at N=58 emerging in neutron-rich nuclei beyond {+78}Ni</title>
+<keywords>RADIOACTIVITY {+83},{+84},{+85}Ga(|b{+-}),(|b{+-}n) [from {+238}U(p,F),E=54 MeV]; measured E|g,I|g, |b|g-,|g|g-,|bn|g-coin, and half-lives. {+82},{+83},{+84},{+85}Ge; deduced level,J,|p, configurations. {+82},{+83},{+84}Ge,{+82},{+83},{+84}As,{+83}Se(|b{+-}); N=28-82, Z=20-50; systematics of neutron single-particle states. Comparison with spherical HFB calculations using the SKO{-T} functionals. {+82},{+83},{+84}Ge,{+82},{+83},{+84}As,{+83}Se(|b{+-}); measured E|g.</keywords>
+<doi>10.1103/PhysRevC.81.044303</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2011AR18</keyno>
+<history>A20120106 M20120210</history>
+<coden>JOUR PRVCA 84 061307</coden>
+<refrence>Phys.Rev. C 84, 061307 (2011)</refrence>
+<authors>O.Arndt, K.-L.Kratz, W.B.Walters, K.Farouqi, U.Koster, V.Fedosseev, S.Hennrich, C.J.Jost, A.Wohr, A.A.Hecht, B.Pfeiffer, J.Shergur, N.Hoteling</authors>
+<title>Decay of the r-process nuclides {+137,138,139}Sb, and the A=130 solar r-process abundance peak</title>
+<keywords>RADIOACTIVITY {+137},{+138},{+139}Sb,{+136},{+137}Sn(|b{+-}),(|b{+-}n); measured E(n), I(n), half-lives, |b-delayed neutron emission probability P{-n} using RILIS source and high-resolution mass separator at ISOLDE-CERN facility. {+134},{+135},{+136},{+137},{+138},{+139},{+140}Sb(|b{+-}),(|b{+-}n); calculated half-lives and |b-delayed neutron probabilities for spherical and non-spherical shapes. Calculated r-process residual isotopic abundance plot using new data.</keywords>
+<doi>10.1103/PhysRevC.84.061307</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2011DA08</keyno>
+<history>A20110606 M20110809</history>
+<coden>JOUR PRVCA 83 054312</coden>
+<refrence>Phys.Rev. C 83, 054312 (2011)</refrence>
+<authors>J.M.Daugas, I.Matea, J.-P.Delaroche, M.Pfutzner, M.Sawicka, F.Becker, G.Belier, C.R.Bingham, R.Borcea, E.Bouchez, A.Buta, E.Dragulescu, G.Georgiev, J.Giovinazzo, M.Girod, H.Grawe, R.Grzywacz, F.Hammache, F.Ibrahim, M.Lewitowicz, J.Libert, P.Mayet, V.Meot, F.Negoita, F.de Oliveira Santos, O.Perru, O.Roig, K.Rykaczewski, M.G.Saint-Laurent, J.E.Sauvestre, O.Sorlin, M.Stanoiu, I.Stefan, Ch.Stodel, Ch.Theisen, D.Verney, J.Zylicz</authors>
+<title>|b-decay measurements for N > 40 Mn nuclei and inference of collectivity for neutron-rich Fe isotopes</title>
+<keywords>RADIOACTIVITY {+58},{+59},{+60},{+61}Ti,{+61},{+62},{+63},{+64}V,{+63},{+64},{+65},{+66}Cr,{+64},{+65},{+66},{+67},{+68},{+69}Mn,{+67},{+68},{+69},{+70},{+71}Fe,{+69},{+70},{+71},{+72},{+73},{+74}Co(|b{+-})[from {+86}Kr(Ta,X),E=57.8 MeV/nucleon]; measured |b spectra, E|g,I|g,|b|g-coin, half-lives. Comparison with previous half-life measurements. {+67}Mn(|b{+-}n); measured beta-delayed neutron emission probability. {+66},{+67},{+68}Fe; deduced levels,J,|p, multipolarity. Comparison with mean-field calculations.</keywords>
+<keywords>NUCLEAR STRUCTURE {+66},{+68}Fe; calculated levels,J,|p, PES, neutron single-particle levels. Application to {+67}Fe structure. Beyond-mean-field calculations with the Gogny D1S force. Systematics of first 2+ states in N=24-50 Fe isotopes.</keywords>
+<doi>10.1103/PhysRevC.83.054312</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2011GO37</keyno>
+<history>A20120206 M20120327</history>
+<coden>JOUR JPCSD 312 052008</coden>
+<refrence>J.Phys.:Conf.Ser. 312, 052008 (2011)</refrence>
+<authors>M.B.Gomez Hornillos, J.Rissanen, J.L.Tain, A.Algora, D.Cano-Ott, J.Agramunt, V.Gorlychev, R.Caballero, T.Martinez, L.Achouri, J.Aysto, G.Cortes, V.V.Elomaa, T.Eronen, A.Garcia, J.Hakala, A.Jokinen, P.Karvonen, V.S.Kolhinen, I.Moore, M.Parlog, H.Penttila, Z.Podolyak, C.Pretel, M.Reponen, V.Sonnenschein, E.Valencia</authors>
+<title>First Measurements with the BEta deLayEd Neutron Detector (BELEN-20) at JYFLTRAP</title>
+<keywords>RADIOACTIVITY {+88}Br,{+94},{+95}Rb,{+138}I(|b{+-}n); measured decay products E|b,I|b, E|g,I|g, En,In; deduced neutron emission rate and its errors.</keywords>
+<doi>10.1088/1742-6596/312/5/052008</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2011TA26</keyno>
+<history>A20111130</history>
+<coden>JOUR KPSJA 59 1499s</coden>
+<refrence>J.Korean Phys.Soc. 59, 1499s (2011)</refrence>
+<authors>J.L.Tain, A.Algora, E.Estevez, B.Rubio, E.Valencia, D.Jordan, J.Aysto, T.Eronen, A.Jokinen, I.Moore, H.Pentilla, J.Riisanen, L.Batist, M.Bowry, M.Bunce, W.Gelletly, R.Caballero, G.Cortes, B.Gomez-Hornillos, V.Gorlychev, D.Cano-Ott, A.Garcia, T.Martinez, C.Domingo-Pardo, M.Fallot, L.Giot, A.Porta, B.Van Vinh</authors>
+<title>Beta Decay Studies of Neutron Rich Nuclei Using Total Absorption Gamma-ray Spectroscopy and Delayed Neutron Measurements</title>
+<keywords>RADIOACTIVITY {+86},{+87},{+88}Br,{+91},{+92},{+93},{+94}Rb,{+138}I(|b{+-}),(|b{+-}n)[from U+{+2}H]; measured E|b,I|b(t),n|b-coin,E|g,I|g(t),|b|g-coin at IGISOL facility at JYFL using BELEN detector for neutrons, activity using TAS (Total Absorption Spectrometer) and DACQ system.</keywords>
+<doi>10.3938/jkps.59.1499</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2012KO29</keyno>
+<history>A20120831 M20121001</history>
+<coden>JOUR PRVCA 86 024307</coden>
+<refrence>Phys.Rev. C 86, 024307 (2012)</refrence>
+<authors>A.Korgul, K.P.Rykaczewski, J.A.Winger, S.V.Ilyushkin, C.J.Gross, J.C.Batchelder, C.R.Bingham, I.N.Borzov, C.Goodin, R.Grzywacz, J.H.Hamilton, W.Krolas, S.N.Liddick, C.Mazzocchi, C.Nelson, F.Nowacki, S.Padgett, A.Piechaczek, M.M.Rajabali, D.Shapira, K.Sieja, E.F.Zganjar</authors>
+<title>|b-|g and |b-delayed neutron-|g decay of neutron-rich copper isotopes</title>
+<keywords>RADIOACTIVITY {+78},{+79}Cu[from {+238}U(p,F),E=54 MeV](|b{+-}),(|b{+-}n); measured E|g, I|g, |b|g-coin, half-lives, branching ratios, beta-delayed neutron emission probabilities Pn at HRIBF facility. {+78},{+79}Ga,{+78}As(|b{+-}); measured E|g. {+77},{+78}Zn; deduced levels, J, |p, logft. {+78}Cu; deduced J, |p, configuration of g.s. {+77},{+79}Cu; analyzed delayed neutron emission probabilities Pn with shell-model and CQRPA calculations.</keywords>
+<doi>10.1103/PhysRevC.86.024307</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2012KU06</keyno>
+<history>A20120210</history>
+<coden>JOUR PRVCA 85 027302</coden>
+<refrence>Phys.Rev. C 85, 027302 (2012)</refrence>
+<authors>J.Kurpeta, W.Urban, T.Materna, H.Faust, U.Koster, J.Rissanen, T.Rzaca-Urban, C.Mazzocchi, A.G.Smith, J.F.Smith, J.P.Greene, I.Ahmad</authors>
+<title>Low-spin structure of {+85}Se and the |bn branching of {+85}As</title>
+<keywords>RADIOACTIVITY {+85}As(|b{+-})[from {+235}U(n,F)]; measured E|g, I|g,  |b|g-,|g|g-coin. {+85}Se; deduced levels, J, |p, configuration. {+85}As(|b{+-}n); discussed delayed neutron decay branch.</keywords>
+<keywords>RADIOACTIVITY {+248}Cm,{+252}Cf(SF); measured E|g, I|g, |g|g-coin for prompt |g rays. {+85}Se; deduced levels, J, |p. Eurogam2 and Gammasphere arrays.</keywords>
+<doi>10.1103/PhysRevC.85.027302</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2012LU07</keyno>
+<history>A20120419</history>
+<coden>JOUR PRLTA 108 142503</coden>
+<refrence>Phys.Rev.Lett. 108, 142503 (2012)</refrence>
+<authors>E.Lunderberg, P.A.DeYoung, Z.Kohley, H.Attanayake, T.Baumann, D.Bazin, G.Christian, D.Divaratne, S.M.Grimes, A.Haagsma, J.E.Finck, N.Frank, B.Luther, S.Mosby, T.Nagi, G.F.Peaslee, A.Schiller, J.Snyder, A.Spyrou, M.J.Strongman, M.Thoennessen</authors>
+<title>Evidence for the Ground-State Resonance of {+26}O</title>
+<keywords>RADIOACTIVITY {+26}O(2n)  [from Be({+27}F,p){+26}O, E=82 MeV/nucleon];measured decay products, En,In. {+26}O;  deduced decay energy spectrum,  evidence for the ground state or resonance in neutron unbound nucleus, T{-1/2} limit. Comparison with theoretical calculations.</keywords>
+<doi>10.1103/PhysRevLett.108.142503</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2012MA63</keyno>
+<history>A20130919</history>
+<coden>JOUR JINST 7 P08029</coden>
+<refrence>J.Instrum. 7, P08029 (2012)</refrence>
+<authors>L.Mathieu, O.Serot, T.Materna, A.Bail, U.Koster, H.Faust, O.Litaize, E.Dupont, C.Jouanne, A.Letourneau, S.Panebianco</authors>
+<title>New neutron long-counter for delayed neutron investigations with the LOHENGRIN fission fragment separator</title>
+<keywords>RADIOACTIVITY {+99}Y,{+136}Te(|b{+-}n); measured %P{-n} using LOENIE neutron counter at LOHENGRIN separator facility. Discussed general aspects of beta-delayed neutron emission, and the measurement methods.</keywords>
+<keywords>COMPILATION Z=28-61,A=73-161; compiled and compared delayed neutron emission probabilities  %P{-n} quoted in different compilations and libraries: NNDC chart of nuclides, ENDF/B-VII.0 (2009), JENDL/FPD-2000 (2001), JEFF-3.1.1 (2009), Audi (2003Au02), Pfeiffer (2002Pf04), Table of Isotopes (1996FiZX) and Rudstam (1993Ru01).</keywords>
+<doi>10.1088/1748-0221/7/08/P08029</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2012PA39</keyno>
+<history>A20130103 M20130320</history>
+<coden>JOUR PRVCA 86 064318</coden>
+<refrence>Phys.Rev. C 86, 064318 (2012)</refrence>
+<authors>D.Pauwels, D.Radulov, W.B.Walters, I.G.Darby, H.De Witte, J.Diriken, D.V.Fedorov, V.N.Fedosseev, L.M.Fraile, M.Huyse, U.Koster, B.A.Marsh, L.Popescu, M.D.Seliverstov, A.M.Sjodin, P.Van den Bergh, J.Van de Walle, P.Van Duppen, M.Venhart, K.Wimmer</authors>
+<title>Gamow-Teller decay population of {+64}Ni levels in the decay of 1{++} {+64}Co</title>
+<keywords>RADIOACTIVITY {+64}Co(|b{+-})[from U(p,F),E=1.4 GeV]; measured E|g, I|g, |g|g-coin, E|b using RILIS laser system and MINIBALL |g-detector clusters at CERN-ISOLDE facility. {+64}Ni; deduced levels, J, |p, I|b, logft, configurations, possible  proton-intruder levels. {+64}Mn(|b{+-}n); measured E|g, I|g; deduced beta-delayed neutron probability P{-n}. Comparison with previous experimental studies. {+63},{+64}Fe,{+64}Ga,{+128m}In(|b{+-}); observed E|g.</keywords>
+<doi>10.1103/PhysRevC.86.064318</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2012SP01</keyno>
+<history>A20120313</history>
+<coden>JOUR PRLTA 108 102501</coden>
+<refrence>Phys.Rev.Lett. 108, 102501 (2012)</refrence>
+<authors>A.Spyrou, Z.Kohley, T.Baumann, D.Bazin, B.A.Brown, G.Christian, P.A.DeYoung, J.E.Finck, N.Frank, E.Lunderberg, S.Mosby, W.A.Peters, A.Schiller, J.K.Smith, J.Snyder, M.J.Strongman, M.Thoennessen, A.Volya</authors>
+<title>First Observation of Ground State Dineutron Decay: {+16}Be</title>
+<keywords>RADIOACTIVITY {+16}Be(2n) [from Be({+17}B,p), E=53 MeV/nucleon]; measured decay products, En,In; deduced two-neutron separation energy.</keywords>
+<doi>10.1103/PhysRevLett.108.102501</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013BH05</keyno>
+<history>A20130614 M20190503</history>
+<coden>JOUR FBSYE 54 103</coden>
+<refrence>Few-Body Systems 54, 103 (2013)</refrence>
+<authors>H.Bhang, S.Ajimura, K.Aoki, A.Banu, T.Fukuda, O.Hashimoto, J.I.Hwang, S.Kameoka, B.H.Kang, E.Kim, J.H.Kim, M.Kim, T.Maruta, Y.Miura, Y.Miyake, T.Nagae, M.Nakamura, S.N.Nakamura, H.Noumi, S.Okada, Y.Okayasu, H.Outa, H.Park, P.K.Saha, Y.Sato, M.Sekimoto, T.Takahashi, H.Tamura, K.Tanida, A.Toyoda, K.Tshoo, K.Tsukada, T.Watanabe, H.J.Yim</authors>
+<title>Three-Body |LNN |)  nNN Nonmesonic Weak Decay Process of |L Hypernuclei</title>
+<keywords>RADIOACTIVITY {+5}He,{+12}C(2n),(n),(p); measured hypernuclei decay products, En,In,Ep,Ip; deduced branching ratios and decay resonance widths. Non-mesonic weak decay (NMWD), comparison with available data.</keywords>
+<doi>10.1007/s00601-012-0370-x</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013CA18</keyno>
+<history>A20131004 M20131210</history>
+<coden>JOUR PRVCA 88 034313</coden>
+<refrence>Phys.Rev. C 88, 034313 (2013)</refrence>
+<authors>C.Caesar, for the R3B Collaboration</authors>
+<title>Beyond the neutron drip line: The unbound oxygen isotopes {+25}O and {+26}O</title>
+<keywords>NUCLEAR REACTIONS C,Pb({+26}F,{+25}O),E=442 MeV/nucleon; C,Pb({+27}F,{+26}O),E=414 MeV/nucleon,[{+26},{+27}F secondary beams from Be({+40}Ar,X),E=490 MeV/nucleon primary reaction]; measured photon and light-particle spectra, time-of-flight and energy-loss, n({+24})O-coin using FRS fragment separator, ALADIN dipole magnet, 4|p Crystal ball at GSI facility; neutrons from unbound states detected by LAND neutron detector; two- and three-body relative-energy spectra reconstructed for one- and two-neutron events. {+25},{+26}O; deduced levels, ground-state resonances, first excited 2+ resonance in {+26}O, widths, half-lives. Breit-Wigner fits. Comparison with previous experimental results, and with shell-model calculations based on chiral NN and 3N forces, and residual 3N forces.</keywords>
+<keywords>RADIOACTIVITY {+25}O(n)[from C,Pb({+26}F,{+25}O),E=442 MeV/nucleon];  {+26}O(n),(2n)[from C,Pb({+27}F,{+26}O),E=442 MeV/nucleon]; measured neutron spectra n({+24})O-coin, half-lives of ground-state resonances using LAND detector at GSI facility.</keywords>
+<doi>10.1103/PhysRevC.88.034313</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013KO10</keyno>
+<history>A20130417</history>
+<coden>JOUR PRLTA 110 152501</coden>
+<refrence>Phys.Rev.Lett. 110, 152501 (2013)</refrence>
+<authors>Z.Kohley, T.Baumann, D.Bazin, G.Christian, P.A.DeYoung, J.E.Finck, N.Frank, M.Jones, E.Lunderberg, B.Luther, S.Mosby, T.Nagi, J.K.Smith, J.Snyder, A.Spyrou, M.Thoennessen</authors>
+<title>Study of Two-Neutron Radioactivity in the Decay of {+26}O</title>
+<keywords>RADIOACTIVITY {+26}O(2n) [from {+9}Be({+27}F,p), E=82 MeV/nucleon]; measured decay products, En,In; deduced T{-1/2}. Comparison with theoretical calculations.</keywords>
+<doi>10.1103/PhysRevLett.110.152501</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013KO31</keyno>
+<history>A20131101 M20140113</history>
+<coden>JOUR PRVCA 88 044330</coden>
+<refrence>Phys.Rev. C 88, 044330 (2013)</refrence>
+<authors>A.Korgul, K.P.Rykaczewski, R.Grzywacz, H.Sliwinska, J.C.Batchelder, C.Bingham, I.N.Borzov, N.Brewer, L.Cartegni, A.Fijalkowska, C.J.Gross, J.H.Hamilton, C.Jost, M.Karny, W.Krolas, S.Liu, C.Mazzocchi, M.Madurga, A.J.Mendez, K.Miernik, D.Miller, S.Padgett, S.Paulauskas, D.Shapira, D.Stracener, K.Sieja, J.A.Winger, M.Wolinska-Cichocka, E.F.Zganjar</authors>
+<title>Experimental study of the |b-|g and |b-n|g decay of the neutron-rich nucleus {+85}Ga</title>
+<keywords>RADIOACTIVITY {+85}Ga(|b{+-}),(|b{+-}n)[from {+238}U(p,X),E=54 MeV]; measured E|g, I|g, |b|g-, |g|g-coin, half-life of {+85}Ga isotope using LeRIBSS system and high-resolution on-line mass separator at HRIBF-ORNL facility. {+84},{+85}Ge; deduced levels, J, |p. Systematics of first 5/2+ and 3/2+ excited states in N=53 nuclei {+85}Ge,{+87}Se,{+89}Kr,{+91}Sr,{+93}Sr. Comparison of level structure with shell-model calculations. Comparison of |b-|g and |b-n-|g decay branches with DF3a+CQRPA calculations. {+84},{+85}Ge,{+84}As(|b{+-}); observed |g rays.</keywords>
+<keywords>NUCLEAR STRUCTURE {+83},{+84},{+85}Ge; calculated levels, J, |p. Comparison with experimental data.</keywords>
+<doi>10.1103/PhysRevC.88.044330</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013KO32</keyno>
+<history>A20131101 M20140113</history>
+<coden>JOUR PRVCA 88 047301</coden>
+<refrence>Phys.Rev. C 88, 047301 (2013)</refrence>
+<authors>K.Kolos, D.Verney, F.Ibrahim, F.Le Blanc, S.Franchoo, K.Sieja, F.Nowacki, C.Bonnin, M.C.Mhamed, P.V.Cuong, F.Didierjean, G.Duchene, S.Essabaa, G.Germogli, L.H.Khiem, C.Lau, I.Matea, M.Niikura, B.Roussiere, I.Stefan, D.Testov, J.-C.Thomas</authors>
+<title>Probing nuclear structures in the vicinity of {+78}Ni with |b- and |bn-decay spectroscopy of {+84}Ga</title>
+<keywords>RADIOACTIVITY {+84}Ga(|b{+-}),(|b{+-}n)[from {+238}U(|g,F),E50 MeV bremsstrahlung]; measured E|g, I|g, |b|g-, |g|g-coin, half-life of {+84}Ga isotope using PARRNe mass spectrometer and resonant laser ionization at ALTO-IPN Orsay facility. {+83},{+84}Ge; deduced levels, J, |p, beta feedings, logft, configuration. Comparison with shell-model calculations.</keywords>
+<keywords>NUCLEAR STRUCTURE {+83},{+84}Ge; calculated levels, J, |p, B(M0), B(E2) using shell model; deduced |g-branching ratios. Comparison with experimental data.</keywords>
+<doi>10.1103/PhysRevC.88.047301</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013LE03</keyno>
+<history>A20130226</history>
+<coden>JOUR PRLTA 110 082502</coden>
+<refrence>Phys.Rev.Lett. 110, 082502 (2013)</refrence>
+<authors>A.Lepailleur, O.Sorlin, L.Caceres, B.Bastin, C.Borcea, R.Borcea, B.A.Brown, L.Gaudefroy, S.Grevy, G.F.Grinyer, G.Hagen, M.Hjorth-Jensen, G.R.Jansen, O.Llidoo, F.Negoita, F.de Oliveira, M.-G.Porquet, F.Rotaru, M.-G.Saint-Laurent, D.Sohler, M.Stanoiu, J.C.Thomas</authors>
+<title>Spectroscopy of {+26}F to Probe Proton-Neutron Forces Close to the Drip Line</title>
+<keywords>RADIOACTIVITY {+26}F(|b{+-}),(|b{+-}n) [from Be({+36}S,X){+26}F, E=77.6 MeV/nucleon]; measured decay products, E|g,I|g; deduced decay scheme, J,|p,long-lived isomer T{-1/2}. Comparison with available data.</keywords>
+<doi>10.1103/PhysRevLett.110.082502</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013MI13</keyno>
+<history>A20130802 M20131001</history>
+<coden>JOUR PRVCA 88 014309</coden>
+<refrence>Phys.Rev. C 88, 014309 (2013)</refrence>
+<authors>K.Miernik, K.P.Rykaczewski, R.Grzywacz, C.J.Gross, D.W.Stracener, J.C.Batchelder, N.T.Brewer, L.Cartegni, A.Fijalkowska, J.H.Hamilton, J.K.Hwang, S.V.Ilyushkin, C.Jost, M.Karny, A.Korgul, W.Krolas, S.H.Liu, M.Madurga, C.Mazzocchi, A.J.Mendez, D.Miller, S.W.Padgett, S.V.Paulauskas, A.V.Ramayya, R.Surman, J.A.Winger, M.Wolinska-Cichocka, E.F.Zganjar</authors>
+<title>|b-decay study of neutron-rich bromine and krypton isotopes</title>
+<keywords>RADIOACTIVITY {+93}Br,{+93},{+94}Kr(|b{+-}),(|b{+-}n)[from {+238}U(p,F),E=50 MeV]; measured E|b, E|g, I|g, |b|g-, |g|g-coin, T{-1/2}, delayed neutron emission probability P(n) using LeRIBSS system at HRIBF facility. {+92},{+93}Kr; deduced levels, J, |p. {+92}Rb,{+93}Y(|b{+-}); observed gamma rays. Comparison of half-lives and P(n) values with previous experimental studies, and with model predictions.</keywords>
+<doi>10.1103/PhysRevC.88.014309</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013MI19</keyno>
+<history>A20131009</history>
+<coden>JOUR PRLTA 111 132502</coden>
+<refrence>Phys.Rev.Lett. 111, 132502 (2013)</refrence>
+<authors>K.Miernik, K.P.Rykaczewski, C.J.Gross, R.Grzywacz, M.Madurga, D.Miller, J.C.Batchelder, I.N.Borzov, N.T.Brewer, C.Jost, A.Korgul, C.Mazzocchi, A.J.Mendez, II, Y.Liu, S.V.Paulauskas, D.W.Stracener, J.A.Winger, M.Wolinska-Cichocka, E.F.Zganjar</authors>
+<title>Large |b-Delayed One and Two Neutron Emission Rates in the Decay of {+86}Ga</title>
+<keywords>RADIOACTIVITY {+86}Ga(|b{+-}),(|b{+-}n),(|b{+-}2n); measured decay products, E|g,I|g,En,In,E|b,I|b, |b|g-,|b-n-|g- and |b-n-n-coin.; deduced T{-1/2}, neutron beta-delayed neutron branching ratios, a quick onset of deformation. Comparison with available data.</keywords>
+<doi>10.1103/PhysRevLett.111.132502</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013OL06</keyno>
+<history>A20131101 M20140113</history>
+<coden>JOUR PRVCA 88 044306</coden>
+<refrence>Phys.Rev. C 88, 044306 (2013)</refrence>
+<authors>B.Olaizola, L.M.Fraile, H.Mach, A.Aprahamian, J.A.Briz, J.Cal-Gonzalez, D.Ghita, U.Koster, W.Kurcewicz, S.R.Lesher, D.Pauwels, E.Picado, A.Poves, D.Radulov, G.S.Simpson, J.M.Udias</authors>
+<title>|b{+-} decay of {+65}Mn to {+65}Fe</title>
+<keywords>RADIOACTIVITY {+65}Mn(|b{+-}),(|b{+-}n)[from U(p,X),E=1.4 GeV,RILIS]; measured E|g, I|g, E|b, |b|g-, |b|g|g-, |g|g-coin, |b|g|g(t), half-life of {+65}Mn ground state, half-lives of {+65}Fe levels by fast timing, |b-delayed neutron emission probability P{-n} at ISOLDE, CERN facility. {+65}Fe; deduced levels, isomer, J, |p, multipolarity, B(M1), B(E1), B(E2), |b feedings, logft. {+64}Fe,{+64}Co,{+65m}Fe,{+65}Ni(|b{+-}); measured E|g, I|g of selected |g rays to deduce ground state |b feeding in the decay of {+65}Mn to {+65}Fe. Comparison with shell-model calculations. {+64}Fe; deduced levels populated by |b{+-}n decay mode. Systematics of energies and B(E2) values of first 2+ states in Z=24,26,28,N=34-46 nuclei.</keywords>
+<doi>10.1103/PhysRevC.88.044306</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013TH04</keyno>
+<history>A20130329</history>
+<coden>JOUR APOBB 44 543</coden>
+<refrence>Acta Phys.Pol. B44, 543 (2013)</refrence>
+<authors>M.Thoennessen, Z.Kohley, A.Spyrou, E.Lunderberg, P.A.DeYoung, H.Attanayake, T.Baumann, D.Bazin, B.A.Brown, G.Christian, D.Divaratne, S.M.Grimes, A.Haagsma, J.E.Finck, N.Frank, B.Luther, S.Mosby, T.Nagi, G.F.Peaslee, W.A.Peters, A.Schiller, J.K.Smith, J.Snyder, M.Strongman, A.Volya</authors>
+<title>Observation of Ground-state Two-neutron Decay</title>
+<keywords>RADIOACTIVITY {+16}Be,{+26}O(2n); measured decay products, En,In; deduced decay energy spectra. Comparison with calculated two-neutron separation energies, T{-1/2}, widths.</keywords>
+<doi>10.5506/APhysPolB.44.543</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013TH07</keyno>
+<history>A20131022</history>
+<coden>JOUR NIMAE 729 207</coden>
+<refrence>Nucl.Instrum.Methods Phys.Res. A729, 207 (2013)</refrence>
+<authors>M.Thoennessen, G.Christian, Z.Kohley, T.Baumann, M.Jones, J.K.Smith, J.Snyder, A.Spyrou</authors>
+<title>Novel techniques to search for neutron radioactivity</title>
+<keywords>RADIOACTIVITY {+16}B(2n); measured decay products, En,In;   deduced new technique, T{-1/2} sensitivity.   Decay in Target (DiT) and Decay in a Magnetic Field (DiMF) methods.</keywords>
+<doi>10.1016/j.nima.2013.07.035</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013UE01</keyno>
+<history>A20130329 M20130617</history>
+<coden>JOUR PRVCA 87 034316</coden>
+<refrence>Phys.Rev. C 87, 034316 (2013)</refrence>
+<authors>H.Ueno, H.Miyatake, Y.Yamamoto, S.Tanimoto, T.Shimoda, N.Aoi, K.Asahi, E.Ideguchi, M.Ishihara, H.Izumi, T.Kishida, T.Kubo, S.Mitsuoka, Y.Mizoi, M.Notani, H.Ogawa, A.Ozawa, M.Sasaki, T.Shirakura, N.Takahashi, K.Yoneda</authors>
+<title>|b-delayed neutron and |g-ray spectroscopy of {+17}C utilizing spin-polarized {+17}B</title>
+<keywords>RADIOACTIVITY {+17}B(|b{+-}),(|b{+-}n),(|b{+-}2n)[spin polarized {+17}B beam from |b-NMR technique in {+93}Nb({+22}Ne,X),E=110 MeV/nucleon reaction]; {+16},{+17}C,{+17}N(|b{+-}),(|b{+-}n)[from {+17}B decay]; {+15}C,{+16}N(|b{+-})[from {+17}B decay products]; measured E|g, I|g, E|b, I|b, E(n) by TOF, I(n), |b-NMR, |b|g-, |b|g|g-, |bn|g-coin at RIKEN facility. {+17}C; deduced levels, J, |p, widths, P(0n), P(1n), P(2n), B(GT). {+15},{+16}C,{+15},{+17}N; deduced levels. No |g rays observed for delayed-3n and delayed-4n channels of {+17}B decay, thus P(3n), P(4n) not determined. Comparison with shell-model calculations.</keywords>
+<doi>10.1103/PhysRevC.87.034316</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013YE02</keyno>
+<history>A20130313</history>
+<coden>JOUR PRLTA 110 092501</coden>
+<refrence>Phys.Rev.Lett. 110, 092501 (2013)</refrence>
+<authors>R.M.Yee, N.D.Scielzo, P.F.Bertone, F.Buchinger, S.Caldwell, J.A.Clark, C.M.Deibel, J.Fallis, J.P.Greene, S.Gulick, D.Lascar, A.F.Levand, G.Li, E.B.Norman, M.Pedretti, G.Savard, R.E.Segel, K.S.Sharma, M.G.Sternberg, J.Van Schelt, B.J.Zabransky</authors>
+<title>|b-Delayed Neutron Spectroscopy Using Trapped Radioactive Ions</title>
+<keywords>RADIOACTIVITY {+137}I(|b{+-}n) [from {+252}Cf(SF)];measured decay products, TOF,E|b,I|b,E|g,I|g,En,In; deduced |bn branching ratios. Linear Paul trap.</keywords>
+<doi>10.1103/PhysRevLett.110.092501</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2014AG12</keyno>
+<history>A20140807</history>
+<coden>JOUR NDSBA 120 74</coden>
+<refrence>Nucl.Data Sheets 120, 74 (2014)</refrence>
+<authors>J.Agramunt, A.R.Garcia, A.Algora, J.Aysto, R.Caballero-Folch, F.Calvino, D.Cano-Ott, G.Cortes, C.Domingo-Pardo, T.Eronen, W.Gelletly, M.B.Gomez Hornillos, J.Hakala, A.Jokinen, D.Jordan, A.Kankainen, V.Kolkinen, T.Martinez, P.J.Mason, I.Moore, H.Penttila, Zs.Podolyak, M.Reponen, A.Riego, J.Rissanen, B.Rubio, A.Saastamoinen, J.L.Tain, E.Valencia</authors>
+<title>New Beta-delayed Neutron Measurements in the Light-mass Fission Group</title>
+<keywords>RADIOACTIVITY {+91}Br,{+85},{+86}As,{+85}Ge(|b{+-}),(|b{+-}n);  measured decay products, E|g,I|g,E|b,Ib,En,In.; deduced  |b-delayed neutron emission probabilities. Comparison with available data.</keywords>
+<doi>10.1016/j.nds.2014.07.010</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2014AL15</keyno>
+<history>A20140807</history>
+<coden>JOUR NDSBA 120 12</coden>
+<refrence>Nucl.Data Sheets 120, 12 (2014)</refrence>
+<authors>A.Algora, E.Valencia, J.L.Tain, M.D.Jordan, J.Agramunt, B.Rubio, E.Estevez, F.Molina, A.Montaner, V.Guadilla, M.Fallot, A.Porta, A.-A.Zakari-Issoufou, V.M.Bui, S.Rice, Zs.Podolyak, P.H.Regan, W.Gelletly, M.Bowry, P.Mason, G.F.Farrelly, J.Rissanen, T.Eronen, I.Moore, H.Penttila, J.Aysto, V.Eloma, J.Hakala, A.Jokinen, V.Kolkinen, M.Reponen, V.Sonnenschein, D.Cano-Ott, T.Martinez, E.Mendoza, A.R.Garcia, M.B.Gomez Hornillos, V.Gorlychev, R.Caballero-Folch, F.G.Kondev, A.A.Sonzogni</authors>
+<title>Total Absorption Study of Beta Decays Relevant for Nuclear Applications and Nuclear Structure</title>
+<keywords>RADIOACTIVITY {+87},{+88}Br(|b{+-}),(|b{+-}n); measured decay products, E|g,I|g,E|b,I|b, |b-|g-coin.; deduced |b-decay feeding distributions, decay heat impact. Comparison with ENDF/B-VII.1 library.</keywords>
+<doi>10.1016/j.nds.2014.06.129</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2014CA23</keyno>
+<history>A20140807</history>
+<coden>JOUR NDSBA 120 81</coden>
+<refrence>Nucl.Data Sheets 120, 81 (2014)</refrence>
+<authors>R.Caballero-Folch, C.Domingo-Pardo, G.Cortes, J.L.Tain, J.Agramunt, A.Algora, F.Ameil, Y.Ayyad, J.Benlliure, M.Bowry, F.Calvino, D.Cano-Ott, T.Davinson, I.Dillmann, A.Estrade, A.Evdokimov, T.Faestermann, F.Farinon, D.Galaviz, A.Garcia-Rios, H.Geissel, W.Gelletly, R.Gernhauser, M.B.Gomez Hornillos, C.Guerrero, M.Heil, C.Hinke, R.Knobel, I.Kojouharov, J.Kurcewicz, N.Kurz, Y.Litvinov, L.Maier, J.Marganiec, M.Marta, T.Martinez, F.Montes, I.Mukha, D.R.Napoli, C.Nociforo, C.Paradela, S.Pietri, Zs.Podolyak, A.Prochazka, S.Rice, A.Riego, B.Rubio, H.Schaffner, C.Scheidenberger, K.Smith, E.Sokol,    K.Steiger, B.Sun, M.Takechi, D.Testov, H.Weick, E.Wilson, J.S.Winfield, R.Wood, P.J.Woods, A.Yeremin</authors>
+<title>|b-decay and |b-delayed Neutron Emission Measurements at GSI-FRS Beyond N=126, for r-process Nucleosynthesis</title>
+<keywords>RADIOACTIVITY {+208},{+209},{+210},{+211}Hg,{+211},{+212},{+213},{+214},{+215}Tl,{+214},{+215},{+216},{+217},{+218}Pb(|b{+-}),(|b{+-}n); measured decay products, E|b,I|b,En,In.; deduced preliminary T{-1/2}.</keywords>
+<doi>10.1016/j.nds.2014.07.012</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2014GR03</keyno>
+<history>A20140528</history>
+<coden>JOUR APOBB 45 217</coden>
+<refrence>Acta Phys.Pol. B45, 217 (2014)</refrence>
+<authors>R.Grzywacz, K.P.Rykaczewski, C.J.Gross, M.Madurga, K.Miernik, D.T.Miller, S.V.Paulauskas, S.W.Padgett, C.Rasco, M.Wolinska-Cichocka, E.F.Zganjar</authors>
+<title>Hybrid-3Hen - New Detector for Gammas and Neutrons</title>
+<keywords>RADIOACTIVITY {+86}Ga(|b{+-}2n); measured decay products, E|g,I|g,E|b,I|b,En,In; deduced beta-delayed two neutron emission branching ratio.</keywords>
+<doi>10.5506/APhysPolB.45.217</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2014SU07</keyno>
+<history>A20140402 M20140728</history>
+<coden>JOUR PRVCA 89 034317</coden>
+<refrence>Phys.Rev. C 89, 034317 (2014)</refrence>
+<authors>S.Suchyta, S.N.Liddick, C.J.Chiara, W.B.Walters, M.P.Carpenter, H.L.Crawford, G.F.Grinyer, G.Gurdal, A.Klose, E.A.McCutchan, J.Pereira, S.Zhu</authors>
+<title>|b decay of {+61,63}V and low-energy level schemes of {+61,63}Cr</title>
+<keywords>RADIOACTIVITY {+61},{+63}V(|b{+-}),(|b{+-}n)[from {+9}Be({+76}Ge,X),E=130 MeV/nucleon]; measured E|g, I|g, |g|g-, (fragment)|g-coin, I(|b{+-}), half-lives of {+61},{+63}V ground states using A1900 fragment separator, Beta Counting System (BCS) and Segmented Ge Array (SeGA) at NSCL-MSU facility. {+61},{+63}Cr; deduced levels, J, |p, %|b{+-}n, internal-conversion coefficient, multipolarity, configurations. Comparison with shell-model calculations.</keywords>
+<keywords>NUCLEAR STRUCTURE {+55},{+57},{+59},{+61}Cr; calculated levels, J, |p, configuration amplitudes using shell-model with GXPF1A and KB3G interactions. Comparison with experimental data.</keywords>
+<doi>10.1103/PhysRevC.89.034317</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2014TA07</keyno>
+<history>A20140415</history>
+<coden>JOUR PRLTA 112 132501</coden>
+<refrence>Phys.Rev.Lett. 112, 132501 (2014)</refrence>
+<authors>J.Taprogge, A.Jungclaus, H.Grawe, S.Nishimura, P.Doornenbal, G.Lorusso, G.S.Simpson, P.-A.Soderstrom, T.Sumikama, Z.Y.Xu, H.Baba, F.Browne, N.Fukuda, R.Gernhauser, G.Gey, N.Inabe, T.Isobe, H.S.Jung, D.Kameda, G.D.Kim, Y.-K.Kim, I.Kojouharov, T.Kubo, N.Kurz, Y.K.Kwon, Z.Li, H.Sakurai, H.Schaffner, K.Steiger, H.Suzuki, H.Takeda, Zs.Vajta, H.Watanabe, J.Wu, A.Yagi, K.Yoshinaga, G.Benzoni, S.Bonig, K.Y.Chae, L.Coraggio, A.Covello, J.-M.Daugas, F.Drouet, A.Gadea, A.Gargano, S.Ilieva, F.G.Kondev, T.Kroll, G.J.Lane, A.Montaner-Piza, K.Moschner, D.Mucher, F.Naqvi, M.Niikura, H.Nishibata, A.Odahara, R.Orlandi, Z.Patel, Zs.Podolyak, A.Wendt</authors>
+<title>1p{-3/2} Proton-Hole State in {+132}Sn and the Shell Structure Along N= 82</title>
+<keywords>RADIOACTIVITY {+132}Cd(|b{+-}n) [from Be({+238}U,X), E=345 MeV/nucleon]; measured decay products, E|g,I|g; deduced energy levels, J,|p. Comparison with shell model calculations.</keywords>
+<doi>10.1103/PhysRevLett.112.132501</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2014XU07</keyno>
+<history>A20140729</history>
+<coden>JOUR PRLTA 113 032505</coden>
+<refrence>Phys.Rev.Lett. 113, 032505 (2014)</refrence>
+<authors>Z.Y.Xu, S.Nishimura, G.Lorusso, F.Browne, P.Doornenbal, G.Gey, H.-S.Jung, Z.Li, M.Niikura, P.-A.Soderstrom, T.Sumikama, J.Taprogge, Zs.Vajta, H.Watanabe, J.Wu, A.Yagi, K.Yoshinaga, H.Baba, S.Franchoo, T.Isobe, P.R.John, I.Kojouharov, S.Kubono, N.Kurz, I.Matea, K.Matsui, D.Mengoni, P.Morfouace, D.R.Napoli, F.Naqvi, H.Nishibata, A.Odahara, E.Sahin, H.Sakurai, H.Schaffner, I.G.Stefan, D.Suzuki, R.Taniuchi, V.Werner</authors>
+<title>|b-Decay Half-Lives of {+76,77}Co, {+79,80}Ni and {+81}Cu Experimental Indication of a Doubly Magic {+78}Ni</title>
+<keywords>RADIOACTIVITY {+72},{+73},{+74},{+75},{+76},{+77}Co,{+74},{+75},{+76},{+77},{+78},{+79},{+80}Ni,{+78},{+79},{+80},{+81}Cu,{+80},{+81},{+82}Zn(|b{+-}),{+77}Co,{+79},{+80}Ni,{+81}Cu(|b{+-}n)   [from Be({+238}U,X), E=345 MeV/nucleon]; measured decay products, E|b,I|b,E|g,I|g; deduced T{-1/2}. Comparison with available data, FRDM+QRPA, KTUY+GT2 calculations.</keywords>
+<doi>10.1103/PhysRevLett.113.032505</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2014YA07</keyno>
+<history>A20140422</history>
+<coden>JOUR PRLTA 112 152702</coden>
+<refrence>Phys.Rev.Lett. 112, 152702 (2014)</refrence>
+<authors>R.Yanez, W.Loveland, L.Yao, J.S.Barrett,  S.Zhu, B.B.Back, T.L.Khoo, M.Alcorta, M.Albers</authors>
+<title>Measurement of the Survival Probabilities for Hot Fusion Reactions</title>
+<keywords>RADIOACTIVITY {+274}Hs(n) [from {+248}Cm({+25}Mg,X), E=144.2 MeV; {+248}Cm({+26}Mg,X), E=160.7 MeV]; measured decay products, En,In; deduced neutron multiplicities, elastic and fission resonance widths, survival probability of excited  superheavy nuclei.</keywords>
+<doi>10.1103/PhysRevLett.112.152702</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2015BE32</keyno>
+<history>A20151201</history>
+<coden>JOUR PYLBB 751 107</coden>
+<refrence>Phys.Lett. B 751, 107 (2015)</refrence>
+<authors>G.Benzoni, A.I.Morales, H.Watanabe, S.Nishimura, L.Coraggio, N.Itaco, A.Gargano, F.Browne, R.Daido, P.Doornenbal, Y.Fang, G.Lorusso, Z.Patel, S.Rice, L.Sinclair, P.-A.Soderstrom, T.Sumikama, J.Wu, Z.Y.Xu, R.Yokoyama, H.Baba, R.Avigo, F.L.Bello Garrote, N.Blasi, A.Bracco, F.Camera, S.Ceruti, F.C.L.Crespi, G.de Angelis, M.-C.Delattre, Zs.Dombradi, A.Gottardo, T.Isobe, I.Kuti, K.Matsui, B.Melon, D.Mengoni, T.Miyazaki, V.Modamio-Hoybjor</authors>
+<title>Decay properties of {+68,69,70}Mn: Probing collectivity up to N = 44 in Fe isotopic chain</title>
+<keywords>RADIOACTIVITY {+68},{+69},{+70}Mn(|b{+-}),(|b{+-}n)  [from Be({+238}U,X), E=345 MeV/nucleon]; measured decay products, E|g,I|g,E|b,I|b;  deduced |g-ray  energies, T{-1/2},  |b-delayed neutron emission probabilities. Comparison with FRDM + QRPA and  KTUY + GT2 calculations.</keywords>
+<doi>10.1016/j.physletb.2015.10.025</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2015CA09</keyno>
+<history>A20150731 M20151019</history>
+<coden>JOUR PRVCA 92 014327</coden>
+<refrence>Phys.Rev. C 92, 014327 (2015)</refrence>
+<authors>L.Caceres, A.Lepailleur, O.Sorlin, M.Stanoiu, D.Sohler, Zs.Dombradi, S.K.Bogner, B.A.Brown, H.Hergert, J.D.Holt, A.Schwenk, F.Azaiez, B.Bastin, C.Borcea, R.Borcea, C.Bourgeois, Z.Elekes, Zs.Fulop, S.Grevy, L.Gaudefroy, G.F.Grinyer, D.Guillemaud-Mueller, F.Ibrahim, A.Kerek, A.Krasznahorkay, M.Lewitowicz, S.M.Lukyanov, J.Mrazek, F.Negoita, F.de Oliveira, Yu.-E.Penionzhkevich, Zs.Podolyak, M.G.Porquet, F.Rotaru, P.Roussel-Chomaz, M.G.Saint-Laurent, H.Savajols, G.Sletten, J.C.Thomas, J.Timar, C.Timis, Zs.Vajta</authors>
+<title>Nuclear structure studies of {+24}F</title>
+<keywords>NUCLEAR REACTIONS {+9}Be({+36}S,X){+24}O/{+26}F/{+27}Ne/{+28}Ne/{+29}Na/{+30}Na,E=77.6 MeV/nucleon; measured energy loss, TOF, yields using LISE achromatic spectrometer at GANIL facility. C({+27}Na,{+24}F),E=54-65 MeV/nucleon,[secondary cocktail beam of {+25},{+26}Ne,{+27},{+28}Na,{+29},{+30}Mg from C({+36}S,X),E=77.6 MeV/nucleon primary reaction, and separated using ALPHA and SPEG spectrometers]; measured E|g, I|g, (particle)|g-, |g|g-coin using Chateau de Cristal array. {+24}F; deduced levels, J, |p, branching ratios, configurations. Comparison with shell-model calculations using USDA and USDB interactions, and ab initio shell-model calculations, using interactions derived from chiral NN+3N forces by means of IM-SRG.</keywords>
+<keywords>RADIOACTIVITY {+24}O(|b{+-}),(|b{+-}n)[from Be({+36}S,X),E=77.6 MeV/nucleon using LISE spectrometer at GANIL]; measured E|g, I|g, E|b, |b|g-, |g|g-coin, ({+24}O)|b-correlations, half-life of {+24}O isotope from ({+24}O)|g-correlated decay curve, |b-delayed neutron emission probability P{-n} using four segmented Ge clover detectors of EXOGAM array for |g rays and DSSSDs for particles. {+24}F; deduced levels, J, |p, branching ratios, |b feedings, logft. Comparison with shell-model calculations.</keywords>
+<doi>10.1103/PhysRevC.92.014327</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2015ET01</keyno>
+<history>A20150630 M20150908</history>
+<coden>JOUR PRVCA 91 064317</coden>
+<refrence>Phys.Rev. C 91, 064317 (2015)</refrence>
+<authors>A.Etile, D.Verney, N.N.Arsenyev, J.Bettane, I.N.Borzov, M.C.Mhamed, P.V.Cuong, C.Delafosse, F.Didierjean, C.Gaulard, Nguyen Van Giai, A.Goasduff, F.Ibrahim, K.Kolos, C.Lau, M.Niikura, S.Roccia, A.P.Severyukhin, D.Testov, S.Tusseau-Nenez, V.V.Voronov</authors>
+<title>Low-lying intruder and tensor-driven structures in {+82}As revealed by |b decay at a new movable-tape-based experimental setup</title>
+<keywords>RADIOACTIVITY {+82}Ge(|b{+-})[from {+238}U(e,F),E=50 MeV followed by online mass separation using PARRNe mass separator at ALTO ISOL facility of IPN-Orsay]; measured E|g, I|g, |b|g-, |g|g-coin, half-life of {+82}Ge isotope using BEDO detector assembly. {+82}As; deduced levels, J, three potential 1+ states, |p, |b feedings, logft. Comparison with experimental and theoretical values of two 1+ states in {+82}As and {+80}Ga. Comparison with empirical core-particle coupling model and fully microscopic treatment within Skyrme-QRPA (quasiparticle random-phase approximation) approach. Discussed Gamow-Teller fragmentation due to tensor correlations and couplings to 2p-2h excitations. {+82}Ga(|b{+-}); measured half-life from growth-decay curve for 1348-keV |g ray, and compared with earlier experimental value. {+81},{+82},{+82m}As,{+81},{+81m}Ge,{+82}Ga,{+130},{+132}Sb,{+132}Sn(|b{+-}),{+82}Ga(|b{+-}n); observed |g rays from fission fragments present in the sample.</keywords>
+<keywords>NUCLEAR STRUCTURE {+81}Ga,{+83}As,{+85}Br,{+87}Rb; calculated proton QP energies, occupation probabilities. {+80}Ga,{+82}As,{+84}Br,{+86}Rb; calculated unperturbed energies of neutron-proton 2-qp states. {+81}Ge,{+82},{+83}As,{+85}Kr,{+86},{+87}Rb; calculated levels, J, |p. {+80}Ga,{+82}As; calculated energies and structures of the QRPA dipole (1+) neutron-proton 2-qp states. Comparison with experimental data. Empirical core-particle coupling model and fully microscopic treatment within Skyrme-QRPA approach.</keywords>
+<doi>10.1103/PhysRevC.91.064317</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2015FL01</keyno>
+<history>A20150407 M20150727</history>
+<coden>JOUR PRVCA 91 034310</coden>
+<refrence>Phys.Rev. C 91, 034310 (2015)</refrence>
+<authors>F.Flavigny, D.Pauwels, D.Radulov, I.J.Darby, H.De Witte, J.Diriken, D.V.Fedorov, V.N.Fedosseev, L.M.Fraile, M.Huyse, V.S.Ivanov, U.Koster, B.A.Marsh, T.Otsuka, L.Popescu, R.Raabe, M.D.Seliverstov, N.Shimizu, A.M.Sjodin, Y.Tsunoda, P.Van den Bergh, P.Van Duppen, J.Van de Walle, M.Venhart, W.B.Walters, K.Wimmer</authors>
+<title>Characterization of the low-lying 0{++} AND 2{++} states in {+68}Ni via |b decay of the low-spin {+68}Co isomer</title>
+<keywords>RADIOACTIVITY {+68}Co(|b{+-}),(|b{+-}n)[from {+68}Mn -> {+68}Fe -> {+68}Co decay chain, {+68}Mn from {+238}U(p,F),E=1 GeV]; measured E|g, I|g, |b|g-, |g|g-coin, half-life of first excited 0+ state by |b|g(t) using RILIS and Miniball array at ISOLDE-CERN facility. {+68}Ni; deduced levels, J, |p, |b feedings, logft, E0 decays, delayed neutron emission probability P{-n}, B(E2), configuration. Comparison with previous results, and with Monte Carlo shell model (MCSM) calculations. {+67},{+68}Fe,{+67}Co,{+68}Ga,{+136}I(|b{+-}); detected |g rays.</keywords>
+<keywords>NUCLEAR STRUCTURE {+68}Ni; calculated Potential energy surfaces in (Q{-0},Q{-2}) plane for the ground state and first 2+ state. Large-scale Monte Carlo shell model calculations. Comparison with experimental data.</keywords>
+<doi>10.1103/PhysRevC.91.034310</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2015HI02</keyno>
+<history>A20150302 M20150609</history>
+<coden>JOUR PRVCA 91 024328</coden>
+<refrence>Phys.Rev. C 91, 024328 (2015)</refrence>
+<authors>Y.Hirayama, T.Shimoda, H.Miyatake, H.Izumi, A.Hatakeyama, K.P.Jackson, C.D.P.Levy, M.Pearson, M.Yagi, H.Yano</authors>
+<title>Unexpected spin-parity assignments of the excited states in {+9}Be</title>
+<keywords>RADIOACTIVITY {+9}Li(|b{+-}),(|b{+-}n)[30.5 keV {+9}Li beam polarized by collinear optical pumping technique]; measured E|b, E(n) by TOF, I(n), n|b-coin, |b-decay asymmetry spectrum as function of TOF at TRIUMF-ISAC facility. {+9}Be; deduced levels, J, |p, |b-delayed neutron transitions, asymmetry parameter for each |b transition, I|b, logft. Comparison with previous experimental data, and theoretical shell-model calculations. {+5}He,{+8}Be; deduced neutron branching ratios from states in {+9}Be through n+{+8}Be and |a+{+5}He channels to 0+ and first 2+ states in {+8}Be and 3/2- state in {+5}He.</keywords>
+<doi>10.1103/PhysRevC.91.024328</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2015KO19</keyno>
+<history>A20151202 M20160208</history>
+<coden>JOUR PRVCA 92 054318</coden>
+<refrence>Phys.Rev. C 92, 054318 (2015)</refrence>
+<authors>A.Korgul, K.P.Rykaczewski, R.Grzywacz, C.R.Bingham, N.T.Brewer, A.A.Ciemny, C.J.Gross, C.Jost, M.Karny, M.Madurga, C.Mazzocchi, A.J.Mendez, K.Miernik, D.Miller, S.Padgett, S.V.Paulauskas, D.W.Stracener, M.Wolinska-Cichocka</authors>
+<title>Experimental study of |b and |b-n decay of the neutron-rich N = 54 isotone {+87}As</title>
+<keywords>RADIOACTIVITY {+87}As(|b{+-}),(|b{+-}n)[from {+238}U(p,F),E=54 MeV at HIRBF-ORNL]; measured E|g, I|g, E|b, |b|g-, |g|g-coin. {+86},{+87}Se; deduced levels, J, |p. {+87}As; discussed ground state J, |p and configuration. Comparison with shell model calculations, and with structures of N=53 nuclei {+83}Zn and {+85}Ge.</keywords>
+<keywords>NUCLEAR STRUCTURE {+83}Zn,{+85}Ge,{+87}Se; calculated levels, J, |p using shell model. Comparison with experimental data.</keywords>
+<doi>10.1103/PhysRevC.92.054318</doi>
+</nsr-entry>
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2015LE14</keyno>
+<history>A20151102 M20160120</history>
+<coden>JOUR PRVCA 92 044320</coden>
+<refrence>Phys.Rev. C 92, 044320 (2015)</refrence>
+<authors>P.Lee, C.-B.Moon, C.S.Lee, A.Odahara, R.Lozeva, A.Yagi, S.Nishimura, P.Doornenbal, G.Lorusso, P.-A.Soderstrom, T.Sumikama, H.Watanabe, T.Isobe, H.Baba, H.Sakurai, F.Browne, R.Daido, Y.Fang, H.Nishibata, Z.Patel, S.Rice, L.Sinclair, J.Wu, Z.Y.Xu, R.Yokoyama, T.Kubo, N.Inabe, H.Suzuki, N.Fukuda, D.Kameda, H.Takeda, D.S.Ahn, D.Murai, F.L.Bello Garrote, J.M.Daugas, F.Didierjean, E.Ideguchi, T.Ishigaki, H.S.Jung, T.Komatsubara, Y.K.Kwon, S.Morimoto, M.Niikura, I.Nishizuka, K.Tshoo</authors>
+<title>|b-delayed |g-ray spectroscopy of non-yrast states in {+138}Te near the neutron drip line</title>
+<keywords>RADIOACTIVITY {+138}Sb(|b{+-}),{+139}Sb(|b{+-}n)[from {+9}Be({+238}U,F),E=345 MeV/nucleon using BigRIPS separator at RIBF-RIKEN]; measured E|g, I|g, |g|g-coin using EURICA array. {+138}Te; deduced levels, J, |p, |b feedings, logft. {+138}Sb; measured half-life of the ground state; deduced J|p of the ground state from |b feedings. Comparison of level structure with shell-model calculations. Systematics of energies of first 2+, 4+ and 6+ states in N=54-86 Te isotopes.</keywords>
+<doi>10.1103/PhysRevC.92.044320</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2015MA61</keyno>
+<history>A20151202 M20160208</history>
+<coden>JOUR PRVCA 92 054317</coden>
+<refrence>Phys.Rev. C 92, 054317 (2015)</refrence>
+<authors>C.Mazzocchi, K.P.Rykaczewski, R.Grzywacz, P.Baczyk, C.R.Bingham, N.T.Brewer, C.J.Gross, C.Jost, M.Karny, A.Korgul, M.Madurga, A.J.Mendez, K.Miernik, D.Miller, S.Padgett, S.V.Paulauskas, A.A.Sonzogni, D.W.Stracener, M.Wolinska-Cichocka</authors>
+<title>|b-decay properties of the very neutron-rich isotopes {+86}Ge and {+86}As</title>
+<keywords>RADIOACTIVITY {+86}Ge,{+86}As(|b{+-}),(|b{+-}n)[from {+238}U(p,F),E=54 MeV at HIRBF-ORNL]; measured E|g, I|g, E|b, |b|g-, |b|g|g-, |g|g-coin. {+85},{+86}As,{+85},{+86}Se; deduced levels, J, |p, |b feedings, logft, B(GT), configurations. Comparison of level structures of {+86}As and {+86}Se, and B(GT) with advanced shell model calculations. Discussed fission yield for {+86}Ge in different evaluated libraries.</keywords>
+<doi>10.1103/PhysRevC.92.054317</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2015TA17</keyno>
+<history>A20150810 M20190102</history>
+<coden>JOUR PRLTA 115 062502</coden>
+<refrence>Phys.Rev.Lett. 115, 062502 (2015)</refrence>
+<authors>J.L.Tain, E.Valencia, A.Algora, J.Agramunt, B.Rubio, S.Rice, W.Gelletly, P.Regan, A.-A.Zakari-Issoufou, M.Fallot, A.Porta, J.Rissanen, T.Eronen, J.Aysto, L.Batist, M.Bowry, V.M.Bui, R.Caballero-Folch, D.Cano-Ott, V.-V.Elomaa, E.Estevez, G.F.Farrelly, A.R.Garcia, B.Gomez-Hornillos, V.Gorlychev, J.Hakala, M.D.Jordan, A.Jokinen, V.S.Kolhinen, F.G.Kondev, T.Martinez, E.Mendoza, I.Moore, H.Penttila, Zs.Podolyak, M.Reponen, V.Sonnenschein, A.A.Sonzogni</authors>
+<title>Enhanced |g-Ray Emission from Neutron Unbound States Populated in |b Decay</title>
+<keywords>RADIOACTIVITY {+87},{+88}Br,{+94}Rb(|b{+-}),(|b{+-}n); measured decay products, E|b,I|b,En,In,E|g,I|g; deduced  |g-ray branching ratio. Comparison with Hauser-Feshbach statistical calculations.</keywords>
+<doi>10.1103/PhysRevLett.115.062502</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016AG03</keyno>
+<history>A20160217</history>
+<coden>JOUR NIMAE 807 69</coden>
+<refrence>Nucl.Instrum.Methods Phys.Res. A807, 69 (2016)</refrence>
+<authors>J.Agramunt, J.L.Tain, M.B.Gomez Hornillos, A.R.Garcia, F.Albiol, A.Algora, R.Caballero-Folch, F.Calvino, D.Cano-Ott, G.Cortes, C.Domingo-Pardo, T.Eronen, W.Gelletly, D.Gorelov, V.Gorlychev, H.Hakala, A.Jokinen, M.D.Jordan, A.Kankainen, V.Kolhinen, L.Kucuk, T.Martinez, P.J.R.Mason, I.Moore, H.Penttila, Zs.Podolyak, C.Pretel, M.Reponen, A.Riego, J.Rissanen, B.Rubio, A.Saastamoinen, A.Tarifeno-Saldivia, E.Valencia</authors>
+<title>Characterization of a neutron-beta counting system with beta-delayed neutron emitters</title>
+<keywords>RADIOACTIVITY {+94},{+95}Rb,{+88}Br,{+137}I(|b{+-}n); measured decay products, E|b,I|b,En,In; deduced neutron emission probabilities, |b-spectra. Comparison with Monte Carlo calculations.</keywords>
+<doi>10.1016/j.nima.2015.10.082</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016AL10</keyno>
+<history>A20160503 M20160725</history>
+<coden>JOUR PRVCA 93 044325</coden>
+<refrence>Phys.Rev. C 93, 044325 (2016)</refrence>
+<authors>M.F.Alshudifat, R.Grzywacz, M.Madurga, C.J.Gross, K.P.Rykaczewski, J.C.Batchelder, C.Bingham, I.N.Borzov, N.T.Brewer, L.Cartegni, A.Fijalkowska, J.H.Hamilton, J.K.Hwang, S.V.Ilyushkin, C.Jost, M.Karny, A.Korgul, W.Krolas, S.H.Liu, C.Mazzocchi, A.J.Mendez, K.Miernik, D.Miller, S.W.Padgett, S.V.Paulauskas, A.V.Ramayya, D.W.Stracener, R.Surman, J.A.Winger, M.Wolinska-Cichocka, E.F.Zganjar</authors>
+<title>Reexamining Gamow-Teller decays near {+78}Ni</title>
+<keywords>RADIOACTIVITY {+82},{+83}Zn,{+82},{+83}Ga(|b{+-}),(|b{+-}n)[from {+238}U(p,F),E=50 MeV]; measured E|g, I|g, E|b, |b|g-, |g|g-coin, half-lives of decay of {+82},{+83}Zn, {+83}Ga, |b-delayed neutron branching ratio P{-n} for {+82}Zn decay at HRIBF-ORNL facility. {+81},{+82},{+83}Ga,{+81},{+82}Ge; deduced levels, J, |p, beta feedings, logft. Comparison of level spectra with shell-model calculations, and with previous experimental results. {+82},{+83}Zn,{+82},{+83}Ga(|b{+-}); calculated B(GT) strengths using shell-model with NUSHELLX computer code.</keywords>
+<doi>10.1103/PhysRevC.93.044325</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016BR02</keyno>
+<history>A20160331</history>
+<coden>JOUR APOBB 47 755</coden>
+<refrence>Acta Phys.Pol. B47, 755 (2016)</refrence>
+<authors>J.A.Briz, for the IGISOL Collaboration</authors>
+<title>Total Absorption Spectroscopy of Fission Fragments Relevant for Reactor Antineutrino Spectra Determination</title>
+<keywords>RADIOACTIVITY {+92}Rb(|b{+-}),(|b{+-}n) [U(p,X), E not given]; measured decay products, E|g,I|g; deduced decay spectrum, |b-feeding distributions.</keywords>
+<doi>10.5506/APhysPolB.47.755</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016BY01</keyno>
+<history>A20160913</history>
+<coden>JOUR NIMAE 834 164</coden>
+<refrence>Nucl.Instrum.Methods Phys.Res. A834, 164 (2016)</refrence>
+<authors>V.M.Bystritsky, G.N.Dudkin, S.I.Kuznetsov, V.A.Varlachev, V.N.Padalko</authors>
+<title>Experiment to find the neutron clusters in the decay of {+238}U nuclei</title>
+<keywords>RADIOACTIVITY {+238}U(6n); measured decay products, En,In; deduced neutron cluster emission decay constant.</keywords>
+<doi>10.1016/j.nima.2016.07.045</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016CA25</keyno>
+<history>A20160712 M20161212</history>
+<coden>JOUR PRLTA 117 012501</coden>
+<refrence>Phys.Rev.Lett. 117, 012501 (2016)</refrence>
+<authors>R.Caballero-Folch, C.Domingo-Pardo, J.Agramunt, A.Algora, F.Ameil, A.Arcones, Y.Ayyad, J.Benlliure, I.N.Borzov, M.Bowry,  F.Calvino, D.Cano-Ott, G.Cortes, T.Davinson, I.Dillmann, A.Estrade, A.Evdokimov, T.Faestermann, F.Farinon, D.Galaviz, A.R.Garcia, H.Geissel, W.Gelletly, R.Gernhauser, M.B.Gomez Hornillos, C.Guerrero, M.Heil, C.Hinke, R.Knobel, I.Kojouharov, J.Kurcewicz, N.Kurz, Yu.A.Litvinov, L.Maier, J.Marganiec, T.Marketin, M.Marta, T.Martinez, G.Martinez-Pinedo, F.Montes, I.Mukha, D.R.Napoli, C.Nociforo, C.Paradela, S.Pietri, Zs.Podolyak, A.Prochazka, S.Rice, A.Riego, B.Rubio, H.Schaffner, Ch.Scheidenberger, K.Smith, E.Sokol, K.Steiger, B.Sun, J.L.Tain, M.Takechi, D.Testov, H.Weick, E.Wilson, J.S.Winfield, R.Wood, P.Woods, A.Yeremin</authors>
+<title>First Measurement of Several |b-Delayed Neutron Emitting Isotopes Beyond N = 126</title>
+<keywords>RADIOACTIVITY {+204},{+205},{+206}Au,{+208},{+209},{+210},{+211}Hg,{+211},{+212},{+213}Tl,{+214},{+215},{+216}Tl, {+215},{+216},{+217},{+218}Pb, {+218},{+219},{+220}Bi(|b{+-}n) [from Be({+238}U,X), E=1 GeV/nucleon];  measured decay products, E|b,I|b,En,In, |b-n coinc.; deduced T{-1/2},  neutron branching ratios. Comparison with available data, theoretical calculations.</keywords>
+<doi>10.1103/PhysRevLett.117.012501</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016JU02</keyno>
+<history>A20160503 M20160725</history>
+<coden>JOUR PRVCA 93 041301</coden>
+<refrence>Phys.Rev. C 93, 041301 (2016)</refrence>
+<authors>A.Jungclaus, A.Gargano, H.Grawe, J.Taprogge, S.Nishimura, P.Doornenbal, G.Lorusso, Y.Shimizu, G.S.Simpson, P.-A.Soderstrom, T.Sumikama, Z.Y.Xu, H.Baba, F.Browne, N.Fukuda, R.Gernhauser, G.Gey, N.Inabe, T.Isobe, H.S.Jung, D.Kameda, G.D.Kim, Y.-K.Kim, I.Kojouharov, T.Kubo, N.Kurz, Y.K.Kwon, Z.Li, H.Sakurai, H.Schaffner, K.Steiger, H.Suzuki, H.Takeda, Zs.Vajta, H.Watanabe, J.Wu, A.Yagi, K.Yoshinaga, S.Bonig, L.Coraggio, J.-M.Daugas, F.Drouet, A.Gadea, S.Ilieva, N.Itaco, T.Kroll, A.Montaner-Piza, K.Moschner, D.Mucher, H.Nishibata, A.Odahara, R.Orlandi, A.Wendt</authors>
+<title>First observation of |g rays emitted from excited states south-east of {+132}Sn: The |p g{+-1}{-9/2} (X) |nf{-7/2} multiplet of {+132}In{-83}</title>
+<keywords>RADIOACTIVITY {+133}Cd(|b{+-}),(|b{+-}n)[from {+9}Be({+238}U,F),E=345 MeV/nucleon using BigRIPS fragment separator and ZeroDegree spectrometer at RIBF-RIKEN facility]; measured E|g, I|g, ({+133}Cd ions)|g-coin using WAS3ABi detection system of DSSSDs for |b rays and ions, and 12 large-volume Ge cluster detectors for gamma rays. {+132}In; deduced levels, J, |p. Shell-model calculations.</keywords>
+<keywords>NUCLEAR REACTIONS {+9}Be({+238}U,F){+129}Cd{+47+}/{+130}Cd{+47+}/{+132}Cd{+48+}/{+133}Cd{+48+},E=345 MeV/nucleon; measured partial particle identification plot of Z=45-51 isotopes and mass-to-charge ratio A/q using BigRIPS fragment separator and ZeroDegree spectrometer at RIBF-RIKEN facility.</keywords>
+<doi>10.1103/PhysRevC.93.041301</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016KO24</keyno>
+<history>A20160713 M20161103</history>
+<coden>JOUR PRVCA 93 064324</coden>
+<refrence>Phys.Rev. C 93, 064324 (2016)</refrence>
+<authors>A.Korgul, K.P.Rykaczewski, R.K.Grzywacz, C.R.Bingham, N.T.Brewer, C.J.Gross, A.A.Ciemny, C.Jost, M.Karny, M.Madurga, C.Mazzocchi, A.J.Mendez, K.Miernik, D.Miller, S.Padgett, S.V.Paulauskas, M.Piersa, D.W.Stracener, M.Stryjczyk, M.Wolinska-Cichocka, E.F.Zganjar</authors>
+<title>|b and |b - n decay of the neutron-rich {+84}Ge nucleus</title>
+<keywords>RADIOACTIVITY {+84}Ge(|b{+-}),(|b{+-}n)[from {+238}U(p,F) using IRIS2 ion source at HRIBF-ORNL cyclotron facility]; measured E|g, I|g, E|b, |b|g-, |b|g|g-coin using detection setup at the Low-Energy Radioactive Ion Beam Spectroscopy Station (LeRIBSS). {+84}As; deduced levels, J, |p, I|b feedings, logft. {+83}As; one |g ray observed. Systematics of low-spin levels in {+82}Ge,{+84}As,{+86}Br,{+88}Rb,{+90}Y. Comparison with shell model calculations.</keywords>
+<doi>10.1103/PhysRevC.93.064324</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016MA50</keyno>
+<history>A20160829</history>
+<coden>JOUR PRLTA 117 092502</coden>
+<refrence>Phys.Rev.Lett. 117, 092502 (2016)</refrence>
+<authors>M.Madurga, S.V.Paulauskas, R.Grzywacz, D.Miller, D.W.Bardayan, J.C.Batchelder, N.T.Brewer, J.A.Cizewski, A.Fijalkowska, C.J.Gross, M.E.Howard, S.V.Ilyushkin, B.Manning, M.Matos, A.J.Mendez, II, K.Miernik, S.W.Padgett, W.A.Peters, B.C.Rasco, A.Ratkiewicz, K.P.Rykaczewski, D.W.Stracener, E.H.Wang, M.Wolinska-Cichocka, E.F.Zganjar</authors>
+<title>Evidence for Gamow-Teller Decay of {+78}Ni Core from Beta-Delayed Neutron Emission Studies</title>
+<keywords>RADIOACTIVITY {+83},{+84}Ga(|b{+-}),(|b{+-}n)  [from {+238}U(p,X), E not given]; measured decay products, En,In, E|g,I|g. {+78}Ni; deduced |b-decay strength, strong multineutron emission probabilities, |b-decay lifetimes. Shell model calculations, neutron time-of-flight technique.</keywords>
+<doi>10.1103/PhysRevLett.117.092502</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016MO07</keyno>
+<history>A20160401 M20160623</history>
+<coden>JOUR PRVCA 93 034328</coden>
+<refrence>Phys.Rev. C 93, 034328 (2016)</refrence>
+<authors>A.I.Morales, G.Benzoni, H.Watanabe, S.Nishimura, F.Browne, R.Daido, P.Doornenbal, Y.Fang, G.Lorusso, Z.Patel, S.Rice, L.Sinclair, P.-A.Soderstrom, T.Sumikama, J.Wu, Z.Y.Xu, A.Yagi, R.Yokoyama, H.Baba, R.Avigo, F.L.Bello Garrote, N.Blasi, A.Bracco, F.Camera, S.Ceruti, F.C.L.Crespi, G.de Angelis, M.-C.Delattre, Zs.Dombradi, A.Gottardo, T.Isobe, I.Kojouharov, N.Kurz, I.Kuti, K.Matsui, B.Melon, D.Mengoni, T.Miyazaki, V.Modamio-Hoyborg, S.Momiyama, D.R.Napoli, M.Niikura, R.Orlandi, H.Sakurai, E.Sahin, D.Sohler, H.Shaffner, R.Taniuchi, J.Taprogge, Zs.Vajta, J.J.Valiente-Dobon, O.Wieland, M.Yalcinkaya</authors>
+<title>Low-lying excitations in {+72}Ni</title>
+<keywords>RADIOACTIVITY {+72}Co(|b{+-}),(|b{+-}n),(|b{+-}2n),{+73}Co(|b{+-}n)[from {+9}Be({+238}U,F),E=345 MeV/nucleon using BigRIPS separator and ZeroDegree spectrometer at RIBF-RIKEN facility]; measured E|g, I|g, |b|g|g-coin, ({+72}Co implants)|b-correlations, half-lives of low-spin and high-spin activities of {+72}Co using WAS3ABi setup and EURICA array, level half-lives by fast-timing |g|g(t) method. {+72}Ni; levels, J, |p, |b feedings, logft values, configurations. {+70},{+71}Ni; observed |g rays from |b-delayed-neutron decay of {+72}Co. Comparison with previous experimental results, and with simple shell-model calculations including only neutron excitations across the fpg shells.</keywords>
+<doi>10.1103/PhysRevC.93.034328</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016OL06</keyno>
+<history>A20161201 M20170130</history>
+<coden>JOUR PRVCA 94 054318</coden>
+<refrence>Phys.Rev. C 94, 054318 (2016)</refrence>
+<authors>B.Olaizola, H.Mach, L.M.Fraile, J.Benito, M.J.G.Borge, R.Boutami, P.A.Butler, Z.Dlouhy, H.O.U.Fynbo, P.Hoff, S.Hyldegaard, H.B.Jeppesen, A.Jokinen, C.Jollet, A.Korgul, U.Koster, Th.Kroll, W.Kurcewicz, F.Marechal, J.Mrazek, T.Nilsson, W.A.Plociennik, E.Ruchowska, R.Schuber, W.Schwerdtfeger, M.Sewtz, G.S.Simpson, M.Stanoiu, O.Tengblad, P.G.Thirolf, D.T.Yordanov</authors>
+<title>High-sensitivity study of levels in {+30}Al following |b decay of {+30}Mg</title>
+<keywords>RADIOACTIVITY {+30}Mg(|b{+-}),(|b{+-}n)[from U(p,F),E=1.4 GeV at CERN-ISOLDE]; measured  E|g, I|g, E|b, I|b, |b|g-, |b|g|g-coin, level half-lives by |b|g|g(t) fast timing method. {+30}Al; deduced levels, J, |p, B(M1). Comparisons with shell-model calculations.</keywords>
+<doi>10.1103/PhysRevC.94.054318</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016RA25</keyno>
+<history>A20160829</history>
+<coden>JOUR PRLTA 117 092501</coden>
+<refrence>Phys.Rev.Lett. 117, 092501 (2016)</refrence>
+<authors>B.C.Rasco, M.Wolinska-Cichocka, A.Fijalkowska, K.P.Rykaczewski, M.Karny, R.K.Grzywacz, K.C.Goetz, C.J.Gross, D.W.Stracener, E.F.Zganjar, J.C.Batchelder, J.C.Blackmon, N.T.Brewer, S.Go, B.Heffron, T.King, J.T.Matta, K.Miernik, C.D.Nesaraja, S.V.Paulauskas, M.M.Rajabali, E.H.Wang, J.A.Winger, Y.Xiao, C.J.Zachary</authors>
+<title>Decays of the Three Top Contributors to the Reactor |n(bar){-e} High-Energy Spectrum, {+92}Rb, {+96gs}Y, and {+142}Cs, Studied with Total Absorption Spectroscopy</title>
+<keywords>RADIOACTIVITY {+92}Rb,{+96}Y,{+142}Cs(|b{+-}),(|b{+-}n)  [from {+238}U(p,X), E=40 MeV]; measured decay products, E|g,I|g; deduced |b-feeding intensity, impact on a reactor anti-neutrino spectrum. Comparison with available data.</keywords>
+<doi>10.1103/PhysRevLett.117.092501</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016TE09</keyno>
+<history>A20161010</history>
+<coden>JOUR NIMAE 815 96</coden>
+<refrence>Nucl.Instrum.Methods Phys.Res. A815, 96 (2016)</refrence>
+<authors>D.Testov, D.Verney, B.Roussiere, J.Bettane, F.Didierjean, K.Flanagan, S.Franchoo, F.Ibrahim, E.Kuznetsova, R.Li, B.Marsh, I.Matea, Yu.Penionzhkevich, H.Pai, V.Smirnov, E.Sokol, I.Stefan, D.Suzuki, J.N.Wilson</authors>
+<title>The {+3}He long-counter TETRA at the ALTO ISOL facility</title>
+<keywords>RADIOACTIVITY {+82}Ga(|b{+-}n),(|b{+-}); measured decay products, E|g,I|g, En,In; deduced |g-ray energies and intensities, T{-1/2}, neutron emission branching ratio. Comparison with available data.</keywords>
+<doi>10.1016/j.nima.2015.11.150</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016WA16</keyno>
+<history>A20160601 M20160912</history>
+<coden>JOUR PRVCA 93 054301</coden>
+<refrence>Phys.Rev. C 93, 054301 (2016)</refrence>
+<authors>Z.M.Wang, A.B.Garnsworthy, C.Andreoiu, G.C.Ball, P.C.Bender, V.Bildstein, D.S.Cross, G.Demand, R.Dunlop, L.J.Evitts, P.E.Garrett, G.Hackman, B.Hadinia, S.Ketelhut, R.Krucken, K.G.Leach, A.T.Laffoley, D.Miller, M.Moukaddam, J.Pore, A.J.Radich, M.M.Rajabali, C.E.Svensson, A.Tan, E.Tardiff, C.Unsworth, A.Voss, P.Voss</authors>
+<title>Observation of a large |b-delayed neutron emission component in {+102}Rb decay and identification of excited states in {+102}Sr</title>
+<keywords>RADIOACTIVITY {+102}Rb(|b{+-}),(|b{+-}n)[from U(p,F),E=500 MeV at TRIUMF-ISAC facility]; measured E|b, E|g, I|g, |b|g-, |g|g-coin using 8|p array for |g detection and SCEPTAR plastic scintillator for |b detection. {+102},{+102}Sr; deduced levels, J, |p, delayed neutron-emission probability P{-n}. Systematics of absolute intensity of the first 2+ to 0+ transition, and direct ground-state feeding in |b-delayed neutron emission in the |b decays of {+94},{+96},{+98},{+100},{+102}Rb. Plots of P{-n}/T{-1/2} versus Q{-|bn} for decays of {+94},{+96},{+98},{+100},{+102}Rb, and comparison with theoretical and phenomenological descriptions. {+102}Zr,{+102}Sr,{+101}Zr(|b{+-}); observed |g rays.</keywords>
+<doi>10.1103/PhysRevC.93.054301</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017AH07</keyno>
+<history>A20171206</history>
+<coden>JOUR PRVDA 96 092005</coden>
+<refrence>Phys.Rev. D 96, 092005 (2017)</refrence>
+<authors>B.Aharmim, for the SNO Collaboration</authors>
+<title>Search for neutron-antineutron oscillations at the Sudbury Neutrino Observatory</title>
+<keywords>RADIOACTIVITY {+2}H,{+16}O(n-bar); measured oscillation products, E|b,I|b,E|g,I|g; deduced the T{-1/2} lower limit.</keywords>
+<doi>10.1103/PhysRevD.96.092005</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017CA12</keyno>
+<history>A20170711 M20170807</history>
+<coden>JOUR PRVCA 95 064322</coden>
+<refrence>Phys.Rev. C 95, 064322 (2017)</refrence>
+<authors>R.Caballero-Folch, C.Domingo-Pardo, J.Agramunt, A.Algora, F.Ameil, Y.Ayyad, J.Benlliure, M.Bowry, F.Calvino, D.Cano-Ott, G.Cortes, T.Davinson, I.Dillmann, A.Estrade, A.Evdokimov, T.Faestermann, F.Farinon, D.Galaviz, A.R.Garcia, H.Geissel, W.Gelletly, R.Gernhauser, M.B.Gomez Hornillos, C.Guerrero, M.Heil, C.Hinke, R.Knobel, I.Kojouharov, J.Kurcewicz, N.Kurz, Yu.A.Litvinov, L.Maier, J.Marganiec, M.Marta, T.Martinez, F.Montes, I.Mukha, D.R.Napoli, C.Nociforo, C.Paradela, S.Pietri, Zs.Podolyak, A.Prochazka, S.Rice, A.Riego, B.Rubio, H.Schaffner, Ch.Scheidenberger, K.Smith, E.Sokol, K.Steiger, B.Sun, J.L.Tain, M.Takechi, D.Testov, H.Weick, E.Wilson, J.S.Winfield, R.Wood, P.J.Woods, A.Yeremin</authors>
+<title>|b-decay half-lives and |b-delayed neutron emission probabilities for several isotopes of Au, Hg, Tl, Pb, and Bi, beyond N=126</title>
+<keywords>RADIOACTIVITY {+204},{+205},{+206}Au,{+208},{+209},{+210},{+211}Hg,{+211},{+212},{+213},{+214},{+215},{+216}Tl,{+215},{+216},{+217},{+218}Pb,{+218},{+219},{+220}Bi(|b{+-})[from {+9}Be({+238}U,X),E=1 GeV/nucleon using FRS at GSI]; {+210},{+211}Hg,{+211},{+212},{+213},{+214},{+215},{+216}Tl(|b{+-}n); measured E|b, I|b, E(n), I(n), |b-decay half-lives, beta-delayed neutron emission probabilities using BELEN array of 30 {+3}He neutron counters. Comparison with previous experimental values, and with several theoretical calculations.</keywords>
+<keywords>NUCLEAR REACTIONS {+9}Be({+238}U,X){+200}Pt/{+201}Pt/{+202}Pt/{+203}Pt/{+204}Pt/{+205}Pt/{+203}Au/{+204}Au/{+205}Au/{+206}Au/{+207}Au/{+208}Au/{+209}Au/{+206}Hg/{+207}Hg/{+208}Hg/{+209}Hg/{+210}Hg/{+211}Hg/{+212}Hg/{+213}Hg/{+209}Tl/{+210}Tl/{+211}Tl/{+212}Tl/{+213}Tl/{+214}Tl/{+215}Tl/{+216}Tl/{+212}Pb/{+213}Pb/{+214}Pb/{+215}Pb/{+216}Pb/{+217}Pb/{+218}Pb/{+219}Pb/{+215}Bi/{+216}Bi/{+217}Bi/{+218}Bi/{+219}Bi/{+220}Bi/{+221}Bi/{+222}Bi,{+220}Po/{+221}Po/{+222}Po/{+223}Po/{+224}Po/{+225}Po/{+226}Po/{+227}Po/{+223}At/{+223}At/{+224}At/{+225}At/{+226}At/{+227}At/{+228}At/{+229}At/{+230}At/{+226}Rn/{+227}Rn/{+228}Rn/{+229}Rn/{+230}Rn/{+231}Rn/{+230}Fr/{+231}Fr/{+232}Fr,E=1 GeV/nucleon; measured reaction products, particle identification (A/Z) plots, number of implants using FRS separator and segmented silicon detectors (SIMBA) at UNILAC-GSI facility.</keywords>
+<doi>10.1103/PhysRevC.95.064322</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017KO11</keyno>
+<history>A20170512 M20170714</history>
+<coden>JOUR PRVCA 95 044305</coden>
+<refrence>Phys.Rev. C 95, 044305 (2017)</refrence>
+<authors>A.Korgul, K.P.Rykaczewski, R.K.Grzywacz, C.R.Bingham, N.T.Brewer, C.J.Gross, C.Jost, M.Karny, M.Madurga, C.Mazzocchi, A.J.Mendez, K.Miernik, D.Miller, S.Padgett, S.V.Paulauskas, M.Piersa, D.W.Stracener, M.Stryjczyk, M.Wolinska-Cichocka, E.F.Zganjar</authors>
+<title>Experimental study of the |b decay of the very neutron-rich nucleus {+85}Ge</title>
+<keywords>RADIOACTIVITY {+85}Ge(|b{+-}),(|b{+-}n)[from {+238}U(p,F) at HRIBF-ORNL facility]; measured E|g, I|g, |b|g- and |b|g|g-coin. {+85}As; deduced levels, J, |p, |b feedings, logft. Comparison with shell-model predictions. {+84}As; observed |g rays from |b{+-}n decay of {+85}Ge. {+84},{+85}Se,{+85}Br; observed |g rays from daughter nuclei.</keywords>
+<doi>10.1103/PhysRevC.95.044305</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017LI03</keyno>
+<history>A20170301 M20170410</history>
+<coden>JOUR PRVCA 95 021301</coden>
+<refrence>Phys.Rev. C 95, 021301 (2017)</refrence>
+<authors>R.Lica, for the IDS Collaboration</authors>
+<title>Identification of the crossing point at N=21  between normal and intruder configurations</title>
+<keywords>RADIOACTIVITY {+34}Mg(|b{+-}),(|b{+-}n)[from U(p,X),E=1.4 GeV at ISOLDE-CERN]; measured E|g, I|g, |b radiation, |b-gated |g spectra, |b-gated |g|g-coin, half-life of {+34}Mg decay from |g-decay curve, relative to the proton impact. {+34}Al; deduced levels, J, |p, |b feedings, log ft, configurations, %|b{+-}n probability. Comparison with large-scale shell-model calculations using SDPF-U-MIX interaction.</keywords>
+<doi>10.1103/PhysRevC.95.021301</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017LI06</keyno>
+<history>A20170327</history>
+<coden>JOUR JPGPE 44 054002</coden>
+<refrence>J.Phys.(London) G44, 054002 (2017)</refrence>
+<authors>R.Lica, G.Benzoni, A.I.Morales, M.J.G.Borge, L.M.Fraile, H.Mach, M.Madurga, C.Sotty, V.Vedia, H.De Witte, J.Benito, T.Berry, N.Blasi, A.Bracco, F.Camera, S.Ceruti, V.Charviakova, N.Cieplicka-Orynczak, C.Costache, F.C.L.Crespi, J.Creswell, G.Fernandez-Martinez, H.Fynbo, P.Greenlees, I.Homm, M.Huyse, J.Jolie, V.Karayonchev, U.Koster, J.Konki, T.Kroll, J.Kurcewicz, T.Kurtukian-Nieto, I.Lazarus, S.Leoni, M.Lund, N.Marginean, R.Marginean, C.Mihai, R.Mihai, A.Negret, A.Orduz, Z.Patyk, S.Pascu, V.Pucknell, P.Rahkila, J.M.Regis, F.Rotaru, N.Saed-Samii, V.Sanchez-Tembleque, M.Stanoiu, O.Tengblad, M.Thuerauf, A.Turturica, P.Van Duppen, N.Warr</authors>
+<title>|b decay studies of n-rich Cs isotopes with the ISOLDE Decay Station</title>
+<keywords>RADIOACTIVITY {+148},{+149},{+150}Cs(|b{+-}),(|b{+-}n)[from U(p,X),E=1.4 GeV at ISOLDE-CERN]; measured reaction products, E|g, I|g, |b|g-, |g|g-coin,  half-lives of ground states of {+148},{+149},{+150}Cs, %P{-n} for the decay of {+149}Cs, half-lives of levels in {+149}Ba and {+148}Ce by |b|g|g(t). {+149}Ba;  deduced levels, |b feedings, multipolarities, half-lives. {+148}Ce; deduced half-life of the first 2+ state. Comparison with previous experimental half-lives, and with theoretical calculations.</keywords>
+<doi>10.1088/1361-6471/aa6015</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017MO12</keyno>
+<history>A20170512 M20170714</history>
+<coden>JOUR PRVCA 95 044322</coden>
+<refrence>Phys.Rev. C 95, 044322 (2017)</refrence>
+<authors>B.Moon, C.-B.Moon, P.-A.Soderstrom, A.Odahara, R.Lozeva, B.Hong, F.Browne, H.S.Jung, P.Lee, C.S.Lee, A.Yagi, C.Yuan, S.Nishimura, P.Doornenbal, G.Lorusso, T.Sumikama, H.Watanabe, I.Kojouharov, T.Isobe, H.Baba, H.Sakurai, R.Daido, Y.Fang, H.Nishibata, Z.Patel, S.Rice, L.Sinclair, J.Wu, Z.Y.Xu, R.Yokoyama, T.Kubo, N.Inabe, H.Suzuki, N.Fukuda, D.Kameda, H.Takeda, D.S.Ahn, Y.Shimizu, D.Murai, F.L.Bello Garrote, J.M.Daugas, F.Didierjean, E.Ideguchi, T.Ishigaki, S.Morimoto, M.Niikura, I.Nishizuka, T.Komatsubara, Y.K.Kwon, K.Tshoo</authors>
+<title>Nuclear structure and |b-decay schemes for Te nuclides beyond N=82</title>
+<keywords>RADIOACTIVITY {+140}Sb(|b{+-}),(|b{+-}n),(|b{+-}2n)[From {+9}Be({+238}U,F),E=345 MeV/nucleon]; measured E|g, I|g, half-life of {+140}Sb decay, |b|g-, |g|g-coin at RIBF-RIKEN facility. {+138},{+139},{+140}Te; deduced levels, J, |p, |b feedings, delayed one- and two-neutron decay probabilities (P{-n} and P{-2n}), logft. Systematics of E(4+)/E(2+) values for nuclei with Z=50-70 with N=76-88. Discussed reduction of neutron-pairing energy.</keywords>
+<doi>10.1103/PhysRevC.95.044322</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017MO19</keyno>
+<history>A20170801 M20170831</history>
+<coden>JOUR PRVCA 96 014325</coden>
+<refrence>Phys.Rev. C 96, 014325 (2017)</refrence>
+<authors>B.Moon, C.-B.Moon, A.Odahara, R.Lozeva, P.-A.Soderstrom, F.Browne, C.Yuan, A.Yagi, B.Hong, H.S.Jung, P.Lee, C.S.Lee, S.Nishimura, P.Doornenbal, G.Lorusso, T.Sumikama, H.Watanabe, I.Kojouharov, T.Isobe, H.Baba, H.Sakurai, R.Daido, Y.Fang, H.Nishibata, Z.Patel, S.Rice, L.Sinclair, J.Wu, Z.Y.Xu, R.Yokoyama, T.Kubo, N.Inabe, H.Suzuki, N.Fukuda, D.Kameda, H.Takeda, D.S.Ahn, Y.Shimizu, D.Murai, F.L.Bello Garrote, J.M.Daugas, F.Didierjean, E.Ideguchi, T.Ishigaki, S.Morimoto, M.Niikura, I.Nishizuka, T.Komatsubara, Y.K.Kwon, K.Tshoo</authors>
+<title>|b-decay scheme of {+140}Te to {+140}I: Suppression of Gamow-Teller transitions between the neutron h{-9/2} and proton h{-11/2} partner orbitals</title>
+<keywords>RADIOACTIVITY {+140}Te(|b{+-}),(|b{+-}n)[from {+9}Be({+238}U,F),E=345 MeV/nucleon using BigRIPS separator at RIBF-RIKEN]; measured E|g, I|g, |b|g-, |g|g-coin, half-life of {+140}Te decay using EUROBALL-RIKEN Cluster Array (EURICA) for |g rays and WAS3ABi array for |b and ion detection. {+140}I; deduced levels, J, |p, logft, multipolarities, configurations. Comparison with shell model and Nilsson model calculations. Systematic of Gamow-Teller strengths of 1+ states in {+136},{+140},{+142}I,{+142},{+146}Cs,{+142},{+144},{+146},{+148}La,{+146}Pr. {+139}I; observed |g rays.</keywords>
+<doi>10.1103/PhysRevC.96.014325</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017OL08</keyno>
+<history>A20171121</history>
+<coden>JOUR JPGPE 44 125103</coden>
+<refrence>J.Phys.(London) G44, 125103 (2017)</refrence>
+<authors>B.Olaizola, L.M.Fraile, H.Mach, A.Poves, A.Aprahamian, J.A.Briz, J.Cal-Gonzalez, D.Ghita, U.Koster, W.Kurcewicz, S.R.Lesher, D.Pauwels, E.Picado, D.Radulov, G.S.Simpson, J.M.Udias</authors>
+<title>Beta decay of {+66}Mn to the N = 40 nucleus {+66}Fe</title>
+<keywords>RADIOACTIVITY {+66}Mn(|b{+-}),(|b{+-}n) [from U(p,X), E=1.4 GeV]; measured decay products, E|g,I|g; deduced {+66}Fe T{-1/2}, |g-ray energies and intensities, B(E2), B(M1) limits. Comparison with shell model calculations.</keywords>
+<doi>10.1088/1361-6471/aa915e</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017RA10</keyno>
+<history>A20170602 M20170726</history>
+<coden>JOUR PRVCA 95 054328</coden>
+<refrence>Phys.Rev. C 95, 054328 (2017)</refrence>
+<authors>B.C.Rasco, K.P.Rykaczewski, A.Fijalkowska, M.Karny, M.Wolinska-Cichocka, R.K.Grzywacz, C.J.Gross, D.W.Stracener, E.F.Zganjar, J.C.Blackmon, N.T.Brewer, K.C.Goetz, J.W.Johnson, C.U.Jost, J.H.Hamilton, K.Miernik, M.Madurga, D.Miller, S.Padgett, S.V.Paulauskas, A.V.Ramayya, E.H.Spejewski</authors>
+<title>Complete |b-decay pattern for the high-priority decay-heat isotopes {+137}I and {+137}Xe determined using total absorption spectroscopy</title>
+<keywords>RADIOACTIVITY {+137}I,{+137}Xe(|b{+-})[from U(p,F),E=50 MeV]; {+137}I(|b{+-}n); measured E|g, I|g, total absorption gamma-ray spectra using Modular Total Absorption Spectrometer (MTAS) at ORNL; deduced beta-delayed neutron spectrum, beta-delayed neutron emission probability for {+137}I decay, I|b feedings, ratio of MTAS measured |g decay heat to calculated |g decay heat for thermal neutrons+{+235}U. Comparison with the evaluated data in the ENSDF database at NNDC.</keywords>
+<doi>10.1103/PhysRevC.95.054328</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017TR02</keyno>
+<history>A20170301 M20170410</history>
+<coden>JOUR PRVCA 95 024308</coden>
+<refrence>Phys.Rev. C 95, 024308 (2017)</refrence>
+<authors>V.Tripathi, R.S.Lubna, B.Abromeit, H.L.Crawford, S.N.Liddick, Y.Utsuno, P.C.Bender, B.P.Crider, R.Dungan, P.Fallon, K.Kravvaris, N.Larson, A.O.Macchiavelli, T.Otsuka, C.J.Prokop, A.L.Richard, N.Shimizu, S.L.Tabor, A.Volya, S.Yoshida</authors>
+<title>|b decay of {+38,40}Si (T{-z} =+5, +6) to low-lying core excited states in odd-odd {+38-40}P isotopes</title>
+<keywords>RADIOACTIVITY {+38},{+40}Si(|b{+-}),(|b{+-}n)[from {+9}Be({+48}Ca,X),E=140 MeV/nucleon using A1900 separator at NSCL-MSU facility]; measured E|g, I|g, E|b, |g|g-coin, |b-correlated |g spectra, half-lives and delayed-neutron probabilities (P{-n}) of decays of {+38}Si and {+40}Si using planar germanium double-sided strip detector (GeDSSD) and SeGA array. {+38},{+40}P; deduced levels, J, |p, |b feedings log ft values. Comparison with known experimental level schemes of {+34} and {+36}P, and with shell model calculations using SDPF-MU interaction. {+36},{+38},{+40}Si(|b{+-}); calculated half-lives and log ft values of decays of Si isotopes, beta-delayed neutron probabilities (P{-n}) using shell model, and compared with experimental values.</keywords>
+<keywords>NUCLEAR STRUCTURE {+34},{+36},{+38},{+40}P; calculated levels, J, |p, proton and neutron occupancies for the ground state and the three excited 1+ states, Gamow-Teller matrix elements for the 1+ states. Shell model calculations with SDPF-MU interaction. Comparison with experimental data.</keywords>
+<doi>10.1103/PhysRevC.95.024308</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017VE01</keyno>
+<history>A20170602 M20170726</history>
+<coden>JOUR PRVCA 95 054320</coden>
+<refrence>Phys.Rev. C 95, 054320 (2017)</refrence>
+<authors>D.Verney, D.Testov, F.Ibrahim, Yu.Penionzhkevich, B.Roussiere, V.Smirnov, F.Didierjean, K.Flanagan, S.Franchoo, E.Kuznetsova, R.Li, B.Marsh, I.Matea, H.Pai, E.Sokol, I.Stefan, D.Suzuki</authors>
+<title>Pygmy Gamow-Teller resonance in the N=50 region: New evidence from staggering of |b-delayed neutron-emission probabilities</title>
+<keywords>RADIOACTIVITY {+82},{+83},{+84}Ga(|b{+-}),(|b{+-}n)[from {+238}U(|g,F),E 50 MeV bremsstrahlung beam followed by ionization using RILIS and PARRNe on-line separator at ALTO ISOL facility]; measured E|g, I|g, |b spectrum, |b-gated |g and |b(neutron)-gated |g spectra, delayed neutrons, %|b{+-}n and half-lives of decays of {+82},{+83},{+84}Ga using 4|p long-counter TETRA for neutrons; deduced systematics of %|b{+-}n values, B(GT) strengths. {+81},{+82},{+83},{+84}Ge; deduced levels.</keywords>
+<doi>10.1103/PhysRevC.95.054320</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2018AL20</keyno>
+<history>A20180508</history>
+<coden>JOUR PRVDA 97 072007</coden>
+<refrence>Phys.Rev. D 97, 072007 (2018)</refrence>
+<authors>J.B.Albert, for the EXO-200 Collaboration</authors>
+<title>Search for nucleon decays with EXO-200</title>
+<keywords>RADIOACTIVITY {+136}Xe(3p),(n2p); measured decay products, E|b,I|b; deduced T{-1/2} for nucleon decay. Comparison with available data.</keywords>
+<doi>10.1103/PhysRevD.97.072007</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2018CA22</keyno>
+<history>A20181003 M20181127</history>
+<coden>JOUR PRVCA 98 034310</coden>
+<refrence>Phys.Rev. C 98, 034310 (2018)</refrence>
+<authors>R.Caballero-Folch, I.Dillmann, J.Agramunt, J.L.Tain, A.Algora, J.Aysto, F.Calvino, L.Canete, G.Cortes, C.Domingo-Pardo, T.Eronen, E.Ganioglu, W.Gelletly, D.Gorelov, V.Guadilla, J.Hakala, A.Jokinen, A.Kankainen, V.Kolhinen, J.Koponen, M.Marta, E.Mendoza, A.Montaner-Piza, I.Moore, C.R.Nobs, S.E.A.Orrigo, H.Penttila, I.Pohjalainen, J.Reinikainen, A.Riego, S.Rinta-Antila, B.Rubio, P.Salvador-Castineira, V.Simutkin, A.Tarifeno-Saldivia, A.Tolosa-Delgado, A.Voss</authors>
+<title>First determination of |b-delayed multiple neutron emission beyond A-100 through direct neutron measurement: The P{-2n} value of {+136}Sb</title>
+<keywords>RADIOACTIVITY {+136}Sb(|b{+-}),(|b{+-}n),(|b{+-}2n),{+136}Te(|b{+-}),(|b{+-}n)[from U(p,F),E=25 MeV]; measured E|b{+-}, I|b{+-}, E(n), I(n), |b{+-} and neutron time correlated events, %|b{+-}n (or P{-1n}) for decays of {+136}Sb and {+136}Te, and %|b{+-}2n (or P{-2n}) for decay of {+136}Sb using JYFLTRAP Penning trap for isotope separation, plastic scintillator for |b detection, and BELEN array of {+3}He counter tubes for neutron detection at the University of Jyvaskyla accelerator facility. Comparison with previous experimental values, evaluated data, and with several theoretical predictions.</keywords>
+<doi>10.1103/PhysRevC.98.034310</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2018LI06</keyno>
+<history>A20180206</history>
+<coden>JOUR PRVCA 97 024305</coden>
+<refrence>Phys.Rev. C 97, 024305 (2018)</refrence>
+<authors>R.Lica, for the IDS Collaboration</authors>
+<title>Evolution of deformation in neutron-rich Ba isotopes up to A=150</title>
+<keywords>RADIOACTIVITY {+148},{+150}Cs(|b{+-}),(|b{+-}n)[from U(p,X),E=1.4 GeV using General Purpose Separator (GPS) at ISOLDE-CERN]; measured E|g, I|g, E|b, |g|g- and |b|g-coin, half-lives of the decays of {+148},{+150}Cs, half-lives of first 2+ states in {+148},{+150}Ba by fast-timing technique using four HPGe detectors, three LaBr{-3}(Ce) detectors for fast-timing and three plastic scintillators for |b particle detection. {+148},{+150}Ba; deduced levels, J, |p, B(E2), deformations, |b feedings, logft. {+148}Cs; deduced %|b{+-}n for its decay. Comparison with previous experimental data, and with symmetry conserving configuration  mixing (SCCM) calculations. Level systematics in neighboring nuclides.</keywords>
+<keywords>NUCLEAR STRUCTURE {+142},{+144},{+146},{+148},{+150}Ba; calculated potential energy surfaces in (|b{-2},|b{-3}) plane; deduced evolution of quadrupoledeformed shapes with a definite octupolar character. Symmetry conserving configuration mixing (SCCM) calculations. Comparison with experimental data.</keywords>
+<doi>10.1103/PhysRevC.97.024305</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2018MI03</keyno>
+<history>A20180516 M20180605</history>
+<coden>JOUR PRVCA 97 054317</coden>
+<refrence>Phys.Rev. C 97, 054317 (2018)</refrence>
+<authors>K.Miernik, K.P.Rykaczewski, R.Grzywacz, C.J.Gross, M.Madurga, D.Miller, D.W.Stracener, J.C.Batchelder, N.T.Brewer, A.Korgul, C.Mazzocchi, A.J.Mendez, Y.Liu, S.V.Paulauskas, J.A.Winger, M.Wolinska-Cichocka, E.F.Zganjar</authors>
+<title>|b-delayed neutron emission from {+85}Ga</title>
+<keywords>RADIOACTIVITY {+85}Ga(|b{+-}),(|b{+-}n)[from U(p,X),E=50 MeV at HRIBF-ORNL facility, followed by ion extraction using RILIS and mass analysis]; measured E|g, I|g, E|b, neutrons, |b|g-, |g|g- and |bn|g-coin using two HPGe clover detectors, two plastic |b detectors, and 48 {+3}He ionization chambers for neutron detection. {+85}Ga,{+84}Ge; deduced levels, |b feedings, logft, %|b{+-n} and %|b{+-2n}, cumulative |b strength function for decay of {+85}Ga. {+85}Ge(|b{+-}n); deduced %|b{+-}n for decay of {+85}Ge. Comparison with shell-model calculations, and with theoretical |b-delayed neutron emission models.</keywords>
+<doi>10.1103/PhysRevC.97.054317</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2018RA27</keyno>
+<history>A20190206</history>
+<coden>JOUR NIMAE 911 79</coden>
+<refrence>Nucl.Instrum.Methods Phys.Res. A911, 79 (2018)</refrence>
+<authors>B.C.Rasco, N.T.Brewer, R.Yokoyama, R.Grzywacz, K.P.Rykaczewski, A.Tolosa-Delgado, J.Agramunt, J.L.Tain, A.Algora, O.Hall, C.Griffin, T.Davinson, V.H.Phong, J.Liu, S.Nishimura, G.G.Kiss, N.Nepal, A.Estrade</authors>
+<title>The ORNL analysis technique for extracting |b-delayed multi-neutron branching ratios with BRIKEN</title>
+<keywords>RADIOACTIVITY {+77}Cu(|b{+-}),(|b{+-}n); measured (implants)(neutron) correlations, %|b{+-}n or P{-1n} at RIKEN; discussed statistical and systematic uncertainties, and methods to determine multi-neutron |b-delayed branching ratios from BRIKEN setup. Comparison with literature values.</keywords>
+<doi>10.1016/j.nima.2018.09.121</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2018RE06</keyno>
+<history>A20180420</history>
+<coden>JOUR PRLTA 120 152504</coden>
+<refrence>Phys.Rev.Lett. 120, 152504 (2018)</refrence>
+<authors>A.Revel, for the R3B Collaboration</authors>
+<title>Strong Neutron Pairing in core+4n Nuclei</title>
+<keywords>RADIOACTIVITY {+18}C,{+20}O(2n) [from  C,H({+19}C,n){+18}C,({+21}O,n){+20}O, E=430 MeV/nucleon]; measured reaction products, En,In; deduced Dalitz plots of fragments, two-neutron correlation functions. Comparison with available data.</keywords>
+<doi>10.1103/physrevlett.120.152504</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2018ST18</keyno>
+<history>A20190114 M20190305</history>
+<coden>JOUR PRVCA 98 064326</coden>
+<refrence>Phys.Rev. C 98, 064326 (2018)</refrence>
+<authors>M.Stryjczyk, Y.Tsunoda, I.G.Darby, H.De Witte, J.Diriken, D.V.Fedorov, V.N.Fedosseev, L.M.Fraile, M.Huyse, U.Koster, B.A.Marsh, T.Otsuka, D.Pauwels, L.Popescu, D.Radulov, M.D.Seliverstov, A.M.Sjodin, P.Van den Bergh, P.Van Duppen, M.Venhart, W.B.Walters, K.Wimmer</authors>
+<title>|b{+-}decay study of the {+66}Mn - {+66}Fe - {+66}Co - {+66}Ni decay chain</title>
+<keywords>RADIOACTIVITY {+66}Mn(|b{+-}),(|b{+-}n)[from U(p,F), Mn beam purified by laser resonance ionization and mass separation]; {+66}Fe(|b{+-})[from {+66}Mn |b{+-} decay]; {+66}Co(|b{+-})[from {+66}Fe |b{+-} decay]; measured E|b, I|b, E|g, I|g, half-lives of |b-decaying {+66}Mn,{+66}Fe,{+66}Co, |g|g- and |b|g|g-coin, half-lives of isomers in {+65}Fe, {+66}Co  by |g(t) using plastic scintillators for |b detection and MiniBall cluster Ge detectors for |g detection at ISOLDE-CERN. {+65},{+66}Fe,{+66}Co,{+66}Ni; deduced levels, isomers, J, |p, |b feedings, logft, B(GT) values, %|b{+-}n value for the decay of {+66}Mn. Comparison with Monte Carlo shell model calculations.</keywords>
+<keywords>NUCLEAR STRUCTURE {+66}Mn,{+66}Fe,{+66}Co,{+66}Ni; calculated average proton and neutron occupation numbers for selected low-lying positive-parity states, potential energy surface (PES) in (Q{-0},Q{-2}) plane, levels, J, |p, B(M1), B(E2) using Monte Carlo Shell model with the A3DA interactions. Comparison with experimental data.</keywords>
+<doi>10.1103/PhysRevC.98.064326</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2019AB06</keyno>
+<history>A20190802 M20190926</history>
+<coden>JOUR PRVCA 100 014323</coden>
+<refrence>Phys.Rev. C 100, 014323 (2019)</refrence>
+<authors>B.Abromeit, V.Tripathi, H.L.Crawford, S.N.Liddick, S.Yoshida, Y.Utsuno, P.C.Bender, B.P.Crider, R.Dungan, P.Fallon, K.Kravvaris, N.Larson, R.S.Lubna, T.Otsuka, C.J.Prokop, A.L.Richard, N.Shimizu, S.L.Tabor, A.Volya</authors>
+<title>|B{+-} decay of T{-z} = +11/2 isotopes {+37}Al and {+39}Si: Understanding Gamow-Teller strength distribution in neutron-rich nuclei</title>
+<keywords>RADIOACTIVITY {+37}Al,{+37},{+39},{+40}Si,{+37},{+39}P(|b{+-})[from {+9}Be({+48}Ca,X),E=140 MeV/nucleon, followed by fragment separation using A1900 separator at NSCL-MSU]; {+37}Al,{+39}Si(|b{+-}n); measured |b, E|g, I|g, |b|g-coin, half-lives of decays of {+37}Al, {+37}Si and {+39}Si, %|b{+-}n for decays of {+37}Al and {+39}Si using |b-counting system (BCS) at NSCL-MSU which consisted of silicon PIN detectors, segmented planar Ge double-sided strip detector (GeDSSD) for implants and |b{+-} detection, and an array of 16 segmented Ge detectors for |g rays. {+36}Si,{+37}Si,{+37},{+39},{+40}P,{+37},{+39}S; deduced levels, J, |p, |b feedings, logft, %|b{+-}n. Systematics of low-lying positive |p states in {+35},{+37},{+39}P, and T{-1/2} in N=20-28 Si isotopes. Comparison with shell model calculations.</keywords>
+<keywords>NUCLEAR STRUCTURE {+35},{+37},{+39}P,{+37},{+39}S,{+37}Si; calculated levels, J, |p, logft values. Shell model calculations using the SDPFSDG-MU interaction. Comparison with experimental data from the present experiment, and the evaluated data in the ENSDF database at NNDC.</keywords>
+<doi>10.1103/PhysRevC.100.014323</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2019DU12</keyno>
+<history>A20190503 M20190625</history>
+<coden>JOUR PRVCA 99 045805</coden>
+<refrence>Phys.Rev. C 99, 045805 (2019)</refrence>
+<authors>R.Dunlop, C.E.Svensson, C.Andreoiu, G.C.Ball, N.Bernier, H.Bidaman, V.Bildstein, M.Bowry, D.S.Cross, I.Dillmann, M.R.Dunlop, F.H.Garcia, A.B.Garnsworthy, P.E.Garrett, G.Hackman, J.Henderson, J.Measures, D.Mucher, B.Olaizola, K.Ortner, J.Park, C.M.Petrache, J.L.Pore, J.K.Smith, D.Southall, M.Ticu, J.Turko, K.Whitmore, T.Zidar</authors>
+<title>|b decay and |b-delayed neutron decay of the N=82 nucleus {+131}{-49}In{-82}</title>
+<keywords>RADIOACTIVITY {+131}In(|b{+-}),(|b{+-}n)[from U(p,F),E=480 MeV]; measured E|g, I|g, I|b{+-}, |g|g-, |b|g-, and |b|g|g-coin, half-lives of 9/2+ ground state, 1/2- and 21/2+ isomers in {+131}In, and those of 10+ isomer in {+130}Sn, and (23/2-) isomer in {+131}Sn using the GRIFFIN array for |g detection and the SCEPTAR array for |b detection at TRIUMF-ISAC facility. {+130},{+131}Sn,{+130}Sb; deduced levels, J, |p, conversion coefficient, multipolarity, configurations, |b feedings, delayed-neutron emission probabilities P{-n} for 21/2+ isomer, and combined P{-n} for 1/2- isomer and 9/2+ g.s. for the decays of {+131}In activities. Comparison with previous experimental results.</keywords>
+<doi>10.1103/PhysRevC.99.045805</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2019GU29</keyno>
+<history>A20191105 M20200103</history>
+<coden>JOUR PRVCA 100 044305</coden>
+<refrence>Phys.Rev. C 100, 044305 (2019)</refrence>
+<authors>V.Guadilla, J.L.Tain, A.Algora, J.Agramunt, D.Jordan, M.Monserrate, A.Montaner-Piza, E.Nacher, S.E.A.Orrigo, B.Rubio, E.Valencia, M.Estienne, M.Fallot, L.Le Meur, J.A.Briz, A.Cucoanes, A.Porta, T.Shiba, A.-A.Zakari-Issoufou, A.A.Sonzogni, J.Aysto, T.Eronen, D.Gorelov, J.Hakala, A.Jokinen, A.Kankainen, V.S.Kolhinen, J.Koponen, I.D.Moore, H.Penttila, I.Pohjalainen, J.Reinikainen, M.Reponen, S.Rinta-Antila, K.Rytkonen, V.Sonnenschein, A.Voss, L.M.Fraile, V.Vedia, E.Ganioglu, W.Gelletly, M.Lebois, J.N.Wilson, T.Martinez</authors>
+<title>Total absorption |g-ray spectroscopy of the |b-delayed neutron emitters {+137}I and {+95}Rb</title>
+<keywords>RADIOACTIVITY {+95}Rb,{+137}I(|b{+-}),(|b{+-}n)[from U(p,X),E=25 MeV, and separated using IGISOL separator and JYFL trap at Jyvaskyla]; measured E|g, I|g, total-absorption |g (TAGS) spectra, |b-gated TAGS spectra using Decay Total Absorption |g-ray Spectrometer (DTAS) with 18 NaI(Tl) crystals, a plastic |b detector and an HPGe detector; deduced |b-intensity distributions, absolute |g intensities per 100 decays for the main levels populated in daughter nuclei, integral I{-|b|g} or P{-|g} values above S(n), competition of |g and neutron emissions above S(n) and compared with Hauser-Feshbach calculations, average |g and |b energies; evaluated impact of the present results on reactor antineutrino summation calculations. Comparison with previous experimental data, and with evaluated data in ENSDF, ENDF/B-VII.1 and JEFF-3.1.1.</keywords>
+<doi>10.1103/PhysRevC.100.044305</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2019LI41</keyno>
+<history>A20191007 M20191202</history>
+<coden>JOUR PRVCA 100 034306</coden>
+<refrence>Phys.Rev. C 100, 034306 (2019)</refrence>
+<authors>R.Lica, for the IDS Collaboration</authors>
+<title>Normal and intruder configurations in {+34}Si populated in the |b{+-} decay of {+34}Mg and {+34}Al</title>
+<keywords>RADIOACTIVITY {+34}Mg,{+34},{+34m}Al(|b{+-}),(|b{+-}n)[from U(p,X),E=1 GeV pulsed beam from ISOLDE-CERN, followed by selective ionization using the RILIS technique, and A=34 separation using the ISOLDE General Purpose Separator]; measured E|g, I|g, E|b, |b|g-, |g|g- and |b|g|g-coin, half-lives of decays of {+34}Al and {+34m}Al, half-life of excited 0+ state in {+34}Si by |b(E0)(t), deduced %|b{+-}n or P{-n}. {+34}Si; deduced levels, J, |p, |b feedings, logft, B(E2), configurations, intruder configurations, absence of triaxial deformation in {+34}Si. Discussed Mixing between the first and second 0+ states in {+34}Si. Comparison with large scale shell-model calculations using the SDPF-U-MIX interaction. Systematics of energies of 4- and 5- states in N=20,Z=14-20 even-even nuclei.</keywords>
+<doi>10.1103/PhysRevC.100.034306</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2019NI04</keyno>
+<history>A20190304 M20190422</history>
+<coden>JOUR PRVCA 99 024322</coden>
+<refrence>Phys.Rev. C 99, 024322 (2019)</refrence>
+<authors>H.Nishibata, S.Kanaya, T.Shimoda, A.Odahara, S.Morimoto, A.Yagi, H.Kanaoka, M.R.Pearson, C.D.P.Levy, M.Kimura, N.Tsunoda, T.Otsuka</authors>
+<title>Structure of {+31}Mg: Shape coexistence revealed by |b-|y spectroscopy with spin-polarized {+31}Na</title>
+<keywords>RADIOACTIVITY {+31}Na(|b{+-}),(|b{+-}n)[from {+238}U(p,X),E=500 MeV, followed by high-resolution mass separation and spin-polarization of {+31}Na beam at ISAC-I-TRIUMF facility]; measured |b spectra, polarization asymmetry of |b particles emitted by the decay of {+31}Na, E|b, I|b, E|g, I|g, |b|g(|q), |g(polarization), |b|g- and |g|g-coin, half-life of the 50-keV level in {+31}Mg by |b|g(t) using thin plastic scintillators for |b{+-} detection and Ge detectors for |g detection at TRIUMF. {+31}Mg; deduced levels, J, |p, %|b{+-}n and %|b{+-}2n, deformed rotational bands with K|p=1/2+ and 1/2-. {+31}Mg(|b{+-})[from {+31}Na |b{+-} decay]; observed |g rays. Comparison with previous experimental data, and with theoretical calculations. Systematics of energies of the lowest 1/2+, 3/2+, 3/2-, and 7/2- levels in {+31}Mg,{+33}Si,{+35}S,{+37}Ar,{+39}Ca.</keywords>
+<keywords>NUCLEAR STRUCTURE {+31}Mg; calculated levels, J, |p using antisymmetrized molecular dynamics (AMD) plus generator coordinate method (GCM), and shell model with the EEdf1 interaction, microscopically derived from chiral effective field theory. Comparison with experimental data.</keywords>
+<keywords>COMPILATION {+31}Mg; compiled and discussed experimental and evaluated data for levels, J, |p from 1984 to 2013.</keywords>
+<doi>10.1103/PhysRevC.99.024322</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2019PI04</keyno>
+<history>A20190304 M20190422</history>
+<coden>JOUR PRVCA 99 024304</coden>
+<refrence>Phys.Rev. C 99, 024304 (2019)</refrence>
+<authors>M.Piersa, for the IDS Collaboration</authors>
+<title>|b decay of {+133}In: |g emission from neutron-unbound states in {+133}Sn</title>
+<keywords>RADIOACTIVITY {+133},{+133m}In(|b{+-}),(|b{+-}n)[from U(n,F),E=fast followed by ionization using a Resonance Ionization Laser Ion Source (RILIS) and High-Resolution Separator (HRS)]; measured E|g, I|g, |b|g-coin, and half-lives of {+133}In and {+133}In isomer at ISOLDE-CERN facility. {+133}In,{+132},{+133}Sn; deduced levels, J, |p, |b feedings, logft, %|b{+-}n or P{-n}, configurations, neutron single particle states above N=82, |g emission from neutron-unbound states, competition between neutron and |g decay of levels above S(n), and doubly magic {+132}Sn region. Systematics of energies of 1/2+, 3/2+, 5/2+, 7/2+ and 11/2- states in {+125},{+127},{+129},{+131}Sn.{+132},{+133}Sn,{+132}Sb(|b{+-})[from {+133}In decay]; observed |g rays in {+132},{+133}Sb,{+132}Te.</keywords>
+<doi>10.1103/PhysRevC.99.024304</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2019TO09</keyno>
+<history>A20190624</history>
+<coden>JOUR NIMAE 925 133</coden>
+<refrence>Nucl.Instrum.Methods Phys.Res. A925, 133 (2019)</refrence>
+<authors>A.Tolosa-Delgado, for the BRIKEN Collaboration</authors>
+<title>Commissioning of the BRIKEN detector for the measurement of very exotic b-delayed neutron emitters</title>
+<keywords>NUCLEAR REACTIONS {+9}Be({+238}U,F){+73}Cu/{+74}Cu/{+75}Cu/{+74}Ni/{+75}Ni/{+76}Ni/{+77}Ni/{+78}Ni/{+76}Cu/{+77}Cu/{+78}Cu/{+79}Cu/{+80}Cu/{+79}Zn/{+80}Zn/{+81}Zn/{+82}Zn/{+81}Ga/{+82}Ga/{+83}Ga,E=345 MeV/nucleon; measured reaction products; deduced A/Q, yields using BigRIPS in-flight separator and Zero-Degree Spectrometer (ZDS) at RIBF-RIKEN facility.</keywords>
+<keywords>RADIOACTIVITY {+80}Zn,{+81},{+82}Ga(|b{+-}),(|b{+-}n) [from {+9}Be({+238}U,F), E=345 MeV/nucleon at RIBF-RIKEN]; measured decay products, E|b,I|b, En,In; deduced |b-implant-n correlations, |bn-coin, delayed neutron emission probabilities P{-n}. Comparison with previous experimental and evaluated values.</keywords>
+<doi>10.1016/j.nima.2019.02.004</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2019YO03</keyno>
+<history>A20191007 M20191202</history>
+<coden>JOUR PRVCA 100 031302(R)</coden>
+<refrence>Phys.Rev. C 100, 031302(R) (2019)</refrence>
+<authors>R.Yokoyama, R.Grzywacz, B.C.Rasco, N.Brewer, K.P.Rykaczewski, I.Dillmann, J.L.Tain, S.Nishimura, D.S.Ahn, A.Algora, J.M.Allmond, J.Agramunt, H.Baba, S.Bae, C.G.Bruno, R.Caballero-Folch, F.Calvino, P.J.Coleman-Smith, G.Cortes, T.Davinson, C.Domingo-Pardo, A.Estrade, N.Fukuda, S.Go, C.J.Griffin, J.Ha, O.Hall, L.J.Harkness-Brennan, J.Heideman, T.Isobe, D.Kahl, M.Karny, T.Kawano, L.H.Khiem, T.T.King, G.G.Kiss, A.Korgul, S.Kubono, M.Labiche, I.Lazarus, J.Liang, J.Liu, G.Lorusso, M.Madurga, K.Matsui, K.Miernik, F.Montes, A.I.Morales, P.Morrall, N.Nepal, R.D.Page, V.H.Phong, M.Piersa, M.Prydderch, V.F.E.Pucknell, M.M.Rajabali, B.Rubio, Y.Saito, H.Sakurai, Y.Shimizu, J.Simpson, M.Singh, D.W.Stracener, T.Sumikama, R.Surman, H.Suzuki, H.Takeda, A.Tarifeno-Saldivia, S.L.Thomas, A.Tolosa-Delgado, M.Wolinska-Cichocka, P.J.Woods, X.X.Xu</authors>
+<title>Strong one-neutron emission from two-neutron unbound states in |b decays of the r-process nuclei {+86,87}Ga</title>
+<keywords>RADIOACTIVITY {+84},{+85},{+86},{+87}Ga(|b{+-}),(|b{+-}n),(|b{+-}2n)[from {+9}Be({+238}U,F),E=345 MeV/nucleon, followed by separation and identification of fragments using the BigRIPS in-flight separator at RIBF-RIKEN facility]; measured secondary ions implanted into active stoppers made of double-sided silicon-strip detectors (DSSSDs), neutrons by BRIKEN array of {+3}He counters, WAS3ABi for |b and ion detection, and |g rays by two clover-type HPGe detectors, (ions)|bn-coin, half-lives of decays of {+84},{+85},{+86},{+87}Ga; deduced decay curves, %|b{+-}n (P{-1n}) and %|b{+-}2n (P{-2n}). Comparison with shell-model and QRPA calculations. Relevance to r-process modeling.</keywords>
+<doi>10.1103/PhysRevC.100.031302</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2020CZ01</keyno>
+<history>A20200227</history>
+<coden>JOUR PRVCA 101 024312</coden>
+<refrence>Phys.Rev. C 101, 024312 (2020)</refrence>
+<authors>A.Czeszumska, N.D.Scielzo, S.A.Caldwell, J.A.Clark, G.Savard, B.S.Wang, A.Aprahamian, M.T.Burkey, C.J.Chiara, J.Harker, A.F.Levand, S.T.Marley, G.Morgan, J.M.Munson, E.B.Norman, A.Nystrom, R.Orford, S.W.Padgett, A.Perez Galvan, K.S.Sharma, K.Siegl, S.Y.Strauss</authors>
+<title>|b-delayed neutron emission studies of {+137},{+138}I and {+144},{+145}Cs performed with trapped ions</title>
+<keywords>RADIOACTIVITY {+137},{+138}I,{+144},{+145}Cs(|b{+-}),(|b{+-}n)[{+252}Cf(SF) CARIBU facility and mass scans of radioactive beams with the Canadian Penning Trap (CPT) mass spectrometer at Argonne National Laboratory]; measured recoil ions, E|b, E|g, (recoil ions)|b- and |b|g-coin using Beta-decay Paul Trap with two plastic-scintillator |DE-E telescopes, two MCP detectors, and two HPGe detectors; deduced beta-delayed neutron spectra, beta-delayed neutron-emission probabilities (%|b{+-}n or P{-n}). Comparison with previous experimental results.</keywords>
+<doi>10.1103/PhysRevC.101.024312</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2020WA04</keyno>
+<history>A20200226</history>
+<coden>JOUR PRVCA 101 025806</coden>
+<refrence>Phys.Rev. C 101, 025806 (2020)</refrence>
+<authors>B.S.Wang, S.A.Caldwell, N.D.Scielzo, A.Czeszumska, J.A.Clark, G.Savard, A.Aprahamian, M.T.Burkey, C.J.Chiara, J.Harker, A.F.Levand, S.T.Marley, G.E.Morgan, J.M.Munson, E.B.Norman, A.Nystrom, R.Orford, S.W.Padgett, A.Perez Galvan, K.S.Sharma, K.Siegl, S.Y.Strauss</authors>
+<title>|b-delayed-neutron studies of {+135},{+136}Sb and {+140}I performed with trapped ions</title>
+<keywords>RADIOACTIVITY {+135},{+136}Sb,{+140}I(|b{+-}),(|b{+-}n) [from {+252}Cf(SF) CARIBU facility and mass scans of radioactive beams with the Canadian Penning Trap (CPT) mass spectrometer at Argonne National Laboratory]; measured recoil ions, E|b, E|g, (recoil ions)|b- and |b|g-coin using Beta-decay Paul Trap with two plastic-scintillator |DE-E telescopes, two MCP detectors, and two HPGe detectors; deduced beta-delayed neutron spectra, beta-delayed neutron-emission probabilities (%|b{+-}n or P{-n}). Comparison with earlier experimental results.</keywords>
+<doi>10.1103/PhysRevC.101.025806</doi>
+</nsr-entry>
