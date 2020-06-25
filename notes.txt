@@ -1,0 +1,2 @@
+1.while parsing the file, code gave error whenever there was |< some values in title and keywords, so they are replaced by lt (less than).
+2.problem in the filtering of mass.xml, divided into two subgroup, first subgroup 2010 works but still subgroup 2020 gives some error
