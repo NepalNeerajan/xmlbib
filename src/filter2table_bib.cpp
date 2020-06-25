@@ -83,7 +83,7 @@ int main()
   // Load XML file from fstream
 
   //  std::ifstream xml_file("test.xml");
-  std::ifstream xml_file("bdn.xml");
+  std::ifstream xml_file("combin_half_life_bminus_decay.xml");
 
   if(!load_elements()){
     std::cerr << "ERROR: can't load file with info on chemical elements" << std::endl;
@@ -98,8 +98,8 @@ int main()
       return 1;
     }
 
-  std::ofstream xml_new("rprocess3.xml");
-  std::ofstream xml_to_table("xml2table.txt");
+  std::ofstream xml_new("rprocess_t12.xml");
+  std::ofstream xml_to_table("xml2table_t12.txt");
 
 
   xml_document doc;

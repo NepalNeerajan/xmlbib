@@ -1,0 +1,1831 @@
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010BL04</keyno>
+<history>A20100420</history>
+<coden>JOUR NATUA 463 785</coden>
+<refrence>Nature(London) 463, 785 (2010)</refrence>
+<authors>M.Block, D.Ackermann, K.Blaum, C.Droese, M.Dworschak, S.Eliseev, T.Fleckenstein, E.Haettner, F.Herfurth, F.P.Hessberger, S.Hofmann, J.Ketelaer, J.Ketter, H.-J.Kluge, G.Marx, M.Mazzocco, Yu.N.Novikov, W.R.Plass, A.Popeko, S.Rahaman, D.Rodriguez, C.Scheidenberger, L.Schweikhard, P.G.Thirolf, G.K.Vorobyev, C.Weber</authors>
+<title>Direct mass measurements above uranium bridge the gap to the island of stability</title>
+<keywords>ATOMIC MASSES {+252},{+253},{+254}No; measured masses by Penning-trap method at GSI, using {+133}Cs as standard.</keywords>
+<doi>10.1038/nature08774</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010BR02</keyno>
+<history>A20100426</history>
+<coden>JOUR PRVCA 81 034313</coden>
+<refrence>Phys.Rev. C 81, 034313 (2010)</refrence>
+<authors>M.Breitenfeldt, Ch.Borgmann, G.Audi, S.Baruah, D.Beck, K.Blaum, Ch.Bohm, R.B.Cakirli, R.F.Casten, P.Delahaye, M.Dworschak, S.George, F.Herfurth, A.Herlert, A.Kellerbauer, M.Kowalska, D.Lunney, E.Minaya-Ramirez, S.Naimi, D.Neidherr, M.Rosenbusch, R.Savreux, S.Schwarz, L.Schweikhard, C.Yazidjian</authors>
+<title>Approaching the N=82 shell closure with mass measurements of Ag and Cd isotopes</title>
+<keywords>ATOMIC MASSES {+112},{+114},{+115},{+116},{+117},{+118},{+119},{+120},{+121},{+122},{+123},{+124}Ag,{+114},{+120},{+122},{+123},{+124},{+126},{+128}Cd; measured cyclotron frequencies relative to {+133}Cs, and mass excesses using ISOLTRAP Penning trap spectrometer; deduced excitation energies of the isomers; evaluated mass excesses; two-neutron separate energies, and proton-neutron interaction strength |dV{-pn}. Comparison with previous data and AME-2003.</keywords>
+<doi>10.1103/PhysRevC.81.034313</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010ET01</keyno>
+<history>A20100329</history>
+<coden>JOUR PRVCA 81 024314</coden>
+<refrence>Phys.Rev. C 81, 024314 (2010)</refrence>
+<authors>S.Ettenauer, M.Brodeur, T.Brunner, A.T.Gallant, A.Lapierre, R.Ringle, M.R.Pearson, P.Delheij, J.Lassen, D.Lunney, J.Dilling</authors>
+<title>Precision ground state mass of {+12}Be and an isobaric multiplet mass equation (IMME) extrapolation for 2{++} and 0{-2}{++}+ states in the T=2, A=12 multiplet</title>
+<keywords>ATOMIC MASSES {+12}Be; measured mass excess using Penning trap mass spectrometer TITAN at TRIUMF. Comparison with previous measurements and evaluations. Analyzed IMME for the lowest lying isospin T=2 multiplet in the A=12 system.</keywords>
+<doi>10.1103/PhysRevC.81.024314</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010FE01</keyno>
+<history>A20100524 M20100716</history>
+<coden>JOUR PRVCA 81 044318</coden>
+<refrence>Phys.Rev. C 81, 044318 (2010)</refrence>
+<authors>R.Ferrer, M.Block, C.Bachelet, B.R.Barquest, G.Bollen, C.M.Campbell, M.Facina, C.M.Folden III, C.Guenaut, A.A.Kwiatkowski, D.L.Lincoln, D.J.Morrissey, G.K.Pang, A.M.Prinke, R.Ringle, J.Savory, P.Schury, S.Schwarz</authors>
+<title>Penning trap mass spectrometry of neutron-rich Fe and Co isotopes around N=40 with the LEBIT mass spectrometer</title>
+<keywords>ATOMIC MASSES {+63},{+64},{+65},{+65m},{+66}Fe,{+64},{+65},{+66},{+67},{+67m}Co; measured cyclotron resonance frequencies and mass excesses using LEBIT Penning-trap mass spectrometer. Comparison with AME-2003 evaluation. {+61},{+63},{+65},{+67}Fe; systematics of low-lying levels. Z=24-31,N=35-44; systematics of two-neutron separation energies.</keywords>
+<doi>10.1103/PhysRevC.81.044318</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010KA30</keyno>
+<history>A20110105</history>
+<coden>JOUR PRVCA 82 052501</coden>
+<refrence>Phys.Rev. C 82, 052501 (2010)</refrence>
+<authors>A.Kankainen, T.Eronen, D.Gorelov, J.Hakala, A.Jokinen, V.S.Kolhinen, M.Reponen, J.Rissanen, A.Saastamoinen, V.Sonnenschein, J.Aysto</authors>
+<title>High-precision mass measurement of {+31}S with the double Penning trap JYFLTRAP improves the mass value for {+32}Cl</title>
+<keywords>ATOMIC MASSES {+31}S; measured mass by time-of-flight (TOF) ion-cyclotron resonance method using JYFLTRAP double Penning trap mass spectrometer using {+31}P as reference; deduced mass excess and Q value for EC decay. {+32}Cl; analyzed mass excess from S(p); deduced improved Q(|e) value and logft. {+32}Si,{+32}P,{+32}S,{+32}Cl,{+32}Ar; analyzed isobaric mass multiplet equation (IMME) for A=32, T=2 quintet. Comparison of masses with previous measurements and evaluations.</keywords>
+<keywords>RADIOACTIVITY {+31}S(EC)[from {+32}S(p,pn),E=40 MeV]; measured mass using IGISOL and JYFLTRAP facilities; deduced Q value, logft. {+32}S,{+32}Cl,{+32}Ar(EC); analyzed Q values, logft. Implication for superallowed |b decay of {+32}Ar.</keywords>
+<doi>10.1103/PhysRevC.82.052501</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010KO15</keyno>
+<history>A20100618</history>
+<coden>JOUR PYLBB 684 17</coden>
+<refrence>Phys.Lett. B 684, 17 (2010)</refrence>
+<authors>V.S.Kolhinen, V.-V.Elomaa, T.Eronen, J.Hakala, A.Jokinen, M.Kortelainen, J.Suhonen, J.Aysto</authors>
+<title>Accurate Q value for the {+74}Se double-electron-capture decay</title>
+<keywords>ATOMIC MASSES {+74}Ge,{+74}Se; measured masses using JYFLTRAP penning trap; deduced Q-value for neutrino-less 2EC decay.</keywords>
+<keywords>RADIOACTIVITY {+74}Se(2EC); deduced Q-value for neutrino-less 2EC decay from atomic mass measurements; calculated T{-1/2} and nuclear matrix elements using QRPA wave functions in a multiple-commutator model.</keywords>
+<doi>10.1016/j.physletb.2009.12.052</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010KO28</keyno>
+<history>A20101007</history>
+<coden>JOUR PRVCA 82 022501</coden>
+<refrence>Phys.Rev. C 82, 022501 (2010)</refrence>
+<authors>V.S.Kolhinen, T.Eronen, D.Gorelov, J.Hakala, A.Jokinen, A.Kankainen, I.D.Moore, J.Rissanen, A.Saastamoinen, J.Suhonen, J.Aysto</authors>
+<title>Double-|b decay Q value of {+150}Nd</title>
+<keywords>ATOMIC MASSES {+150}Nd,{+150}Sm; measured cyclotron frequencies using JYFLTRAP Penning-trap mass spectrometer; deduced mass difference and Q value for double-beta decay. Comparison with AME 2003.</keywords>
+<keywords>RADIOACTIVITY {+150}Nd(2|b{+-}); deduced Q value from mass difference measurement of {+150}Nd and {+150}Sm using JYFLTRAP Penning-trap mass spectrometer. Comparison with AME 2003.</keywords>
+<doi>10.1103/PhysRevC.82.022501</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010KW02</keyno>
+<history>A20100629</history>
+<coden>JOUR PRVCA 81 058501</coden>
+<refrence>Phys.Rev. C 81, 058501 (2010)</refrence>
+<authors>A.A.Kwiatkowski, B.R.Barquest, G.Bollen, C.M.Campbell, R.Ferrer, A.E.Gehring, D.L.Lincoln, D.J.Morrissey, G.K.Pang, J.Savory, S.Schwarz</authors>
+<title>Penning trap mass measurement of {+26}Si</title>
+<keywords>ATOMIC MASSES {+26}Si; measured mass using LEBIT Penning trap mass spectrometer. Comparison with other experimental results.</keywords>
+<doi>10.1103/PhysRevC.81.058501</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010LI02</keyno>
+<history>A20100211</history>
+<coden>JOUR APOBB 41 511</coden>
+<refrence>Acta Phys.Pol. B41, 511 (2010)</refrence>
+<authors>Yu.A.Litvinov, H.Geissel, R.Knobel, B.Sun, H.Xu</authors>
+<title>Direct Mass Measurements of Exotic Nuclei in Storage Rings</title>
+<keywords>ATOMIC MASSES {+85},{+86}As,{+89}Se,{+123}Ag,{+138}Te,{+140},{+141}I, {+143}Xe,{+221},{+222}At,{+223}Rn,{+228}Fr,{+231}Ra; measured atomic mass using storage ring mass spectrometry.</keywords>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010MA03</keyno>
+<history>A20100218</history>
+<coden>JOUR IMPEE 19 131</coden>
+<refrence>Int.J.Mod.Phys. E19, 131 (2010)</refrence>
+<authors>A.Marinov, I.Rodushkin, D.Kolb, A.Pape, Y.Kashiv, R.Brandt, R.V.Gentry, H.W.Miller</authors>
+<title>Evidence for the possible existence of a long-lived superheavy nucleus with atomic mass number A = 292 and atomic number Z |? 122 in natural Th</title>
+<keywords>ATOMIC MASSES {+292}122; measured masses and relative abundances using inductively coupled plasma sector field mass spectrometry; deduced superheavy     nucleus with A=292,T{-1/2},long-lived isomeric state.</keywords>
+<doi>10.1142/S0218301310014662</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010MC04</keyno>
+<history>A20101007</history>
+<coden>JOUR PRVCA 82 024603</coden>
+<refrence>Phys.Rev. C 82, 024603 (2010)</refrence>
+<authors>P.M.McCowan, R.C.Barber</authors>
+<title>Q value for the double-|b decay of {+136}Xe</title>
+<keywords>ATOMIC MASSES {+136}Xe,{+136}Ba; measured mass difference using       high-resolution, deflection-type mass spectrometer; deduced Q{-2|b} for {+136}Xe decay. Comparison with previous studies and AME-2003.</keywords>
+<keywords>RADIOACTIVITY {+136}Xe(2|b{+-}); measured mass difference of {+136}Xe and {+136}Ba using high-resolution, deflection-type mass spectrometer; deduced Q value. Comparison with previous studies and AME-2003.</keywords>
+<doi>10.1103/PhysRevC.82.024603</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010MO03</keyno>
+<history>A20100426</history>
+<coden>JOUR PRVCA 81 032501</coden>
+<refrence>Phys.Rev. C 81, 032501 (2010)</refrence>
+<authors>B.J.Mount, M.Redshaw, E.G.Myers</authors>
+<title>Double-|b-decay Q values of {+74}Se and {+76}Ge</title>
+<keywords>ATOMIC MASSES {+74},{+76}Se,{+74},{+76}Ge; measured cyclotron frequencies in a Penning-trap system relative to {+84}Kr, atomic masses and systematic shifts for ion pairs. Comparisons with previous measurements and with AME-2003.</keywords>
+<keywords>RADIOACTIVITY {+74}Se(2EC),{+76}Ge(2|b{+-}); deduced Q values from measured masses. Discussed resonant enhancement for neutrinoless double-electron capture decay of {+74}Se.</keywords>
+<doi>10.1103/PhysRevC.81.032501</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2010WR01</keyno>
+<history>A20100629</history>
+<coden>JOUR PRVCA 81 055503</coden>
+<refrence>Phys.Rev. C 81, 055503 (2010)</refrence>
+<authors>C.Wrede, J.A.Clark, C.M.Deibel, T.Faestermann, R.Hertenberger, A.Parikh, H.-F.Wirth, S.Bishop, A.A.Chen, K.Eppinger, A.Garcia, R.Krucken, O.Lepyoshkina, G.Rugel, K.Setoodehnia</authors>
+<title>Toward precise QEC values for the superallowed 0{++} |) 0{++} |b decays of T=2 nuclides: The masses of {+20}Na, {+24}Al, {+28}P, and {+32}Cl</title>
+<keywords>NUCLEAR REACTIONS {+20}Ne,{+24}Mg,{+28}Si,{+32}S,{+36}Ar({+3}He,t),E=32 MeV; measured triton spectra using Q3D magnetic spectrograph; deduced levels, Q values, mass excesses.</keywords>
+<keywords>ATOMIC MASSES {+20}Na,{+24}Al,{+28}P,{+32}Cl; measured mass excesses using ({+3}He,t) reaction. {+36}Ar({+3}He,t){+36}K used for calibration. Comparison with AME-2003.</keywords>
+<doi>10.1103/PhysRevC.81.055503</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2011BOZS</keyno>
+<history>A20120720</history>
+<coden>CONF Rhodes(FINUSTAR 3),Proc.P332,Borgmann</coden>
+<refrence>Proc.Frontiers in Nuclear Structure, Astrophysics, and Reactions, Rhodes, Greece, 23-27 August 2010, P.Demetriou, R.Julin, S.Harissopulos Eds., p.332 (2011); AIP Conf.Proc. 1377 (2011)</refrence>
+<authors>Ch.Borgmann, M.Breitenfeldt, G.Audi, S.Baruah, D.Beck, K.Blaum, Ch.Bohm, R.B.Cakirli, R.F.Casten, P.Delahaye, M.Dworschak, S.George, F.Herfurth, A.Herlert, A.Kellerbauer, M.Kowalska, S.Kreim, D.Lunney, E.Minaya-Ramirez, S.Naimi, D.Neidherr, M.Rosenbusch, R.Savreux, S.Schwarz, L.Schweikhard, C.Yazidjian</authors>
+<title>Cadmium mass measurements between the neutron shell closures at N = 50 and 82</title>
+<keywords>ATOMIC MASSES {+99},{+100},{+101},{+102},{+103},{+104},{+105},{+106},{+107},{+108},{+109},{+114},{+120},{+122},{+123},{+124},{+126},{+128}Cd[from spallation, fission or fragmentation induced by 1.4 GeV protons on thick target]; measured mass using RFQ (radiofrequency quadrupole) ion trap and Penning traps of ISOLTRAP; deduced mass, binding energy.</keywords>
+<doi>10.1063/1.3628403</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2011DE03</keyno>
+<history>A20110224</history>
+<coden>JOUR PRVCA 83 015801</coden>
+<refrence>Phys.Rev. C 83, 015801 (2011)</refrence>
+<authors>F.Dellinger, W.Kutschera, O.Forstner, R.Golser, A.Priller, P.Steier, A.Wallner, G.Winkler</authors>
+<title>Upper limits for the existence of long-lived isotopes of roentgenium in natural gold</title>
+<keywords>ATOMIC MASSES {+261},{+265},{+289},{+290},{+291},{+292},{+293},{+294},{+295},{+296}Rg; measured abundance in natural gold using accelerator mass spectrometry (AMS). No events observed for {+261}Rg and {+265}Rg, not confirming a positive identification in another recent study. No events observed for {+289},{+290},{+292},{+293},{+295},{+296}Rg. Two and nine events recorded apparently for {+291}Rg and {+294}Rg, respectively could be explained otherwise, thus making positive identification for Rg unlikely. Upper limits established in the range of 10{-16}.</keywords>
+<doi>10.1103/PhysRevC.83.015801</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2011DE21</keyno>
+<history>A20110718 M20170105</history>
+<coden>JOUR PRVCA 83 065806</coden>
+<refrence>Phys.Rev. C 83, 065806 (2011)</refrence>
+<authors>F.Dellinger, O.Forstner, R.Golser, A.Priller, P.Steier, A.Wallner, G.Winkler,  W.Kutschera</authors>
+<title>Ultrasensitive search for long-lived superheavy nuclides in the mass range A=288 to A=300 in natural Pt, Pb, and Bi</title>
+<keywords>ATOMIC MASSES {+288},{+289},{+290},{+291},{+292},{+293},{+294},{+295}Ds,{+292},{+293},{+294},{+295},{+296},{+297},{+298},{+299}Fl,{+293},{+294},{+295},{+296},{+297},{+298},{+299},{+300}Mc;   measured abundance in natural platinum, lead, and bismuth samples using accelerator mass spectrometry (AMS) technique. Comparison with previous data. Ultrasensitive search for SHE in natural Pt, Pb and Bi samples proved negative with upper limits established.</keywords>
+<doi>10.1103/PhysRevC.83.065806</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2011ERZZ</keyno>
+<history>A20121025</history>
+<coden>CONF Bordeaux (PROCON 2011),Proc.P155,Eronen</coden>
+<refrence>Proc.of the 4th Inter.Conf.Proton Emitting Nuclei and Related Topics (PROCON 2011), Bordeaux, France, 6-10 June 2011, LB.Blank Ed. p.155 (2011); AIP Conf.Proc.1409 (2011)</refrence>
+<authors>T.Eronen, for the JYFLTRAP collaboration</authors>
+<title>High Precision Atomic Mass Measurements: Tests of CVC and IMME</title>
+<keywords>ATOMIC MASSES {+10}C,{+26m}Al,{+26}Si,{+30}S,{+34}Cl,{+38m}K,{+38}Ca,{+42}Sc,{+42}Ti,{+46}V,{+50}Mn,{+54}Co,{+62}Ga; measured atomic masses of superallowed |b-emitters using Penning trap of JYFLTRAP. Verified IMME (isobaric mass multiplet equation).</keywords>
+<doi>10.1063/1.3664169</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2011FA10</keyno>
+<history>A20111104 M20120113</history>
+<coden>JOUR PRVCA 84 045807</coden>
+<refrence>Phys.Rev. C 84, 045807 (2011)</refrence>
+<authors>J.Fallis, J.A.Clark, K.S.Sharma, G.Savard, F.Buchinger, S.Caldwell, A.Chaudhuri, J.E.Crawford, C.M.Deibel, S.Gulick, A.A.Hecht, D.Lascar, J.K.P.Lee, A.F.Levand, G.Li, B.F.Lundgren, A.Parikh, S.Russell, M.Scholte-van de Vorst, N.D.Scielzo, R.E.Segel, H.Sharma, S.Sinha, M.G.Sternberg, T.Sun, I.Tanihata, J.Van Schelt, J.C.Wang, Y.Wang, C.Wrede, Z.Zhou</authors>
+<title>Mass measurements of isotopes of Nb, Mo, Tc, Ru, and Rh along the |Np- and rp-process paths using the Canadian Penning trap mass spectrometer</title>
+<keywords>ATOMIC MASSES {+87}Nb,{+87},{+90},{+91},{+92}Mo,{+90},{+91},{+92},{+93}Tc,{+90},{+91},{+92},{+93},{+94}Ru,{+92},{+93},{+94},{+95}Rh; measured cyclotron frequency ratios using Canadian Penning trap mass spectrometer; deduced mass excesses. {+88}Tc; deduced S(p). Comparison with previous measurements and AME-2003. Z=42-47,A=87-96; analyzed systematics of S(2p) values. Z=42-45,N=45-52; analyzed systematics of S(2n) values. Z=42-45,A=87-95; analyzed systematics of   S(p) values. {+94m}Ag; discussed 2p decay mode of 21+ isomer.</keywords>
+<keywords>NUCLEAR REACTIONS {+58}Ni({+40}Ca,X){+87}Nb/{+87}Mo/{+90}Mo/{+92}Mo/{+90}Tc/{+90}Tc/{+92}Tc/{+93}Tc/{+90}Ru/{+91}Ru/{+92}Ru/{+93}Ru/{+92}Rh/{+93}Rh/{+94}Rh,E=185,190,200 MeV; {+58}Ni({+36}Ar,X){+91}Tc/{+91}Ru,E=125 MeV; Ni({+36}Ar,X){+90}Mo/{+91}Mo/{+90}Tc/{+91}Tc/{+92}Tc/{+91}Ru/{+92}Ru,E=130,150 MeV; Ni({+40}Ca,X){+93}Tc/{+93}Ru/{+94}Ru/{+94}Rh/{+95}Rh,E=170 MeV; measured yields at ATLAS facility.</keywords>
+<doi>10.1103/PhysRevC.84.045807</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2011GO23</keyno>
+<history>A20110912 M20111005</history>
+<coden>JOUR PRVCA 84 028501</coden>
+<refrence>Phys.Rev. C 84, 028501 (2011)</refrence>
+<authors>M.Goncharov, K.Blaum, M.Block, C.Droese, S.Eliseev, F.Herfurth, E.Minaya-Ramirez, Yu.N.Novikov, L.Schweikhard, K.Zuber</authors>
+<title>Probing the nuclides {+102}Pd, {+106}Cd, and {+144}Sm for resonant neutrinoless double-electron capture</title>
+<keywords>ATOMIC MASSES {+102}Pd,{+102}Ru,{+106}Cd,{+106}Pd,{+144}Sm,{+144}Nd; measured cyclotron-frequency-ratios of singly-charged ion pairs using the Penning-trap mass spectrometer SHIPTRAP at GSI. Deduced Q values for double |e capture decay. Comparison with AME-2003.</keywords>
+<keywords>RADIOACTIVITY {+102}Pd,{+106}Cd,{+144}Sm(2EC); measured Q values from mass measurement of parent-daughter pairs by Penning-trap method. Deduced parameters for neutrinoless double-electron capture measurements.</keywords>
+<doi>10.1103/PhysRevC.84.028501</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2011HE10</keyno>
+<history>A20110615 M20110923</history>
+<coden>JOUR ZAANE 47 75</coden>
+<refrence>Eur.Phys.J. A 47, 75 (2011)</refrence>
+<authors>F.Herfurth, G.Audi, D.Beck, K.Blaum, G.Bollen, P.Delahaye, M.Dworschak, S.George, C.Guenaut, A.Kellerbauer, D.Lunney, M.Mukherjee, S.Rahaman, S.Schwarz, L.Schweikhard, C.Weber, C.Yazidjian</authors>
+<title>New mass data for the rp-process above Z = 32</title>
+<keywords>ATOMIC MASSES {+70},{+71},{+72},{+73},{+74}Se,{+72},{+73},{+74},{+75}Br; measured mass excess from Zr(p,X),E=1.4 GeV using thick target with ISOLTRAP.</keywords>
+<doi>10.1140/epja/i2011-11075-6</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2011KE03</keyno>
+<history>A20110802 M20110822</history>
+<coden>JOUR PRVCA 84 014311</coden>
+<refrence>Phys.Rev. C 84, 014311 (2011)</refrence>
+<authors>J.Ketelaer, G.Audi, T.Beyer, K.Blaum, M.Block, R.B.Cakirli, R.F.Casten, C.Droese, M.Dworschak, K.Eberhardt, M.Eibach, F.Herfurth, E.Minaya-Ramirez, Sz.Nagy, D.Neidherr, W.Nortershauser, C.Smorra, M.Wang</authors>
+<title>Mass measurements on stable nuclides in the rare-earth region with the Penning-trap mass spectrometer TRIGA-TRAP</title>
+<keywords>ATOMIC MASSES {+153}Eu,{+152},{+154},{+155},{+156},{+157},{+158},{+160}Gd,{+175},{+176}Lu,{+176},{+177},{+178},{+179},{+180}Hf; measured masses using TOF-ICR technique and TRIGA-TRAP Penning-trap mass spectrometer; deduced |dV{-pn} values; evaluated mass excesses.</keywords>
+<doi>10.1103/PhysRevC.84.014311</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2011KW02</keyno>
+<history>A20120921</history>
+<coden>JOUR JPCSD 312 092035</coden>
+<refrence>J.Phys.:Conf.Ser. 312, 092035 (2011)</refrence>
+<authors>A.A.Kwiatkowski, B.R.Barquest, M.Block, G.Bollen, C.M.Campbell, R.Ferrer, D.L.Lincoln, D.J.Morrissey, G.K.Pang, M.Redshaw, R.Ringle, S.Schwarz, J.Savory</authors>
+<title>High precision Penning trap mass spectrometry of rare isotopes produced by projectile fragmentation</title>
+<keywords>ATOMIC MASSES {+63},{+64},{+65},{+66},{+67},{+68}Fe,{+64},{+65},{+66},{+67},{+68},{+69}Co; measured mass, 2n separation energies using Penning trap radiofrequency. Compared with AME03, other data.</keywords>
+<doi>10.1088/1742-6596/312/9/092035</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2011SAZM</keyno>
+<history>A20121119</history>
+<coden>THESIS A Saastamoinen,Unv. of Jyvaskyla</coden>
+<refrence>Thesis, University of Jyvaskyla (2011)</refrence>
+<authors>A.Saastamoinen</authors>
+<title>Studies of T{-2} = - 3/2 Nuclei of Astrophysical Interest</title>
+<keywords>RADIOACTIVITY {+23}Al(|b{++}),(EC),(|b{++}p)[from {+1}H({+24}Mg,2n),E=48 MeV/nucleon]; {+31}Cl(|b{++}),(EC),(|b{++}p)[from {+1}H({+32}S,2n),E=40 MeV/nucleon]; measured E|g, I|g, Ep, Ip, p|g-coin, half-lives using IGISOL facility at Jyvaskyla and MARS facility at Texas AM.  {+23}Mg,{+31}S; deduced levels, J, |p. Discussed {+30}P(p,|g){+31}S bottleneck reaction of astrophysical significance, missing {+22}Na, and T=3/2 quartet states. IMME analysis.</keywords>
+<keywords>ATOMIC MASSES {+23}Al; measured cyclotron frequency using JYFLTRAP Penning Trap spectrometer, deduced mass excess. IMME analysis.</keywords>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2012DO06</keyno>
+<history>A20120712</history>
+<coden>JOUR NIMBE 25 57</coden>
+<refrence>Nucl.Instrum.Methods Phys.Res. B25, 57 (2012)</refrence>
+<authors>K.Dong, H.Hu, X.Wang, C.Li, M.He, Z.Li, S.Wu, J.Liu, G.Zheng, H.Li, Z.Chen, G.Liu, J.Yuan, S.Jiang</authors>
+<title>Further study on highly sensitive AMS measurement of {+53}Mn</title>
+<keywords>ATOMIC MASSES {+53},{+55}Mn,{+53}Cr; measured mass ratios. {+53}Mn; deduced potential implications for cosmogenic isotopes.</keywords>
+<doi>10.1016/j.nimb.2012.01.041</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2012KA13</keyno>
+<history>A20120502 M20120712</history>
+<coden>JOUR ZAANE 48 47</coden>
+<refrence>Eur.Phys.J. A 48, 47 (2012)</refrence>
+<authors>A.Kankainen, V.S.Kolhinen, V.-V.Elomaa, T.Eronen, J.Hakala, A.Jokinen, A.Saastamoinen, J.Aysto</authors>
+<title>Penning-trap mass measurements on {+92,94-98,100}Mo with JYFLTRAP</title>
+<keywords>ATOMIC MASSES {+92},{+94},{+95},{+96},{+97},{+98},{+100}Mo; measured mass excess using  JYFLTRAP Penning trap mass spectrometer with {+85}Rb as a reference. Compared with AME03. {+80},{+81},{+82},{+84}Y,{+83},{+84},{+85},{+86},{+87},{+88}Zr,{+85},{+86},{+87},{+88}Nb,{+96},{+98}Mo,{+91}Tc,{+91}Ru,{+94},{+95},{+96},{+99}Pd,{+101},{+102},{+103},{+104},{+105}Cd,{+102}In; re-evaluated mass excess using Mo isotopes as references. Compared with old data.</keywords>
+<doi>10.1140/epja/i2012-12047-0</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2012NA15</keyno>
+<history>A20120801 M20120917</history>
+<coden>JOUR PRVCA 86 014325</coden>
+<refrence>Phys.Rev. C 86, 014325 (2012)</refrence>
+<authors>S.Naimi, G.Audi, D.Beck, K.Blaum, Ch.Bohm, Ch.Borgmann, M.Breitenfeldt, S.George, F.Herfurth, A.Herlert, A.Kellerbauer, M.Kowalska, D.Lunney, E.Minaya-Ramirez, D.Neidherr, M.Rosenbusch, L.Schweikhard, R.N.Wolf, K.Zuber</authors>
+<title>Surveying the N=40 island of inversion with new manganese masses</title>
+<keywords>ATOMIC MASSES {+48}Ti,{+55},{+57},{+58},{+58m},{+59},{+60},{+60m},{+61},{+62},{+62m},{+63},{+64},{+65},{+66}Mn,{+61},{+62},{+63}Fe; measured frequency ratio using RILIS facility and ISOLTRAP mass spectrometer at CERN facility, with reference to frequencies for {+39}K, TiO, {+55}Mn and {+85}Rb; deduced and evaluated mass excesses and compared with AME-2003. Z=24-36,N=30-52; systematics of S(2n) values. Z=25-26,N=29-40; systematics of neutron pairing gaps. Z=25,N=28-41; systematics of S(n) values. Proposed collectivity around N=40, and island of inversion near {+63}Mn.</keywords>
+<doi>10.1103/PhysRevC.86.014325</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2012NE10</keyno>
+<history>A20121106 M20130213</history>
+<coden>JOUR PRVCA 86 044313</coden>
+<refrence>Phys.Rev. C 86, 044313 (2012)</refrence>
+<authors>D.A.Nesterenko, K.Blaum, M.Block, C.Droese, S.Eliseev, F.Herfurth, E.Minaya Ramirez, Yu.N.Novikov, L.Schweikhard, V.M.Shabaev, M.V.Smirnov, I.I.Tupitsyn, K.Zuber, N.A.Zubova</authors>
+<title>Double-|b transformations in isobaric triplets with mass numbers A=124, 130, and 136</title>
+<keywords>ATOMIC MASSES {+124}Sn,{+124}Xe,{+124}Te,{+130}Te,{+130}Xe,{+130}Ba,{+136}Ce; measured time-of-flight ion cyclotron resonances, cyclotron frequencies ratios of {+130}Xe to {+130}Ba and {+130}Te,{+124}Te to {+124}Xe and {+124}Sn, {+136}Ba to {+136}Ce using Penning-trap mass spectrometer SHIPTRAP. Isobaric mass triplets.</keywords>
+<keywords>RADIOACTIVITY {+124}Xe,{+130}Ba,{+136}Ce(2EC); measured masses, deduced Q values.</keywords>
+<doi>10.1103/PhysRevC.86.044313</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2012RE17</keyno>
+<history>A20121106 M20130213</history>
+<coden>JOUR PRVCA 86 041306</coden>
+<refrence>Phys.Rev. C 86, 041306 (2012)</refrence>
+<authors>M.Redshaw, G.Bollen, M.Brodeur, S.Bustabad, D.L.Lincoln, S.J.Novario, R.Ringle, S.Schwarz</authors>
+<title>Atomic mass and double-|b-decay Q value of {+48}Ca</title>
+<keywords>ATOMIC MASSES {+48}Ca; measured time of flight, cyclotron resonance frequency using LEBIT Penning trap mass spectrometer at NSCL facility; deduced atomic mass, mass excess, Q value for |b|b decay. Comparison with previous experimental studies, and with mass evaluations.</keywords>
+<doi>10.1103/PhysRevC.86.041306</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2012SI10</keyno>
+<history>A20120709 M20120830</history>
+<coden>JOUR PRVCA 85 064308</coden>
+<refrence>Phys.Rev. C 85, 064308 (2012)</refrence>
+<authors>V.V.Simon, T.Brunner, U.Chowdhury, B.Eberhardt, S.Ettenauer, A.T.Gallant, E.Mane, M.C.Simon, P.Delheij, M.R.Pearson, G.Audi, G.Gwinner, D.Lunney, H.Schatz, J.Dilling</authors>
+<title>Penning-trap mass spectrometry of highly charged, neutron-rich Rb and Sr isotopes in the vicinity of A |? 100</title>
+<keywords>ATOMIC MASSES {+94},{+97},{+98}Rb,{+94},{+97},{+98},{+99}Sr; measured time-of-flight and cyclotron frequencies using (TOF-ICR) method with the Penning-trap mass spectrometer TITAN at TRIUMF-ISAC facility; deduced mass excesses. Frequencies ratios measured with reference to {+85}Rb. Z=36-44,N=55-65; systematics of S(2n) values. Calculated r process abundances as a function of mass number. Discussed astrophysical implications. Comparisons with previous measurements and AME-2003 evaluation.</keywords>
+<doi>10.1103/PhysRevC.85.064308</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2012SM01</keyno>
+<history>A20120229 M20120326</history>
+<coden>JOUR PRVCA 85 027601</coden>
+<refrence>Phys.Rev. C 85, 027601 (2012)</refrence>
+<authors>C.Smorra, T.Beyer, K.Blaum, M.Block, Ch.E.Dullmann, K.Eberhardt, M.Eibach, S.Eliseev, Sz.Nagy, W.Nortershauser, D.Renisch</authors>
+<title>Direct mass measurements of cadmium and palladium isotopes and their double-|b transition Q values</title>
+<keywords>ATOMIC MASSES {+106},{+108},{+110}Cd,{+106},{+108},{+110}Pd; measured cyclotron frequency ratios, masses and mass excesses by Penning-trap mass spectrometers SHIPTRAP and ISOLTRAP. Comparison with AME-2003 evaluation.</keywords>
+<keywords>RADIOACTIVITY {+106},{+108}Cd(2|b{++}),(2EC); {+110}Pd(2|b{+-}); measured Q values by Penning-trap mass spectrometers. Comparison with AME-2003 evaluation.</keywords>
+<doi>10.1103/PhysRevC.85.027601</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2012SM07</keyno>
+<history>A20121106 M20130213</history>
+<coden>JOUR PRVCA 86 044604</coden>
+<refrence>Phys.Rev. C 86, 044604 (2012)</refrence>
+<authors>C.Smorra, T.R.Rodriguez, T.Beyer, K.Blaum, M.Block, Ch.E.Dullmann, K.Eberhardt, M.Eibach, S.Eliseev, K.Langanke, G.Martinez-Pinedo, Sz.Nagy, W.Nortershauser, D.Renisch, V.M.Shabaev, I.I.Tupitsyn, N.A.Zubova</authors>
+<title>Q value and half-life of double-electron capture in {+184}Os</title>
+<keywords>ATOMIC MASSES {+184}Os,{+184}W; measured time-of-flight and cyclotron frequency ratios using Penning-trap mass spectrometer TRIGA-TRAP; deduced mass excess, Q value for 2|b decay.</keywords>
+<keywords>RADIOACTIVITY {+184}Os(2EC); measured Q-value using Penning-trap; calculated nuclear matrix element, T{-1/2}. Energy density functional (EDF) calculations.</keywords>
+<doi>10.1103/PhysRevC.86.044604</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013BU12</keyno>
+<history>A20130903 M20131125</history>
+<coden>JOUR PRVCA 88 022501</coden>
+<refrence>Phys.Rev. C 88, 022501 (2013)</refrence>
+<authors>S.Bustabad, G.Bollen, M.Brodeur, D.L.Lincoln, S.J.Novario, M.Redshaw, R.Ringle, S.Schwarz, A.A.Valverde</authors>
+<title>First direct determination of the {+48}Ca double-|b decay Q value</title>
+<keywords>ATOMIC MASSES {+48}Ca,{+48}Ti; measured time-of-flight, cyclotron resonance frequencies ratios using LEBIT Penning-trap mass spectrometer at NSCL, MSU facility; deduced Q value for double beta decay of {+48}Ca. Comparison with ISOLTRAP measurements, and with AME-12.</keywords>
+<keywords>RADIOACTIVITY {+48}Ca(2|b{+-}); measured Q value for double |b decay using LEBIT Penning-trap spectrometer; deduced phase factors for 2|n|b|b and 0|n|b|b  decay modes.</keywords>
+<doi>10.1103/PhysRevC.88.022501</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013IT01</keyno>
+<history>A20130802 M20131001</history>
+<coden>JOUR PRVCA 88 011306</coden>
+<refrence>Phys.Rev. C 88, 011306 (2013)</refrence>
+<authors>Y.Ito, P.Schury, M.Wada, S.Naimi, T.Sonoda, H.Mita, F.Arai, A.Takamine, K.Okada, A.Ozawa, H.Wollnik</authors>
+<title>Single-reference high-precision mass measurement with a multireflection time-of-flight mass spectrograph</title>
+<keywords>ATOMIC MASSES {+7},{+8}Li,{+9}Be,{+12}C; measured time-of-flight (TOF) using a multireflection TOF mass spectrograph (MRTOF) at RIKEN facility. {+8}Li beam produced in {+9}Be({+13}C,X),E=100 MeV/nucleon. {+7},{+8}Li,{+9}Be; deduced mass excesses using {+12}C as a reference. Comparison with AME-12 values.</keywords>
+<doi>10.1103/PhysRevC.88.011306</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013KA08</keyno>
+<history>A20130301 M20130429</history>
+<coden>JOUR PRVCA 87 024307</coden>
+<refrence>Phys.Rev. C 87, 024307 (2013)</refrence>
+<authors>A.Kankainen, J.Hakala, T.Eronen, D.Gorelov, A.Jokinen, V.S.Kolhinen, I.D.Moore, H.Penttila, S.Rinta-Antila, J.Rissanen, A.Saastamoinen, V.Sonnenschein, J.Aysto</authors>
+<title>Isomeric states close to doubly magic {+132}Sn studied with the double Penning trap JYFLTRAP</title>
+<keywords>ATOMIC MASSES {+121},{+123},{+125}Cd,{+133}Te,{+129},{+131}In,{+130},{+131}Sn,{+133}Te,{+134}Sb [from U,{+232}Th(p,F),E=25 MeV]; measured time-of-flight, cyclotron frequency ratio using the double Penning trap mass spectrometer JYFLTRAP; deduced mass excess, and level energies of ground states and isomers, isomeric to ground-state intensity ratios. Systematics of 11/2- states in odd-N, N=71-81 Cd, Sn, Te, Xe nuclei, and of the lowest 1/2- and 3/2- states in even-N, N=60-84 In isotopes. Comparison with previous studies, and evaluated data. Relevance for the r process.</keywords>
+<doi>10.1103/PhysRevC.87.024307</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013MA81</keyno>
+<history>A20131202 M20140224</history>
+<coden>JOUR PRVCA 88 054322</coden>
+<refrence>Phys.Rev. C 88, 054322 (2013)</refrence>
+<authors>V.Manea, D.Atanasov, D.Beck, K.Blaum, C.Borgmann, R.B.Cakirli, T.Eronen, S.George, F.Herfurth, A.Herlert, M.Kowalska, S.Kreim, Yu.A.Litvinov, D.Lunney, D.Neidherr, M.Rosenbusch, L.Schweikhard, F.Wienholtz, R.N.Wolf, K.Zuber</authors>
+<title>Collective degrees of freedom of neutron-rich A|?100 nuclei and the first mass measurement of the short-lived nuclide {+100}Rb</title>
+<keywords>ATOMIC MASSES {+98},{+99},{+100}Rb; measured time-of-flight ion-cyclotron resonance, mass excesses using ISOLTRAP at ISOLDE-CERN facility. Comparison with AME-12 evaluation. No evidence found for isomer in {+98}Rb.</keywords>
+<keywords>NUCLEAR STRUCTURE Z=36-44,N=48-65; calculated S(2n), mean-square charge radii, and energies of octupole correlations using HFB theory with SLy4 and Gogny-D1S potentials. Comparison with experimental data.</keywords>
+<doi>10.1103/PhysRevC.88.054322</doi>
+</nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013SH30</keyno>
+<history>A20130903 M20131125</history>
+<coden>JOUR PRVCA 88 024310</coden>
+<refrence>Phys.Rev. C 88, 024310 (2013)</refrence>
+<authors>D.Shubina, R.B.Cakirli, Yu.A.Litvinov, K.Blaum, C.Brandau, F.Bosch, J.J.Carroll, R.F.Casten, D.M.Cullen, I.J.Cullen, A.Y.Deo, B.Detwiler, C.Dimopoulou, F.Farinon, H.Geissel, E.Haettner, M.Heil, R.S.Kempley, C.Kozhuharov, R.Knobel, J.Kurcewicz, N.Kuzminchuk, S.A.Litvinov, Z.Liu, R.Mao, C.Nociforo, F.Nolden, Z.Patyk, W.R.Plass, A.Prochazka, M.W.Reed, M.S.Sanjari, C.Scheidenberger, M.Steck, Th.Stohlker, B.Sun, T.P.D.Swan, G.Trees, P.M.Walker, H.Weick, N.Winckler, M.Winkler, P.J.Woods, T.Yamaguchi, C.Zhou</authors>
+<title>Schottky mass measurements of heavy neutron-rich nuclides in the element range 70|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013ST25</keyno>
+<history>A20131202 M20140224</history>
+<coden>JOUR PRVCA 88 054304</coden>
+<refrence>Phys.Rev. C 88, 054304 (2013)</refrence>
+<authors>J.Stanja, Ch.Borgmann, J.Agramunt, A.Algora, D.Beck, K.Blaum, Ch.Bohm, M.Breitenfeldt, T.E.Cocolios, L.M.Fraile, F.Herfurth, A.Herlert, M.Kowalska, S.Kreim, D.Lunney, V.Manea, E.Minaya Ramirez, S.Naimi, D.Neidherr, M.Rosenbusch, L.Schweikhard, G.Simpson, F.Wienholtz, R.N.Wolf, K.Zuber</authors>
+<title>Mass spectrometry and decay spectroscopy of isomers across the Z=82 shell closure</title>
+<keywords>ATOMIC MASSES {+190m}Tl,{+194}Tl,{+194m}Tl,{+198}At; measured time-of-flight ion cyclotron (TOF-ICR) resonances, mass excesses using RILIS and ISOLTRAP at ISOLDE-CERN facility; deduced level energies, J, |p for ground states and isomers, Q values for decays. {+190}Tl,{+194}Bi,{+194m}Bi,{+198m}At,{+202}Fr,{+202m}Fr,{+206}Ac,{+206m}Ac; deduced mass excesses in |a-decay chains using measured mass values for 7(+) state in {+190m}Tl and (3+) in {+198}At. Comparison with AME-03 data. Discussed hyperfine structure for {+198},{+198m}At and state assignments from another experiment at ISOLTRAP-ISOLDE-CERN facility.</keywords>
+<keywords>RADIOACTIVITY {+190},{+194}Tl(|b{+-}); measured E|g, |b|g-coin correlated with implants, half-lives of parent states, Q values for decays. Systematics of levels, J, |p, |m in isomeric states of {+184},{+186},{+188},{+190},{+192},{+194},{+196},{+198},{+200},{+202},{+204}Tl.</keywords>
+<doi>10.1103/PhysRevC.88.054304</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2014BO26</keyno>
+<history>A20141107 M20150204</history>
+<coden>JOUR PRVCA 90 044307</coden>
+<refrence>Phys.Rev. C 90, 044307 (2014)</refrence>
+<authors>Ch.Bohm, Ch.Borgmann, G.Audi, D.Beck, K.Blaum, M.Breitenfeldt, R.B.Cakirli, T.E.Cocolios, S.Eliseev, S.George, F.Herfurth, A.Herlert, M.Kowalska, S.Kreim, D.Lunney, V.Manea, E.Minaya Ramirez, S.Naimi, D.Neidherr, M.Rosenbusch, L.Schweikhard, J.Stanja, M.Wang, R.N.Wolf, K.Zuber</authors>
+<title>Evolution of nuclear ground-state properties of neutron-deficient isotopes around Z=82 from precision mass measurements</title>
+<keywords>ATOMIC MASSES {+184},{+186},{+190m},{+193m},{+194},{+194m},{+195},{+195m},{+198},{+198m}Tl,{+202},{+208}Pb,{+207},{+208}Fr,{+224}Ra; measured cyclotron frequencies high-precision mass excesses using Penning-trap ISOLTRAP at ISOLDE/CERN; deduced S(2n), S(2p), pairing gap parameter, odd-even effect. Isotopes produced by impinging a 1.4-GeV proton beam on a thick, high-temperature uranium carbide (UC{-x}) target. Comparison with other experimental results, AME-03, AME-12 evaluations, and microscopic calculations assuming spherical shape of the ground states. Systematics of pairing gaps, S(2p), S(2n), and excitation energy of the (9/2-) isomers for N=96-124 Au and Tl nuclei. Analyzed gradual development of collectivity with proton removal in Z=82.</keywords>
+<doi>10.1103/PhysRevC.90.044307</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2014EI01</keyno>
+<history>A20140708 M20140908</history>
+<coden>JOUR PRVCA 89 064318</coden>
+<refrence>Phys.Rev. C 89, 064318 (2014)</refrence>
+<authors>M.Eibach, T.Beyer, K.Blaum, M.Block, Ch.E.Dullmann, K.Eberhardt, J.Grund, Sz.Nagy, H.Nitsche, W.Nortershauser, D.Renisch, K.P.Rykaczewski, F.Schneider, C.Smorra, J.Vieten, M.Wang, K.Wendt</authors>
+<title>Direct high-precision mass measurements on {+241,243}Am, {+244}Pu, and {+249}Cf</title>
+<keywords>ATOMIC MASSES {+241},{+243}Am,{+244}Pu,{+249}Cf; measured Time-of-flight spectrum of carbon cluster ions, cyclotron frequencies by TOF-ICR technique using TRIGA-TRAP Penning-trap mass spectrometer at Mainz; deduced masses. Comparison with data in AME-2012. Analyzed AME-2012 masses of 84 nuclides in Z=82-112, N=129-166 region, and improved uncertainties with the use of new mass measurements in this work.</keywords>
+<doi>10.1103/PhysRevC.89.064318</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2014KA22</keyno>
+<history>A20140619 M20140818</history>
+<coden>JOUR PRVCA 89 051302</coden>
+<refrence>Phys.Rev. C 89, 051302 (2014)</refrence>
+<authors>A.Kankainen, T.Eronen, D.Gorelov, J.Hakala, A.Jokinen, V.S.Kolhinen, M.Reponen, J.Rissanen, A.Saastamoinen, V.Sonnenschein, J.Aysto</authors>
+<title>Coulomb displacement energies as a probe for nucleon pairing in the f{-7/2} shell</title>
+<keywords>ATOMIC MASSES {+45}V,{+49}Mn; measured cyclotron frequency ratios, time-of-flight spectrum using JYFLTRAP double Penning trap mass spectrometer; deduced masses and Q(EC) values. {+45}V and {+49}Mn ions produced in {+46}Ti,{+50}Cr(p,2n),E=40 MeV at IGISOL-JYFL facility Comparison with available data and AME-2012. Discussed pairing effect in the f{-7/2} shell nuclei.</keywords>
+<keywords>RADIOACTIVITY {+45}V,{+49}Mn(|b{++}),(EC); deduced Q values from measurement of masses of {+45}V and {+49}Mn by JYFLTRAP.</keywords>
+<doi>10.1103/PhysRevC.89.051302</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2014KR09</keyno>
+<history>A20140912 M20141031</history>
+<coden>JOUR PRVCA 90 024301</coden>
+<refrence>Phys.Rev. C 90, 024301 (2014)</refrence>
+<authors>S.Kreim, D.Beck, K.Blaum, Ch.Borgmann, M.Breitenfeldt, T.E.Cocolios, A.Gottberg, F.Herfurth, M.Kowalska, Yu.A.Litvinov, D.Lunney, V.Manea, T.M.Mendonca, S.Naimi, D.Neidherr, M.Rosenbusch, L.Schweikhard, Th.Stora, F.Wienholtz, R.N.Wolf, K.Zuber</authors>
+<title>Competition between pairing correlations and deformation from the odd-even mass staggering of francium and radium isotopes</title>
+<keywords>ATOMIC MASSES {+222},{+224},{+226},{+227},{+228},{+229},{+230},{+231},{+232},{+233}Fr,{+233},{+234}Ra[isotopes from U(p,F),E=1.4 GeV]; measured TOF-ICR resonances, frequency ratios, mass excesses using ISOLTRAP Penning-trap at ISOLDE-CERN facility; deduced odd-even staggering in binding energies, S(2n), three-point pairing-gap estimator |D{+3}(N); calculated Nilsson single-particle level schemes for N=128-148 nuclei using HF and HFB approaches, and connections to the single-particle level density and nuclear quadrupole and octupole deformations. Comparison with mass measurements using ESR at GSI and AME-2003 evaluation.</keywords>
+<keywords>RADIOACTIVITY {+233}Fr(|b{+-})[from U(p,F),E=1.4 GeV]; measured (ion)|b correlations, ground-state half-life.</keywords>
+<doi>10.1103/PhysRevC.90.024301</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2014NE15</keyno>
+<history>A20141107 M20150204</history>
+<coden>JOUR PRVCA 90 042501</coden>
+<refrence>Phys.Rev. C 90, 042501 (2014)</refrence>
+<authors>D.A.Nesterenko, S.Eliseev, K.Blaum, M.Block, S.Chenmarev, A.Dorr, C.Droese, P.E.Filianin, M.Goncharov, E.Minaya Ramirez, Yu.N.Novikov, L.Schweikhard, V.V.Simon</authors>
+<title>Direct determination of the atomic mass difference of {+187}Re and {+187}Os for neutrino physics and cosmochronology</title>
+<keywords>ATOMIC MASSES {+187}Re,{+187}Os; measured cyclotron-frequency ratio of {+187}Re and {+187}Os ions, mass difference using Penning-trap mass spectrometer SUIPTRAP at GSI facility; deduced Q value for {+187}Re decay. Comparison with previous experimental results. Possibility of electron capture by {+187}Os ions in hot stellar conditions.</keywords>
+<keywords>RADIOACTIVITY {+187}Re(|b{+-}); measured precise Q value from mass difference of {+187}Re and {+187}Os ions using SHIPTRAP at GSI. Comparison with other results. Relevance to cosmochronology.</keywords>
+<doi>10.1103/PhysRevC.90.042501</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2014SC09</keyno>
+<history>A20140801 M20140929</history>
+<coden>JOUR PRVCA 90 012501</coden>
+<refrence>Phys.Rev. C 90, 012501 (2014)</refrence>
+<authors>B.E.Schultz, M.Brodeur, C.Andreoiu, A.Bader, A.Chaudhuri, U.Chowdhury, A.T.Gallant, A.Grossheim, R.Klawitter, A.A.Kwiatkowski, K.G.Leach, A.Lennarz, T.D.Macdonald, J.Lassen, H.Heggen, S.Raeder, A.Teigelhofer, J.Dilling</authors>
+<title>Precision Q{-EC}-value measurement of {+23}Mg for testing the Cabibbo-Kobayashi-Maskawa matrix unitarity</title>
+<keywords>ATOMIC MASSES {+23}Mg; measured quadrupole and Ramsey resonances, frequency ratios of {+23}Mg{++} to {+23}Na{++} using TITAN Penning-trap mass spectrometer at ISAC-TRIUMF facility; deduced Q value for {+23}Mg decay. Comparison with AME-2012.</keywords>
+<keywords>RADIOACTIVITY {+23}Mg(EC)[from Si(p,X),E=480 MeV]; measured precise mass; deduced Q value, statistical rate function, ft value of mirror |b transition. Comparison of Q value with AME-2012 evaluation. Test of the Cabibbo-Kobayashi-Maskawa matrix unitarity.</keywords>
+<doi>10.1103/PhysRevC.90.012501</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2015CH58</keyno>
+<history>A20151102 M20160120</history>
+<coden>JOUR PRVCA 92 045803</coden>
+<refrence>Phys.Rev. C 92, 045803 (2015)</refrence>
+<authors>U.Chowdhury, K.G.Leach, C.Andreoiu, A.Bader, M.Brodeur, A.Chaudhuri, A.T.Gallant, A.Grossheim, G.Gwinner, R.Klawitter, A.A.Kwiatkowski, A.Lennarz, T.D.Macdonald, J.Pearkes, B.E.Schultz, J.Dilling</authors>
+<title>First direct mass measurement of the neutron-deficient nucleus {+24}Al</title>
+<keywords>ATOMIC MASSES {+24}Al; measured time-of-flight quadrupole excitation resonance spectrum for {+24}Al{+} ions, mass excess using TITAN Penning-Trap mass spectrometer and Ion-Guide Laser Ion Source (IG-LIS) at TRIUMF; deduced S(p). Comparison with other data and with AME-2012.</keywords>
+<keywords>NUCLEAR REACTIONS {+23}Mg(p,|g){+24}Al; measured reaction resonance energy of astrophysical interest. Comparison with data from DRAGON at TRIUMF.</keywords>
+<doi>10.1103/PhysRevC.92.045803</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2015EI01</keyno>
+<history>A20151102 M20160120</history>
+<coden>JOUR PRVCA 92 045502</coden>
+<refrence>Phys.Rev. C 92, 045502 (2015)</refrence>
+<authors>M.Eibach, G.Bollen, M.Brodeur, K.Cooper, K.Gulyuz, C.Izzo, D.J.Morrissey, M.Redshaw, R.Ringle, R.Sandler, S.Schwarz, C.S.Sumithrarachchi, A.A.Valverde, A.C.C.Villari</authors>
+<title>Determination of the Q{-EC} values of the T=1/2 mirror nuclei {+21}Na and {+29}P at LEBIT</title>
+<keywords>ATOMIC MASSES {+21}Na,{+29}P; measured cyclotron frequency ratios of {+21}Ne,{+21}Na and {+29}P,{+12}C with TOF-ICR technique using LEBIT Penning trap mass spectrometer at NSCL-MSU; deduced Q(EC) values, Ft and V{-ud} for {+21}Na and {+29}P decays. Comparison with previous experimental values and AME-2012.</keywords>
+<keywords>RADIOACTIVITY {+21}Na,{+29}P(|b{++}),(EC)[from {+9}Be({+36}Ar,X),E=150 MeV/nucleon using A1900 separator at NSCL-MSU]; measured Q(EC) using LEBIT Penning trap mass spectrometer. Comparison with previous experimental values.</keywords>
+<doi>10.1103/PhysRevC.92.045502</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2015GU09</keyno>
+<history>A20150603 M20150824</history>
+<coden>JOUR PRVCA 91 055501</coden>
+<refrence>Phys.Rev. C 91, 055501 (2015)</refrence>
+<authors>K.Gulyuz, J.Ariche, G.Bollen, S.Bustabad, M.Eibach, C.Izzo, S.J.Novario, M.Redshaw, R.Ringle, R.Sandler, S.Schwarz, A.A.Valverde</authors>
+<title>Determination of the direct  double-|b Q value of {+96}Zr and atomic masses of {+90-92,94,96}Zr and {+92,94-98,100}Mo</title>
+<keywords>ATOMIC MASSES {+90},{+91},{+92},{+94},{+96}Zr,{+92},{+94},{+95},{+96},{+97},{+98},{+100}Mo; measured cyclotron frequency ratios, mass excesses using LEBIT Penning trap mass spectrometer facility at NSCL-MSU; deduce Q value for double-|b decay of {+96}Zr. Relevance to neutrinoless double-|b decay of {+96}Zr.</keywords>
+<doi>10.1103/PhysRevC.91.055501</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2015KW01</keyno>
+<history>A20160105 M20160301</history>
+<coden>JOUR PRVCA 92 061301</coden>
+<refrence>Phys.Rev. C 92, 061301 (2015)</refrence>
+<authors>A.A.Kwiatkowski, C.Andreoiu, J.C.Bale, A.Chaudhuri, U.Chowdhury, S.Malbrunot-Ettenauer, A.T.Gallant, A.Grossheim, G.Gwinner, A.Lennarz, T.D.Macdonald, T.J.M.Rauch, B.E.Schultz, S.Seeraji, M.C.Simon, V.V.Simon, D.Lunney, A.Poves, J.Dilling</authors>
+<title>Observation of a crossover of S{-2n} in the island of inversion from precision mass spectrometry</title>
+<keywords>ATOMIC MASSES {+27},{+29},{+30},{+31},{+32},{+33},{+34}Al; measured TOF-ICR resonance, mass excess using Ion Trap for Atomic and Nuclear science (TITAN) Penning-trap facility at TRIUMF. Comparison with AME-2012, and previous experimental values. Systematics of S(2n) values for {+28},{+29},{+30},{+31},{+32},{+33},{+34},{+35},{+36},{+37}Mg,{+29},{+30},{+31},{+32},{+33},{+34},{+35},{+36},{+37},{+38}Al, comparison of experimental and theoretical values; deduced crossover at N=21 in the island of inversion. Large-scale shell-model calculations.</keywords>
+<doi>10.1103/PhysRevC.92.061301</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2015VA05</keyno>
+<history>A20150407 M20150727</history>
+<coden>JOUR PRVCA 91 037301</coden>
+<refrence>Phys.Rev. C 91, 037301 (2015)</refrence>
+<authors>A.A.Valverde, G.Bollen, K.Cooper, M.Eibach, K.Gulyuz, C.Izzo, D.J.Morrissey, R.Ringle, R.Sandler, S.Schwarz, C.S.Sumithrarachchi, A.C.C.Villari</authors>
+<title>Penning trap mass measurement of {+72}Br</title>
+<keywords>ATOMIC MASSES {+72},{+72m}Br; measured time-of-flight cyclotron resonance, mass excess using Low Energy Beam and Ion Trap (LEBIT) Penning trap mass spectrometer at NSCL-MSU facility; deduced precise energy of the {+72}Br isomer. Comparison with AME-2012. {+72}Br and {+72m}Br produced in {+9}Be({+78}Kr,X),E=150 MeV/nucleon reaction.</keywords>
+<doi>10.1103/PhysRevC.91.037301</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2015VE10</keyno>
+<history>A20151110</history>
+<coden>JOUR GCACA 171 325</coden>
+<refrence>Geochim.Cosmochim.Act. 171, 325 (2015)</refrence>
+<authors>P.Vermeesch</authors>
+<title>Revised error propagation of {+40}Ar/{+39}Ar data, including covariances</title>
+<keywords>ATOMIC MASSES {+39},{+40}Ar;  measured atomic mass ratio with correction for radioactive decays; deduced error formalism.</keywords>
+<doi>10.1016/j.gca.2015.09.008</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2015ZA13</keyno>
+<history>A20160819</history>
+<coden>JOUR MTRGA 52 280</coden>
+<refrence>Metrologia 52, 280 (2015)</refrence>
+<authors>S.L.Zafonte, R.S.Van Dyck, Jr.</authors>
+<title>Ultra-precise single-ion atomic mass measurements on deuterium and helium-3</title>
+<keywords>ATOMIC MASSES {+2}H,{+3}He; measured cyclotron frequency ratios of ions with the former University of Washington Penning Trap Mass Spectrometer (UW-PTMS); deduced masses. Comparison with available data.</keywords>
+<doi>10.1088/0026-1394/52/2/280</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016BR03</keyno>
+<history>A20160411</history>
+<coden>JOUR NATUA 532 73</coden>
+<refrence>Nature(London) 532, 73 (2016)</refrence>
+<authors>D.Breitschwerdt, J.Feige, M.M.Schulreich, M.A.de Avillez, C.Dettbarn, B.Fuchs</authors>
+<title>The locations of recent supernovae near the Sun from modelling {+60}Fe transport</title>
+<keywords>ATOMIC MASSES {+60}Fe; measured {+60}Fe/Fe ratios using atomic mass spectroscopy; deduced the rate of supernovae in our local Galactic neighbourhood, uncertainties relating to the nucleosynthesis yields and the loss of {+60}Fe during transport.</keywords>
+<doi>10.1038/nature17424</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016EI01</keyno>
+<history>A20160801 M20161109</history>
+<coden>JOUR PRVCA 94 015502</coden>
+<refrence>Phys.Rev. C 94, 015502 (2016)</refrence>
+<authors>M.Eibach, G.Bollen, K.Gulyuz, C.Izzo, M.Redshaw, R.Ringle, R.Sandler, A.A.Valverde</authors>
+<title>Double resonant enhancement in the neutrinoless double-electron capture of {+190}Pt</title>
+<keywords>ATOMIC MASSES {+190},{+194}Pt,{+186},{+190}Os; measured ratio of the cyclotron frequencies using LEBIT Penning trap mass spectrometer at NSCL-MSU; deduced precise Q value for |e|e decay of {+190}Pt. Comparison with AME-2012 evaluation.</keywords>
+<keywords>RADIOACTIVITY {+190}Pt(2EC); measured precise Q value from mass measurements of {+190}Pt and {+190}Os; deduced parameters of the resonantly enhanced 0|n|e|e decays to excited states in {+190}Os. Comparison of Q value with AME-2012 evaluation.</keywords>
+<doi>10.1103/PhysRevC.94.015502</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016KA15</keyno>
+<history>A20160503 M20160725</history>
+<coden>JOUR PRVCA 93 041304</coden>
+<refrence>Phys.Rev. C 93, 041304 (2016)</refrence>
+<authors>A.Kankainen, L.Canete, T.Eronen, J.Hakala, A.Jokinen, J.Koponen, I.D.Moore, D.Nesterenko, J.Reinikainen, S.Rinta-Antila, A.Voss, J.Aysto</authors>
+<title>Mass of astrophysically relevant {+31}Cl and the breakdown of the isobaric multiplet mass equation</title>
+<keywords>ATOMIC MASSES {+31}Cl; measured TOF-ICR spectrum, and mass excess using JYFLTRAP double-Penning-trap mass spectrometer at the IGISOL facility in Jvyaskyla; analyzed isobaric multiplet mass equation (IMME) for T=3/2 quartet for A=31 nuclei {+31}Cl, {+31}S, {+31}P and {+31}Si; deduced breakdown of the IMME. {+31}Cl; deduced S(p), levels.</keywords>
+<keywords>NUCLEAR REACTIONS {+32}S(p,2n){+31}Cl,E=40 MeV; measured mass excess of {+31}Cl at the IGISOL facility in Jvyaskyla. {+31}Cl(|g,p){+30}S,T{-9}=0.2-1.4; deduced reaction rates for typical XRB conditions. Relevance to rapid proton capture process in type-I x-ray bursts.</keywords>
+<doi>10.1103/PhysRevC.93.041304</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016KL04</keyno>
+<history>A20160503 M20160725</history>
+<coden>JOUR PRVCA 93 045807</coden>
+<refrence>Phys.Rev. C 93, 045807 (2016)</refrence>
+<authors>R.Klawitter, A.Bader, M.Brodeur, U.Chowdhury, A.Chaudhuri, J.Fallis, A.T.Gallant, A.Grossheim, A.A.Kwiatkowski, D.Lascar, K.G.Leach, A.Lennarz, T.D.Macdonald, J.Pearkes, S.Seeraji, M.C.Simon, V.V.Simon, B.E.Schultz, J.Dilling</authors>
+<title>Mass measurements of neutron-rich Rb and Sr isotopes</title>
+<keywords>ATOMIC MASSES {+98},{+99},{+100}Rb,{+98},{+99},{+100},{+101}Sr; measured cyclotron frequency using the time-of-flight ion-cyclotron-resonance technique (TOF-ICR) using TITAN Penning-trap mass spectrometer at ISAC-TRIUMF; deduced mass excesses. Comparison with previous measurements and AME-2012 evaluation. Rb and Sr ions produced in U(p,F),E=480 MeV reaction and separated by a dipole magnet.</keywords>
+<doi>10.1103/PhysRevC.93.045807</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016ME07</keyno>
+<history>A20160401 M20160623</history>
+<coden>JOUR PRVCA 93 035805</coden>
+<refrence>Phys.Rev. C 93, 035805 (2016)</refrence>
+<authors>Z.Meisel, S.George, S.Ahn, D.Bazin, B.A.Brown, J.Browne, J.F.Carpino, H.Chung, R.H.Cyburt, A.Estrade, M.Famiano, A.Gade, C.Langer, M.Matos, W.Mittig, F.Montes, D.J.Morrissey, J.Pereira, H.Schatz, J.Schatz, M.Scott, D.Shapira, K.Sieja, K.Smith, J.Stevens, W.Tan, O.Tarasov, S.Towers, K.Wimmer, J.R.Winkelbauer, J.Yurkon, R.G.T.Zegers</authors>
+<title>Time-of-flight mass measurements of neutron-rich chromium isotopes up to N=40 and implications for the accreted neutron star crust</title>
+<keywords>ATOMIC MASSES {+59},{+60},{+61},{+62},{+63},{+64}Cr; measured mass excesses by time-of-flight (TOF) method using {+9}Be({+82}Se,X),E=140 MeV/nucleon for production of Si to Zn isotopes and A1900 fragment separator and S800 spectrograph for fragment separation and analysis at NSCL-MSU. TOF versus mass contour plot obtained for Ar (A=44-49), K (A=47-52), Ca (A=49-55), Sc (A=52-58), Ti (A=54-60), V (A=57-63), Cr (A=59-66), Mn (A=62-70) and Fe (A=64-71) isotopes. Analyzed S(2n) trends and compared to AME-2012. Comparison with state-of-the-art shell-model calculations using modified Lenzi-Nowacki-Poves-Sieja interaction in the fp shell, and with AME-2012 data. Mass of {+64}Cr used in accreted neutron star crust network calculations, and deduced reduction in strength depth of electron-capture heating from A=64 isobaric chain.</keywords>
+<keywords>NUCLEAR REACTIONS {+9}Be({+82}Se,X),E=140 MeV/nucleon; measured time-of-flight, energy loss, fragment yields of 150 isotopes from Si to Zn using A1900 fragment separator and S800 spectrograph at NSCL-MSU.</keywords>
+<doi>10.1103/PhysRevC.93.035805</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2016WA09</keyno>
+<history>A20160411</history>
+<coden>JOUR NATUA 532 69</coden>
+<refrence>Nature(London) 532, 69 (2016)</refrence>
+<authors>A.Wallner, J.Feige, N.Kinoshita, M.Paul, L.K.Fifield, R.Golser, M.Honda, U.Linnemann, H.Matsuzaki, S.Merchel, G.Rugel, S.G.Tims, P.Steier, T.Yamagata, S.R.Winkler</authors>
+<title>Recent near-Earth supernovae probed by global deposition of interstellar radioactive {+60}Fe</title>
+<keywords>ATOMIC MASSES {+60}Fe; measured {+60}Fe/Fe ratios using atomic mass spectroscopy; deduced the rate of supernovae in our local Galactic neighbourhood.</keywords>
+<doi>10.1038/nature17196</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017AL34</keyno>
+<history>A20171102 M20180112</history>
+<coden>JOUR PRVCA 96 044325</coden>
+<refrence>Phys.Rev. C 96, 044325 (2017)</refrence>
+<authors>N.A.Althubiti, D.Atanasov, K.Blaum, T.E.Cocolios, T.Day Goodacre, G.J.Farooq-Smith, D.V.Fedorov, V.N.Fedosseev, S.George, F.Herfurth, K.Heyde, S.Kreim, D.Lunney, K.M.Lynch, V.Manea, B.A.Marsh, D.Neidherr, M.Rosenbusch, R.E.Rossel, S.Rothe, L.Schweikhard, M.D.Seliverstov, A.Welker, F.Wienholtz, R.N.Wolf, K.Zuber, for the ISOLTRAP Collaboration</authors>
+<title>Spectroscopy of the long-lived excited state in the neutron-deficient nuclides {+195,197,199}Po by precision mass measurements</title>
+<keywords>ATOMIC MASSES {+195},{+195m},{+196},{+197},{+197m},{+199m},{+203},{+208}Po; measured cyclotron frequency ratios, mass excesses using ISOLTRAP Penning-trap mass spectrometer at ISOLDE-CERN. The Po isotopes produced in U(p,X),E=1.4 GeV using RILIS and high-resolution mass spectrometer. {+191m},{+193m}Pb,{+195m},{+197m}Po,{+199m},{+201m}Rn,{+203m},{+205m}Ra; deduced level energies of 13/2+ isomers in odd-A polonium isotopes from mass measurements, and other isomers from |a decay. Comparison with evaluated data in AME-2016.</keywords>
+<keywords>RADIOACTIVITY {+195},{+195m},{+197},{+197m},{+199m}Po(|a)[from U(p,X),E=1.4 GeV using RILIS and high-resolution mass spectrometer at ISOLDE-CERN]; measured E|a, I|a.</keywords>
+<doi>10.1103/PhysRevC.96.044325</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017BR14</keyno>
+<history>A20171002 M20171030</history>
+<coden>JOUR PRVCA 96 034316</coden>
+<refrence>Phys.Rev. C 96, 034316 (2017)</refrence>
+<authors>M.Brodeur, A.A.Kwiatkowski, O.M.Drozdowski, C.Andreoiu, D.Burdette, A.Chaudhuri, U.Chowdhury, A.T.Gallant, A.Grossheim, G.Gwinner, H.Heggen, J.D.Holt, R.Klawitter, J.Lassen, K.G.Leach, A.Lennarz, C.Nicoloff, S.Raeder, B.E.Schultz, S.R.Stroberg, A.Teigelhofer, R.Thompson, M.Wieser, J.Dilling</authors>
+<title>Precision mass measurements of magnesium isotopes and implications for the validity of the isobaric mass multiplet equation</title>
+<keywords>ATOMIC MASSES {+27},{+28},{+29}Mg; measured cyclotron frequencies, mass excesses using TITAN Penning trap at ISAC-TRIUMF facility; deduced S(p). Comparison with AME-2016 evaluated data, and with ab initio calculations from the valence-space in-medium similarity renormalization group. {+27},{+28},{+29}Mg produced in SiC(p,X),E=480 MeV reaction, followed by laser resonance ionization in a radio-frequency ion guide (IG-LIS).{+29}Mg,{+29}Cl,{+30}Mg,{+30}Ar; analyzed isobaric mass multiplet equation (IMME) in the form of a cubic term. {+28}S,{+29}Cl; need to confirm mass excess of {+28}S and S(n) of {+29}Cl.</keywords>
+<doi>10.1103/PhysRevC.96.034316</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017DE18</keyno>
+<history>A20170801 M20180605</history>
+<coden>JOUR PRVCA 96 014310</coden>
+<refrence>Phys.Rev. C 96, 014310 (2017);Erratum Phys.Rev. C 97, 059902 (2018)</refrence>
+<authors>A.de Roubin, D.Atanasov, K.Blaum, S.George, F.Herfurth, D.Kisler, M.Kowalska, S.Kreim, D.Lunney, V.Manea, E.Minaya Ramirez, M.Mougeot, D.Neidherr, M.Rosenbusch, L.Schweikhard, A.Welker, F.Wienholtz, R.N.Wolf, K.Zuber</authors>
+<title>Nuclear deformation in the A |? 100 region: Comparison between new masses and mean-field predictions</title>
+<keywords>ATOMIC MASSES {+100},{+101},{+102}Sr,{+100},{+101},{+102}Rb; measured frequency ratios and mass excesses by the time-of-flight ion cyclotron resonance (ToF-ICR) method using the multireflection time-of-flight mass spectrometer (MR-ToF MS), precision Penning traps, and ISOLTRAP at ISOLDE/CERN. The Sr and Rb isotopes produced as fission fragments in U(p,F),E=1.4 GeV using uranium carbide target, and ISOLDE high-resolution separator (HRS). Comparison with previous measurements, AME-2012 evaluation, and different self-consistent mean-field calculations with different Skyrme and Gogny effective interactions. Systematics of experimental and theoretical S(2n), root mean square charge radii, and odd-even staggering for N=56-66 Rb, Sr and Kr nuclei. Discussed competition of nuclear shapes in the A=100 mass region.</keywords>
+<doi>10.1103/PhysRevC.96.014310</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017GA20</keyno>
+<history>A20170905 M20171019</history>
+<coden>JOUR PRVCA 96 024325</coden>
+<refrence>Phys.Rev. C 96, 024325 (2017)</refrence>
+<authors>A.T.Gallant, M.Alanssari, J.C.Bale, C.Andreoiu, B.R.Barquest, U.Chowdhury, J.Even, A.Finlay, D.Frekers, G.Gwinner, R.Klawitter, B.Kootte, A.A.Kwiatkowski, D.Lascar, K.G.Leach, E.Leistenschneider, A.Lennarz, A.J.Mayer, D.Short, R.Thompson, M.Wieser, D.Lunney, J.Dilling</authors>
+<title>Mass determination near N=20 for Al and Na isotopes</title>
+<keywords>ATOMIC MASSES {+31},{+32}Na,{+29},{+34},{+35}Al; measured cyclotron frequencies and mass excesses by time-of-flight ion-cyclotron-resonance (TOF-ICR) technique using the TITAN Penning trap mass spectrometer at ISAC-TRIUMF; deduced S(2n). Radioactive isotopes produced via the isotope separator on-line (ISOL) technique by a 480-MeV proton beam impinging on a UC{-x} target, followed by the separation of sodium isotopes by surface ionization, and aluminum isotopes by the TRIUMF Resonant Ionization Laser Ion Source (TRILIS). Comparison with previous experimental values and mass evaluations. Systematics of S(2n) values for N=18-25 Na, Mg, and Al isotopic chains.</keywords>
+<doi>10.1103/PhysRevC.96.024325</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017SC02</keyno>
+<history>A20170202 M20170228</history>
+<coden>JOUR PRVCA 95 011305</coden>
+<refrence>Phys.Rev. C 95, 011305 (2017)</refrence>
+<authors>P.Schury, M.Wada, Y.Ito, D.Kaji, F.Arai, M.MacCormick, I.Murray, H.Haba, S.Jeong, S.Kimura, H.Koura, H.Miyatake, K.Morimoto, K.Morita, A.Ozawa, M.Rosenbusch, M.Reponen, P.-A.Soderstrom, A.Takamine, T.Tanaka, H.Wollnik</authors>
+<title>First online multireflection time-of-flight mass measurements of isobar chains produced by fusion-evaporation reactions: Toward identification of superheavy elements via mass spectroscopy</title>
+<keywords>ATOMIC MASSES {+204},{+205},{+206}Fr,{+204},{+205},{+206}Rn,{+204},{+205},{+206}At,{+204},{+205}Po,{+205}Bi; measured time-of-flight spectra, precise atomic masses with reference to that of {+205}Fr using GARIS-II recoil ion separator GARIS-II and multireflection time-of-flight mass spectrographs (MRTOF-MS) at RILAC-RIKEN facility. Isotopes produced in {+165}Ho,{+169}Tm({+40}Ar,X),E=4.825,5.16 MeV/nucleon. Comparison with AME-2012 values, and previous experimental values.</keywords>
+<doi>10.1103/PhysRevC.95.011305</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017WI01</keyno>
+<history>A20170331 M20170628</history>
+<coden>JOUR PRVCA 95 034618</coden>
+<refrence>Phys.Rev. C 95, 034618 (2017)</refrence>
+<authors>H.Wilsenach, K.Zuber, D.Degering, R.Heller, V.Neu</authors>
+<title>High precision half-life measurement of {+147}Sm |a decay from thin-film sources</title>
+<keywords>RADIOACTIVITY {+147}Sm(|a); measured E|a, I|a, isotopic abundance of {+147}Sm, half-life of {+147}Sm decay using natural Sm samples and ultra-low-background twin Frisch-grid ionization chamber (TF-GIC). GEANT4 simulation to determine the geometrical efficiency for each sample. Comparison with previous half-life measurements.</keywords>
+<keywords>ATOMIC MASSES {+144},{+147},{+148},{+149},{+150},{+152},{+154}Sm; measured isotopic abundances of natural Sm samples using inductively coupled plasma mass spectrometry (ICP-MS). Comparison with literature data.</keywords>
+<doi>10.1103/PhysRevC.95.034618</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2017ZE02</keyno>
+<history>A20171002 M20171030</history>
+<coden>JOUR PRVCA 96 031303</coden>
+<refrence>Phys.Rev. C 96, 031303 (2017)</refrence>
+<authors>Q.Zeng, M.Wang, X.H.Zhou, Y.H.Zhang, X.L.Tu, X.C.Chen, X.Xu, Yu.A.Litvinov, H.S.Xu, K.Blaum, R.J.Chen, C.Y.Fu, Z.Ge, W.J.Huang, H.F.Li, J.H.Liu, B.Mei, P.Shuai, M.Si, B.H.Sun, M.Z.Sun, Q.Wang, G.Q.Xiao, Y.M.Xing, T.Yamaguchi, X.L.Yan, J.C.Yang, Y.J.Yuan, Y.D.Zang, P.Zhang, W.Zhang, X.Zhou</authors>
+<title>Half-life measurement of short-lived {+94m}{-44}Ru{+44+} using isochronous mass spectrometry</title>
+<keywords>RADIOACTIVITY {+94m}Ru(IT)[from {+9}Be({+112}Sn,X),E=376.42 MeV/nucleon]; measured half-life of the fully-ionized (bare) ions of 8+ isomeric state at 2644 keV at the Experimental Cooler Storage Ring (CSRe) in Heavy Ion Research Facility (HIRFL), Lanzhou; deduced ICC. Comparison with calculations using BrIcc code, and with theoretical predictions. See also 2017Ch37 from the same laboratory for a detailed statistical analysis for extraction of half-life from experimental data.</keywords>
+<keywords>ATOMIC MASSES {+94}Ru,{+94m}Ru; measured mass excesses of the isomer and the ground state of {+94}Ru using isochronous mass spectrometry (IMS) at Heavy Ion Research Facility (HIRFL), Lanzhou, and compared with AME-2016.</keywords>
+<doi>10.1103/PhysRevC.96.031303</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2018FU11</keyno>
+<history>A20180801 M20180910</history>
+<coden>JOUR PRVCA 98 014315</coden>
+<refrence>Phys.Rev. C 98, 014315 (2018)</refrence>
+<authors>C.Y.Fu, Y.H.Zhang, X.H.Zhou, M.Wang, Yu.A.Litvinov, K.Blaum, H.S.Xu, X.Xu, P.Shuai, Y.H.Lam, R.J.Chen, X.L.Yan, T.Bao, X.C.Chen, H.Chen, J.J.He, S.Kubono, D.W.Liu, R.S.Mao, X.W.Ma, M.Z.Sun, X.L.Tu, Y.M.Xing, P.Zhang, Q.Zeng, X.Zhou, W.L.Zhan, S.Litvinov, G.Audi, T.Uesaka, Y.Yamaguchi, T.Yamaguchi, A.Ozawa, B.H.Sun, Y.Sun, F.R.Xu</authors>
+<title>Masses of the T{-z} = -3/2 nuclei {+27}P and {+29}S</title>
+<keywords>ATOMIC MASSES {+27}P,{+29}S; measured revolution time spectrum, and mass excesses using isochronous mass spectrometry (IMS) technique at Cooler Storage Ring (CSR) of HIRFL-Lanzhou facility. {+29}S,{+29}P,{+29}Si,{+29}Al; analyzed linear and quadratic coefficients of the isobaric multiplet mass equation (IMME). Comparison with AME-2016 values. {+27}P,{+29}S; isotopes produced in {+9}Be({+58}Ni,X),E=468 MeV/nucleon reaction, and using RIBLL2 fragment separator.</keywords>
+<doi>10.1103/PhysRevC.98.014315</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2018IZ01</keyno>
+<history>A20180201 M20180309</history>
+<coden>JOUR PRVCA 97 014309</coden>
+<refrence>Phys.Rev. C 97, 014309 (2018)</refrence>
+<authors>C.Izzo, G.Bollen, M.Brodeur, M.Eibach, K.Gulyuz, J.D.Holt, J.M.Kelly, M.Redshaw, R.Ringle, R.Sandler, S.Schwarz, S.R.Stroberg, C.S.Sumithrarachchi, A.A.Valverde, A.C.C.Villari</authors>
+<title>Precision mass measurements of neutron-rich Co isotopes beyond N=40</title>
+<keywords>ATOMIC MASSES {+68},{+69}Co; measured time-of-flight ion cyclotron resonances (TOF-ICR), mass excesses using LEBIT Penning trap system at NSCL-MSU facility. Comparison with AME-2016 values. Systematics of S(2n) values in N=36-44 Fe, Co, Ni and Cu nuclides. Discussed low- and high-spin isomers in {+68}Co and {+69}Co, and concluded the main contribution from the high-spin activities.</keywords>
+<keywords>RADIOACTIVITY {+68},{+69}Co(|b{+-})[from {+9}Be({+76}Ge,X),E=130 MeV/nucleon followed by fragment selection using A1900 fragment separator]; measured E|g, I|g from the decay of {+68}Co. {+68},{+69}Co; calculated levels, J, |p by ab initio approach using the valence-space in-medium similarity renormalization group (VS-IMSRG) framework based on two-nucleon (NN) and three-nucleon (3N) forces from chiral effective field theory; discussed energy ordering of the ground state and isomer.</keywords>
+<doi>10.1103/PhysRevC.97.014309</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2018ON01</keyno>
+<history>A20190114 M20190305</history>
+<coden>JOUR PRVCA 98 065803</coden>
+<refrence>Phys.Rev. C 98, 065803 (2018)</refrence>
+<authors>W.-J.Ong, A.A.Valverde, M.Brodeur, G.Bollen, M.Eibach, K.Gulyuz, A.Hamaker, C.Izzo, D.Puentes, M.Redshaw, R.Ringle, R.Sandler, S.Schwarz, C.S.Sumithrarachchi, J.Surbrook, A.C.C.Villari, I.T.Yandow</authors>
+<title>Mass measurement of {+51}Fe for the determination of the {+51}Fe(p,|g){+52}Co reaction rate</title>
+<keywords>ATOMIC MASSES {+51}Fe; measured time of flight, cyclotron frequency ratios, and mass excess using the Penning trap of LEBIT-NSCL. {+52}Co; deduced S(p). Comparison with data in AME-2016 evaluation.</keywords>
+<keywords>NUCLEAR REACTIONS {+51}Fe(p,|g),T{-9}=0.1-10; calculated astrophysical reaction rates; deduced REACLIB fits at 0.1-10 GK.</keywords>
+<keywords>NUCLEAR STRUCTURE {+52}Co; calculated levels in the unbound region from 1560 to 3989 keV, proton resonances, J, |p, |G{-p}, |G{-|g}, spectroscopic factors, using shell model with the GXPF1A interaction.</keywords>
+<doi>10.1103/PhysRevC.98.065803</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2018RE11</keyno>
+<history>A20180904 M20181018</history>
+<coden>JOUR PRVCA 98 024310</coden>
+<refrence>Phys.Rev. C 98, 024310 (2018)</refrence>
+<authors>M.P.Reiter, S.Ayet San Andres, E.Dunling, B.Kootte, E.Leistenschneider, C.Andreoiu, C.Babcock, B.R.Barquest, J.Bollig, T.Brunner, I.Dillmann, A.Finlay, G.Gwinner, L.Graham, J.D.Holt, C.Hornung, C.Jesch, R.Klawitter, Y.Lan, D.Lascar, J.E.McKay, S.F.Paul, R.Steinbrugge, R.Thompson, J.L.Tracy, M.E.Wieser, C.Will, T.Dickel, W.R.Plass, C.Scheidenberger, A.A.Kwiatkowski, J.Dilling</authors>
+<title>Quenching of the N=32 neutron shell closure studied via precision mass measurements of neutron-rich vanadium isotopes</title>
+<keywords>ATOMIC MASSES {+52},{+53},{+54}Cr,{+51},{+52},{+53}Ti,{+51},{+52},{+53},{+54},{+55}V; measured multiple-reflection time-of-flight mass-Spectrometer and isobar separator (MR-TOF-MS) spectra, time-of-flight ion-cyclotron-resonance (ToF-ICR) resonances, and mass excesses using TRIUMF Ion Trap for Atomic and Nuclear science (TITAN) penning trap; deduced shell gaps for N=26-35 vanadium and calcium isotopes. Comparison with values in AME-2016. Systematics of S(2n) and half-lives for Z=19-24, N=28-36 nuclides. Discussed the evolution of the N=32 neutron shell closure.</keywords>
+<doi>10.1103/PhysRevC.98.024310</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2018RO14</keyno>
+<history>A20180713 M20180827</history>
+<coden>JOUR PRVCA 97 064306</coden>
+<refrence>Phys.Rev. C 97, 064306 (2018)</refrence>
+<authors>M.Rosenbusch, Y.Ito, P.Schury, M.Wada, D.Kaji, K.Morimoto, H.Haba, S.Kimura, H.Koura, M.MacCormick, H.Miyatake, J.Y.Moon, K.Morita, I.Murray, T.Niwase, A.Ozawa, M.Reponen, A.Takamine, T.Tanaka, H.Wollnik</authors>
+<title>New mass anchor points for neutron-deficient heavy nuclei from direct mass measurements of radium and actinium isotopes</title>
+<keywords>ATOMIC MASSES {+210},{+211},{+212},{+214}Ra,{+210},{+211},{+212},{+213},{+214}Ac; measured time of flight, and mass excess using multireflection time-of-flight mass spectrograph (MRTOF-MS) at superheavy element (SHE) mass facility of RIKEN-KEK, and using gas-filled recoil ion separator GARIS-II at RIKEN. Comparison with values from AME-2016. Ra and Ac isotopes produced in {+169}Tm({+48}Ca,X),E=5,6 MeV/nucleon reaction at RIKEN. Z=82-92,N=121-129; systematics of S(2n) values.</keywords>
+<doi>10.1103/PhysRevC.97.064306</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2018TR04</keyno>
+<history>A20180508</history>
+<coden>JOUR ASJOA 857 L15</coden>
+<refrence>Astrophys.J. 857, L15 (2018)</refrence>
+<authors>R.Trappitsch, P.Boehnke, T.Stephan, M.Telus, M.R.Savina, O.Pardo, A.M.Davis, N.Dauphas, M.J.Pellin, G.R.Huss</authors>
+<title>New Constraints on the Abundance of {+60}Fe in the Early Solar System</title>
+<keywords>ATOMIC MASSES {+56},{+60}Fe,{+58},{+60}Ni; measured mass ratios using   resonance ionization mass spectrometry (RIMS) in a chondrule from the primitive meteorite Semarkona; deduced  solar system's initial amount of {+60}Fe.</keywords>
+<doi>10.3847/2041-8213/aabba9</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2018ZH29</keyno>
+<history>A20180801 M20180910</history>
+<coden>JOUR PRVCA 98 014319</coden>
+<refrence>Phys.Rev. C 98, 014319 (2018)</refrence>
+<authors>Y.H.Zhang, P.Zhang, X.H.Zhou, M.Wang, Yu.A.Litvinov, H.S.Xu, X.Xu, P.Shuai, Y.H.Lam, R.J.Chen, X.L.Yan, T.Bao, X.C.Chen, H.Chen, C.Y.Fu, J.J.He, S.Kubono, D.W.Liu, R.S.Mao, X.W.Ma, M.Z.Sun, X.L.Tu, Y.M.Xing, Q.Zeng, X.Zhou, W.L.Zhan, S.Litvinov, K.Blaum, G.Audi, T.Uesaka, Y.Yamaguchi, T.Yamaguchi, A.Ozawa, B.H.Sun, Y.Sun, F.R.Xu</authors>
+<title>Isochronous mass measurements of T{-z} = -1 fp-shell nuclei from projectile fragmentation of {+58}Ni</title>
+<keywords>ATOMIC MASSES {+43}Ti,{+44},{+44m},{+45}V,{+46},{+47}Cr,{+48},{+49}Mn,{+50},{+51}Fe,{+52},{+52m}Co,{+54}Ni,{+56}Cu; measured time revolution spectra, and mass excesses using isochronous mass spectrometry (IMS) technique using Cooler Storage Ring (CSRm) at HIRFL-Lanzhou. Comparison with AME-2012 evaluation, and with predictions of several mass models. {+52},{+52m}Co,{+44},{+44m}V; deduced precise energies of the isomeric states from direct mass measurements, and compared with previously known values. {+52},{+52m}Co,{+52}Mn; deduced revised level energies in {+52}Co from new mass measurements for {+52},{+52m}Co and known level energies in {+52}Mn mirror nucleus. {+56}Co,{+56}Cu; deduced revised {+56}Cu level energies from new mass measurement for {+56}Cu and using known level energies of {+56}Co mirror nucleus. {+52}Co,{+52}Fe,{+52}Mn,{+52}Cr; analyzed quadratic and cubic fit coefficients of the isobaric multiplet mass equation (IMME). Discussed impact of new mass measurements on different aspects in nuclear structure. Isotopes produced in {+9}Be({+58}Ni,X),E=467.91 MeV/nucleon reaction, and fragments separated using RIBLL2 separator at Lanzhou.</keywords>
+<doi>10.1103/PhysRevC.98.014319</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2019AN10</keyno>
+<history>A20190708 M20190826</history>
+<coden>JOUR PRVCA 99 064313</coden>
+<refrence>Phys.Rev. C 99, 064313 (2019)</refrence>
+<authors>S.A.S.Andres, C.Hornung, J.Ebert, W.R.Plass, T.Dickel, H.Geissel, C.Scheidenberger, J.Bergmann, F.Greiner, E.Haettner, C.Jesch, W.Lippert, I.Mardor, I.Miskun, Z.Patyk, S.Pietri, A.Pihktelev, S.Purushothaman, M.P.Reiter, A.-K.Rink, H.Weick, M.I.Yavor, S.Bagchi, V.Charviakova, P.Constantin, M.Diwisch, A.Finlay, S.Kaur, R.Knobel, J.Lang, B.Mei, I.D.Moore, J.-H.Otto, I.Pohjalainen, A.Prochazka, C.Rappold, M.Takechi, Y.K.Tanaka, J.S.Winfield, X.Xu</authors>
+<title>High-resolution, accurate multiple-reflection time-of-flight mass spectrometry for short-lived, exotic nuclei of a few events in their ground and low-lying isomeric states</title>
+<keywords>ATOMIC MASSES {+93},{+94}Ru,{+94}Rh,{+96},{+97}Pd,{+100}Ag,{+107}Cd,{+114},{+116},{+133},{+134}Te,{+114},{+134}Sb,{+117},{+119},{+133},{+134}I,{+119}Xe,{+124},{+125},{+126}Cs,{+211},{+212},{+213}Fr,{+211}Po,{+212},{+213},{+218},{+220}Rn,{+212},{+217}At; {+134m}Sb,{+133m}Te,{+133m},{+134m}I,{+134m}Xe,{+211m}Po; measured mass excess and isomer energies using multiple-reflection time-of-flight mass spectrometry (MR-TOF-MS) with the FRS Ion Catcher at GSI. Isotopes produced in {+9}Be({+238}U,F),E=300,1000 MeV/nucleon; {+9}Be({+124}Xe,X),E=600 MeV/nucleon reactions using FRS separator at GSI. Comparison with AME-2016 evaluation. Systematics of S(2n) values in N=123-136 Pb,Bi,Po,At,Rn,Fr,Ra,Ac,Th isotopes, and compared with theoretical predictions.</keywords>
+<doi>10.1103/PhysRevC.99.064313</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2019AS04</keyno>
+<history>A20190802 M20190926</history>
+<coden>JOUR PRVCA 100 014304</coden>
+<refrence>Phys.Rev. C 100, 014304 (2019)</refrence>
+<authors>P.Ascher, N.Althubiti, D.Atanasov, K.Blaum, R.B.Cakirli, S.Grevy, F.Herfurth, S.Kreim, D.Lunney, V.Manea, D.Neidherr, M.Rosenbusch, L.Schweikhard, A.Welker, F.Wienholtz, R.N.Wolf, K.Zuber</authors>
+<title>Mass measurements of neutron-rich isotopes near N=20 by in-trap decay with the ISOLTRAP spectrometer</title>
+<keywords>ATOMIC MASSES {+33},{+34}Mg,{+34}Al,{+34m}Al,{+34}Si; measured cyclotron frequency ratios, and mass excesses using the ISOLTRAP Penning-trap spectrometer at ISOLDE-CERN. Combined mass excess for {+34}Al and {+34m}Al, as the two could not be separated. Comparison with AME-2016 evaluation. The {+33},{+34}Mg and {+34}Al isotopes were produced in UC{-x}(p,X),E=1.4 GeV reaction, followed by laser-ionization by RILIS at ISOLDE-CERN. {+34m}Al and {+34}Si were obtained from the decay of {+34}Mg.</keywords>
+<doi>10.1103/PhysRevC.100.014304</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2019KO13</keyno>
+<history>A20190819</history>
+<coden>JOUR PRLTA 123 072701</coden>
+<refrence>Phys.Rev.Lett. 123, 072701 (2019)</refrence>
+<authors>D.Koll, G.Korschinek, T.Faestermann, J.M.Gomez-Guzman, Se.Kipfstuhl, S.Merchel, J.M.Welch</authors>
+<title>Interstellar {+60}Fe in Antarctica</title>
+<keywords>ATOMIC MASSES {+53}Mn,{+60}Fe; measured number of atoms in snow by accelerator mass spectrometry; deduced atomic ratio significantly above cosmogenic production.</keywords>
+<doi>10.1103/PhysRevLett.123.072701</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2019SA36</keyno>
+<history>A20190802 M20190926</history>
+<coden>JOUR PRVCA 100 014308</coden>
+<refrence>Phys.Rev. C 100, 014308 (2019)</refrence>
+<authors>R.Sandler, G.Bollen, J.Dissanayake, M.Eibach, K.Gulyuz, A.Hamaker, C.Izzo, X.Mougeot, D.Puentes, F.G.A.Quarati, M.Redshaw, R.Ringle, I.Yandow</authors>
+<title>Direct determination of the {+138}La |b-decay Q value using Penning trap mass spectrometry</title>
+<keywords>ATOMIC MASSES {+138}La,{+138}Ce,{+138}Ba,{+136}Xe; measured cyclotron frequency ratios, time-of-flight ion cyclotron resonance for {+138}La using Penning trap mass spectrometry at LEBIT-NSCL-MSU facility; deduced atomic mass excesses. Comparison with AME-2016 evaluation.</keywords>
+<keywords>RADIOACTIVITY {+138}La(|b{+-}),(EC); {+138}Ce(2EC); deduced Q values; calculated {+138}La |b-decay curve, experimental shape factor, {+138}La |e decay probability ratios for K, L, and M shells. Comparison with previous measurements.</keywords>
+<doi>10.1103/PhysRevC.100.014308</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2019SA39</keyno>
+<history>A20190909 M20191021</history>
+<coden>JOUR PRVCA 100 024309</coden>
+<refrence>Phys.Rev. C 100, 024309 (2019)</refrence>
+<authors>R.Sandler, G.Bollen, N.D.Gamage, A.Hamaker, C.Izzo, D.Puentes, M.Redshaw, R.Ringle, I.Yandow</authors>
+<title>Investigation of the potential ultralow Q-value |b-decay candidates {+89}Sr and {+139}Ba using Penning trap mass spectrometry</title>
+<keywords>ATOMIC MASSES {+89}Y,{+139}La; measured cyclotron frequency ratios, and mass excesses using LEBIT facility at NSCL-MSU, with {+85},{+87}Rb as references for {+89}Y and {+136}Xe for {+139}La; deduced Q(|b{+-}) values for {+89}Sr to {+89}Y and {+139}Ba to {+139}La decays. Comparison with AME-2016 values. Discussed potential ultra-low Q values for decay to excited states in {+89}Y and {+139}La.</keywords>
+<doi>10.1103/PhysRevC.100.024309</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2019VI05</keyno>
+<history>A20191204 M20200124</history>
+<coden>JOUR PRVCA 100 054333</coden>
+<refrence>Phys.Rev. C 100, 054333 (2019)</refrence>
+<authors>M.Vilen, A.Kankainen, P.Baczyk, L.Canete, J.Dobaczewski, T.Eronen, S.Geldhof, A.Jokinen, M.Konieczka, J.Kostensalo, I.D.Moore, D.A.Nesterenko, H.Penttila, I.Pohjalainen, M.Reponen, S.Rinta-Antila, A.de Roubin, W.Satula, J.Suhonen</authors>
+<title>High-precision mass measurements and production of neutron-deficient isotopes using heavy-ion beams at IGISOL</title>
+<keywords>ATOMIC MASSES {+82}Zr,{+84}Nb,{+86}Mo,{+88}Tc,{+88m}Tc,{+89}Ru; measured cyclotron frequencies, time-of-flight, and mass excesses using time-of-flight ion-cyclotron resonance (TOF-ICR), and phase-imaging ion-cyclotron resonance (PI-ICR) techniques at the University of Jyvaskyla accelerator laboratory; deduced S(2n), S(2p) and neutron-pairing gap energies. {+82}Mo,{+86}Ru; predicted mass excesses using the measured masses of their mirror partners and theoretical mirror displacement energies. Comparison with AME-2016 values, and with other recent measurements. {+88}Tc; deduced levels, J, |p of the ground state and isomer, and compared with shell-model predictions.</keywords>
+<keywords>NUCLEAR REACTIONS Ni({+36}Ar,X){+82}Zr/{+84}Nb/{+86}Mo/{+88}Tc/{+88m}Tc/{+89}Ru,E=222 MeV; measured reaction products and yields using the HIGISOL system, mass separated using a radio-frequency sextupole ion guide (SPIG), and injected into the double-Penning-trap mass spectrometer JYFLTRAP at Jyvaskyla.</keywords>
+<doi>10.1103/PhysRevC.100.054333</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2019XU09</keyno>
+<history>A20190708 M20190826</history>
+<coden>JOUR PRVCA 99 064303</coden>
+<refrence>Phys.Rev. C 99, 064303 (2019)</refrence>
+<authors>X.Xu, M.Wang, K.Blaum, J.D.Holt, Yu.A.Litvinov, A.Schwenk, J.Simonis, S.R.Stroberg, Y.H.Zhang, H.S.Xu, P.Shuai, X.L.Tu, X.H.Zhou, F.R.Xu, G.Audi, R.J.Chen, X.C.Chen, C.Y.Fu, Z.Ge, W.J.Huang, S.Litvinov, D.W.Liu, Y.H.Lam, X.W.Ma, R.S.Mao, A.Ozawa, B.H.Sun, Y.Sun, T.Uesaka, G.Q.Xiao, Y.M.Xing, T.Yamaguchi, Y.Yamaguchi, X.L.Yan, Q.Zeng, H.W.Zhao, T.C.Zhao, W.Zhang, W.L.Zhan</authors>
+<title>Masses of neutron-rich {+52-54}Sc and {+54,56}Ti nuclides: The N=32 subshell closure in scandium</title>
+<keywords>ATOMIC MASSES {+52},{+53},{+54}Sc,{+54},{+56}Ti; measured mass excesses using isochronous mass spectrometry at CRSe-HIRFL, Lanzhou. Isotopes produced in {+9}Be({+86}Kr,X),E=460.65 MeV/nucleon reaction and separated using RIBLL2. Comparison with AME-2012 evaluation, and results from six previous experiments, and with valence-space in-medium similarity renormalization group (VS-IMSRG) calculations. Systematics of S(2n) values in N=27-34 K,Ca,Sc,Ti isotopic chains, and those of empirical shell gaps in N=24-34 K,Ca,Sc,Ti isotopic chains and Z=19-25 N=32 isotones.</keywords>
+<doi>10.1103/PhysRevC.99.064303</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2019XU13</keyno>
+<history>A20191204 M20200124</history>
+<coden>JOUR PRVCA 100 051303</coden>
+<refrence>Phys.Rev. C 100, 051303 (2019)</refrence>
+<authors>X.Xu, J.H.Liu, C.X.Yuan, Y.M.Xing, M.Wang, Y.H.Zhang, X.H.Zhou, Yu.A.Litvinov, K.Blaum, R.J.Chen, X.C.Chen, C.Y.Fu, B.S.Gao, J.J.He, S.Kubono, Y.H.Lam, H.F.Li, M.L.Liu, X.W.Ma, P.Shuai, M.Si, M.Z.Sun, X.L.Tu, Q.Wang, H.S.Xu, X.L.Yan, J.C.Yang, Y.J.Yuan, Q.Zeng, P.Zhang, X.Zhou, W.L.Zhan, S.Litvinov, G.Audi, S.Naimi, T.Uesaka, Y.Yamaguchi, T.Yamaguchi, A.Ozawa, B.H.Sun, K.Kaneko, Y.Sun, F.R.Xu</authors>
+<title>Masses of ground and isomeric states of {+101}In and configuration-dependent shell evolution in odd-$A$ indium isotopes</title>
+<keywords>ATOMIC MASSES {+101}In,{+101m}In; measured mass excesses using storage-ring based isochronous mass spectrometry technique; deduced energy of the isomeric state. Comparison with systematic values in AME-2016 values. Systematics of 1/2- isomeric states in {+101},{+103},{+105},{+107},{+109},{+111}In, data from the present experiment for {+101}In and from the ENSDF database for others.</keywords>
+<keywords>NUCLEAR STRUCTURE {+101},{+103},{+105},{+107},{+109},{+111},{+113}In; calculated energies of the 1/2- isomeric levels, neutron occupation numbers for 1/2- and 9/2+ levels, neutron effective single-particle energies of |n1g{-7/2} with respect to |n2d{-5/2} for 9/2+ and 1/2- levels using state-of-the-art shell-model calculations. Comparison with available experimental data.</keywords>
+<keywords>NUCLEAR REACTIONS {+9}Be({+112}Sn,X){+31}P/{+33}S/{+35}Cl/{+37}Ar/{+39}K/{+58}Ni/{+60}Cu/{+62}Zn/{+64}Ga/{+66}Ge/{+68}As/{+70}Se/{+72}Br/{+74}Rb/{+76}Rb/{+78}Sr/{+80}Y/{+89}Tc/{+91}Ru/{+91m}Ru/{+93}Rh/{+95}Pd/{+95m}Pd/{+97}Ag/{+99}Cd/{+101}In/{+101m}In/{+103}Sn,E=400.88 MeV/nucleon; measured reaction products selected and analyzed by RIBLL2 separator, and revolution time spectrum at the Cooler Storage Ring (CSR) accelerator complex of HIRFL-Lanzhou facility.</keywords>
+<doi>10.1103/PhysRevC.100.051303</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2020KU09</keyno>
+<history>A20200407</history>
+<coden>JOUR EEJPA 2020 104</coden>
+<refrence>East.Eur.J.Phys 2020, 104 (2020)</refrence>
+<authors>D.V.Kutnii, D.D.Burdeynyi, S.A.Vanzha, N.V.Rud</authors>
+<title>Determination of {+234}U/{+238}U, {+235}U/{+238}U, {+236}U/{+238}U Isotope Ratios in Uranium Oxide by Sector-Field ICP-MS</title>
+<keywords>ATOMIC MASSES {+234},{+235},{+236},{+238}U; measured mass spectra of the uranium ore concentrate; deduced isotope ratios in uranium oxide.</keywords>
+<doi>10.26565/2312-4334-2020-2-09</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2020MA09</keyno>
+<history>A20200306</history>
+<coden>JOUR PRLTA 124 092502</coden>
+<refrence>Phys.Rev.Lett. 124, 092502 (2020)</refrence>
+<authors>V.Manea, J.Karthein, D.Atanasov, M.Bender, K.Blaum, T.E.Cocolios, S.Eliseev, A.Herlert, J.D.Holt, W.J.Huang, Y.A.Litvinov, D.Lunney, J.Menendez, M.Mougeot, D.Neidherr, L.Schweikhard, A.Schwenk, J.Simonis, A.Welker, F.Wienholtz, K.Zuber</authors>
+<title>First Glimpse of the N=82 Shell Closure below Z=50 from Masses of Neutron-Rich Cadmium Isotopes and Isomers</title>
+<keywords>ATOMIC MASSES {+124},{+126},{+127},{+127m},{+128},{+129},{+129m},{+131},{+132}Cd; measured mass excesses using phase-imaging ion cyclotron-resonance (PI-ICR) method with the ISOLTRAP spectrometer at ISOLDE-CERN. Cd isotopes were produced in U(p,F),E=1.4 GeV reaction followed by separation of fission fragments using ISOLDE High-resolution separator. Comparison with literature data in AME2016 evaluation, and with large-scale shell-model, mean-field, beyond-mean-field, and ab initio valence-space in-medium similarity renormalization group (VS-IMSRG) calculations. Systematics of S(n) for N=81,83 and Z=48-68, and for two-neutron shell gaps for N=82, Z=42-70 nuclei.</keywords>
+<doi>10.1103/PhysRevLett.124.092502</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2020RE04</keyno>
+<history>A20200228 M20200428</history>
+<coden>JOUR PRVCA 101 025803</coden>
+<refrence>Phys.Rev. C 101, 025803 (2020)</refrence>
+<authors>M.P.Reiter, S.Ayet San Andres, S.Nikas, J.Lippuner, C.Andreoiu, C.Babcock, B.R.Barquest, J.Bollig, T.Brunner, T.Dickel, J.Dilling, I.Dillmann, E.Dunling, G.Gwinner, L.Graham, C.Hornung, R.Klawitter, B.Kootte, A.A.Kwiatkowski, Y.Lan, D.Lascar, K.G.Leach, E.Leistenschneider, G.Martinez-Pinedo, J.E.McKay, S.F.Paul, W.R.Plass, L.Roberts, H.Schatz, C.Scheidenberger, A.Sieverding, R.Steinbrugge, R.Thompson, M.E.Wieser, C.Will, D.Welch</authors>
+<title>Mass measurements of neutron-rich gallium isotopes refine production of nuclei of the first r-process abundance peak in neutron-star merger calculations</title>
+<keywords>ATOMIC MASSES {+80},{+81},{+82},{+83},{+84},{+85}Ga; measured time-of-flight spectra and mass excesses using the Ion Guide Laser Ion Source (IG-LIS) and Multiple-Reflection Time-of-Flight Mass-Spectrometer and isobar separator (MR-TOF-MS) at TRIUMF-TITAN facility; deduced solar r-process abundances for A=70-140. Comparison with AME-2016 values. Systematics of experimental and theoretical S(2n) values for Z=30-33, N=46-57 isotopes.</keywords>
+<doi>10.1103/PhysRevC.101.025803</doi>
+</nsr-entry>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2020VI04</keyno>
+<history>A20200402 M20200528</history>
+<coden>JOUR PRVCA 101 034312</coden>
+<refrence>Phys.Rev. C 101, 034312 (2020)</refrence>
+<authors>M.Vilen, J.M.Kelly, A.Kankainen, M.Brodeur, A.Aprahamian, L.Canete, R.P.de Groote, A.de Roubin, T.Eronen, A.Jokinen, I.D.Moore, M.R.Mumpower, D.A.Nesterenko, J.O'Brien, A.Pardo Perdomo, H.Penttila, M.Reponen, S.Rinta-Antila, R.Surman</authors>
+<title>Exploring the mass surface near the rare-earth abundance peak via precision mass measurements at JYFLTRAP</title>
+<keywords>ATOMIC MASSES {+154}Nd,{+161}Pm,{+163}Sm,{+162},{+162m},{+163},{+164},{+165}Eu,{+163},{+163m},{+167}Gd,{+165},{+166},{+167},{+168}Tb; measured time-of-flight ion-cyclotron-resonances (TOF-ICR) and phase-imaging ion-cyclotron-resonances (PI-ICR), frequency ratios, mass excesses using the JYFLTRAP double penning trap at the IGISOL facility of University of Jyvaskyla; deduced S(n), S(2n), pairing-gap energies, and average proton neutron interaction of valence nucleons. {+162m}Eu,{+163m}Gd; deduced absolute energies of the isomers. Comparison with previous experimental measurements, and with evaluated data in AME2016. Isotopes formed in U(p,F),E=25 MeV reaction. Discussed impact on solar r-process abundances as a function of the mass  number.</keywords>
+<doi>10.1103/PhysRevC.101.034312</doi>
+</nsr-entry>

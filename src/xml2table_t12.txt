@@ -1,0 +1,233 @@
+2000HA55	Phys.Rev. C62, 054301 (2000)	Selective Laser Ionization of Very Neutron-Rich Cadmium Isotopes: Decay properties of {+131}Cd{-83} and {+132}Cd{-84}	132Cd 132In 	https://doi.org/10.1103/PhysRevC.62.054301
+2000ICZZ	Proc.2nd Intern.Conf Fission and Properties of Neutron-Rich Nuclei, St Andrews, Scotland, June 28-July 3, 1999, J.H.Hamilton, W.R.Phillips, H.K.Carter, Eds., World Scientific, Singapore, p.203 (2000)	Decay Studies of Neutron-Rich Isotopes Produced in Proton-Induced Fisson of Actinides	159Pm 162Sm 166Gd 168Tb 168Dy 	https://doi.org/
+2000JO18	Eur.Phys.J. A 9, 9 (2000)	Beta Decay of Neutron-Rich {+118}Rh and the Lowest Excited States in {+118}Pd	118Rh 118Pd 	https://doi.org/10.1007/s100500070049
+2000KR18	Hyperfine Interactions 129, 185 (2000)	Nuclear structure studies at ISOLDE and their impact on the astrophysical r-process	122Cd 129Ag 	https://doi.org/10.1023/A:1012694723985
+2000MU10	Phys.Rev. C61, 054308 (2000)	|b Decay of {+66}Co, {+68}Co, and {+70}Co	70Co 70Ni 68Ni 69Ni 70Ni 71Ni 72Ni 73Ni 74Ni 66Co 67Co 68Co 69Co 70Co 	https://doi.org/10.1103/PhysRevC.61.054308
+2000SY01	Radiochim.Acta 88, 837 (2000)	On-line gas chromatographic studies of Rf, Zr, and Hf bromides	98Zr 	https://doi.org/
+2000XU02	Phys.Rev. C61, 067308 (2000)	New Determination of the {+237}Th Half-Life	237Th 237Pa 237Th 	https://doi.org/10.1103/PhysRevC.61.067308
+2001ASZY	Japan Atomic Energy Res.Inst.Tandem VDG Ann.Rept., 2000, p.13 (2001); JAERI-Review 2001-030 (2001)	Identification of {+159}Pm,{+162}Sm, and {+166}Gd	159Pm 162Sm 166Gd 166Tb 159Pm 162Sm 166Gd 166Tb 	https://doi.org/
+2001FR05	Nucl.Phys. A686, 71 (2001)	Persistence of Octupole Correlations in {+231}Ra	231Fr 231Ra 	https://doi.org/10.1016/S0375-9474(00)00572-8
+2001FR21	Phys.Rev. C64, 054308 (2001)	Monopole Migration in {+69,71,73}Cu Observed from |b Decay of Laser-Ionized {+68-74}Ni	74Ni 73Cu 68Ni 69Ni 70Ni 71Ni 72Ni 73Ni 74Ni 	https://doi.org/10.1103/PhysRevC.64.054308
+2001HA39	Nucl.Phys. A688, 578c (2001)	Decay Properties of N = 82 to 84 Cadmium r-Process Nuclides	132Cd 	https://doi.org/10.1016/S0375-9474(01)00793-X
+2001KO45	Phys.Rev. C64, 021302 (2001)	Structure Information on the r-Process Nucleus {+135}Sn	135Sn 135Sb 	https://doi.org/10.1103/PhysRevC.64.021302
+2001SH12	Nucl.Phys. A682, 493c (2001)	Decay of {+135,136}Sn Isolated by Use of a Laser Ion Source and Evidence for a More Harmonic-Oscillator-Like Nuclear Potential	135Sn 136Sn 135Sb 	https://doi.org/10.1016/S0375-9474(00)00678-3
+2002ALZX	GSI 2002-1, p.13 (2002)	Isomer and |b Decay Studies in Neutron-Rich A |J 180 Nuclei	182Yb 182Yb 	https://doi.org/
+2002KOZR	Proc.Intern.Conf.Nuclear Data for Science and Technology (ND2001), Tsukuba, Japan, 7-12 October, 2001, K.Shibata, Ed., Atomic Energy Society of Japan, Vol.1, p.489 (2002)	Decay Studies on Neutron-Rich Isotope {+151}Ce	151Ce 151Pr 	https://doi.org/
+2002MAZN	Thesis, Universite de Caen, France (2002); GANIL T 03 05 (2002)	Decroissance |b et moments magnetiques comme outils pour sonder la structure nucleaire. Etude des noyaux riches en neutrons autour de N=40	71Fe 74Co 	https://doi.org/
+2002MI40	Appl.Radiat.Isot. 57, 637 (2002)	Decay of Tungsten-189	189W 	https://doi.org/10.1016/S0969-8043(02)00177-X
+2002PFZY	Univ.Mainz, 2001 Ann.Rept., p.A16 (2002); IKMz 2002-1 (2002)	A tentative 4- isomeric state in {+98}Sr	98Rb 98Sr 	https://doi.org/
+2002SH08	Phys.Rev. C65, 034313 (2002)	|b-Decay Studies of {+135-137}Sn using Selective Resonance Laser Ionization Techniques	137Sn 135Sb 137Sb 	https://doi.org/10.1103/PhysRevC.65.034313
+2002UN02	Appl.Radiat.Isot. 56, 125 (2002)	Half-Life Measurements at the National Institute of Standards and Technology	140Ba 	https://doi.org/10.1016/S0969-8043(01)00177-4
+2002VAZX	Thesis, Katholieke Universiteit Leuven Belgium (2002)	Systematic Nuclear-Structure Study of Even-Mass Zn and Cu Isotopes Between N=40 and 50	78Cu 76Zn 70Cu 	https://doi.org/
+2003BE05	Nucl.Phys. A714, 21 (2003)	Beta-decay properties of the neutron-rich {+94-99}Kr and {+142-147}Xe isotopes	99Kr 147Xe 94Kr 95Kr 96Kr 97Kr 98Kr 99Kr 142Xe 143Xe 144Xe 145Xe 146Xe 147Xe 	https://doi.org/10.1016/S0375-9474(02)01352-0
+2003GRZZ	Proc.Frontiers of Nuclear Structure, Berkeley, California, P.Fallon and R.Clark, Eds., p.233 (2003); AIP Conf.Proc. 656 (2003)	Beta Decay Of {+72}Co And Excited Levels In {+72}Ni	72Co 72Ni 76Ni 76Ni 	https://doi.org/
+2003KU25	Eur.Phys.J. A 18, 5 (2003)	The decay of the new neutron-rich isotope {+217}Bi	217Bi 217Po 217Po 217Bi 	https://doi.org/10.1140/epja/i2003-10065-7
+2003KU26	Eur.Phys.J. A 18, 31 (2003)	Isomeric and ground-state decay of {+215}Bi	215Bi 215Bi 	https://doi.org/10.1140/epja/i2003-10066-6
+2003LH01	Phys.Rev. C 67, 024303 (2003)	Decay of {+114}Rh to {+114}Pd	114Rh 114Pd 114Rh 	https://doi.org/10.1103/PhysRevC.67.024303
+2003PE18	Yad.Fiz. 66, 1467 (2003); Phys.Atomic Nuclei 66, 1421 (2003)	Decay of Neutron-Rich Ga Isotopes near N = 50 at PARRNe	84Ga 84Ge 	https://doi.org/10.1134/1.1601744
+2003SA40	Phys.Rev. C 68, 044304 (2003)	Low energy levels in {+72}Ni	72Co 72Ni 	https://doi.org/10.1103/PhysRevC.68.044304
+2003SHZU	Japan Atomic Energy Res.Inst.Tandem VDG Ann.Rept., 2002, p.32 (2003); JAERI-Review 2003-028 (2003)	Q{-|b} measurements of neutron-rich rare earth nuclei produced with proton induced fission of {+238}U	159Pm 161Sm 166Tb 	https://doi.org/
+2003SO02	Eur.Phys.J. A 16, 55 (2003)	New region of deformation in the neutron-rich {+60}{-24}Cr{-36} and {+62}{-24}Cr{-38}	68Fe 69Fe 	https://doi.org/10.1140/epja/i2002-10069-9
+2003SO21	Nucl.Phys. A719, 193c (2003)	Beta decay studies of neutron-rich {-21}Sc - {-27}Co nuclei at GANIL	70Fe 71Co 	https://doi.org/10.1016/S0375-9474(03)00916-3
+2003SY01	Phys.Rev. C 68, 024304 (2003)	Search for quenching of the electric dipole moment D{-0} in {+149}Ce	149La 149Ce 	https://doi.org/10.1103/PhysRevC.68.024304
+2003WA13	Phys.Rev. C 67, 064303 (2003)	|b decay of neutron-rich {+118}Ag and {+120}Ag isotopes	120Cd 	https://doi.org/10.1103/PhysRevC.67.064303
+2003XU08	J.Radioanal.Nucl.Chem. 258, 439 (2003)	Observation of {+197}Os	197Os 	https://doi.org/10.1023/A:1026274813313
+2004AM06	Nucl.Phys. A734, 465 (2004)	Measurement of the E1/E3 phase in {+226}Ra	226Fr 	https://doi.org/10.1016/j.nuclphysa.2004.01.087
+2004BR14	Phys.Rev. C 69, 034327 (2004)	Shape coexistence in the odd-odd neutron-rich nucleus {+98}Y studied in the interacting boson model	98Y 98Sr 98Y 	https://doi.org/10.1103/PhysRevC.69.034327
+2004DE16	Phys.Rev. C 69, 044305 (2004)	First observation of the |b decay of neutron-rich {+218}Bi by the pulsed-release technique and resonant laser ionization	218Bi 218Po 	https://doi.org/10.1103/PhysRevC.69.044305
+2004DEZV	Thesis, Leuven Univ. Belgium  (2004)	Probing the nuclear structure along the Z=82 closed shell: decay- and laser spectroscopic studies of exotic Pb, Bi and Po nuclei	213Pb 215Pb 218Bi 215Bi 218Po 215Tl 	https://doi.org/
+2004DIZZ	Inst.fur Kernchemie, Univ.Mainz, Jahresbericht 2003, p.A14 (2004); IKMz 2004-1 (2004)	The |b-decay of {+129}Cd{-81}	129Cd 129In 	https://doi.org/
+2004GA24	Phys.Rev. C 69, 054307 (2004)	Decay of {+127}In and {+129}In	129In 129In 129Sn 	https://doi.org/10.1103/PhysRevC.69.054307
+2004NIZY	RIKEN Accelerator Progress Report 2003, p.67 (2004)	Beta decay half-lives of neutron-rich Cr, Mn, Fe, and Co isotopes	68Fe 70Co 	https://doi.org/
+2004PEZW	IPNO-T-05-02 (2004)	Etude des fermetures de couches N=40 et N=50 dans les noyaux riches en neutrons	83Ga 83Ge 70Ni 70Ni 74Zn 74Zn 70Ni 74Zn 	https://doi.org/
+2004SA59	Eur.Phys.J. A 22, 455 (2004)	Beta-decay of {+71}Co and {+73}Co	73Co 73Ni 	https://doi.org/10.1140/epja/i2004-10047-3
+2004SUZY	INDC(JPN)-192/U (JAERI-Conf 2004-005), p.178 (2004)	The Search for Isomers of {+156}Pm through the |b-decay of {+156}Nd	156Nd 156Pm 	https://doi.org/
+2004VA07	Phys.Rev.Lett. 92, 112501 (2004)	Unambiguous Identification of Three |b-Decaying Isomers in {+70}Cu	70Ni 70Cu 	https://doi.org/10.1103/PhysRevLett.92.112501
+2004VA08	Phys.Rev. C 69, 034313 (2004)	Coupling a proton and a neutron to the semidoubly magic nucleus {+68}Ni: A study of {+70}Cu via the |b decay of {+70}Ni and {+70}Cu	70Ni 70Cu 70Cu 70Cu 	https://doi.org/10.1103/PhysRevC.69.034313
+2004VE14	Braz.J.Phys. 34, 979 (2004)	Study of the N=50 Shell Closure Close to {+78}Ni	83Ga 81Zn 81Ga 83As 	https://doi.org/
+2004WA03	Eur.Phys.J. A 19, 83 (2004)	Reinvestigation of the beta-decay of {+110}Mo	110Mo 110Tc 	https://doi.org/10.1140/epja/i2003-10105-4
+2005BA94	Phys.Rev. C 72, 044306 (2005)	New isomeric state in {+116}Ag	116Ag 116Ag 	https://doi.org/10.1103/PhysRevC.72.044306
+2005GAZR	IPNO-T-05-07 (2005)	Etude de la fermeture de couches N=28: implication astrophysique. Spectroscopie |b|g de noyaux riches en neutrons	70Fe 71Co 65Fe 65Co 	https://doi.org/
+2005HO08	Phys.Rev.Lett. 94, 112501 (2005)	Half-Life of the Doubly Magic r-Process Nucleus {+78}Ni	78Ni 78Cu 	https://doi.org/10.1103/PhysRevLett.94.112501
+2005IC02	Phys.Rev. C 71, 067302 (2005)	|b-decay half-lives of new neutron-rich rare-earth isotopes {+159}Pm, {+162}Sm, and {+166}Gd	159Pm 162Sm 166Gd 166Tb 166Tb 	https://doi.org/10.1103/PhysRevC.71.067302
+2005KO40	Eur.Phys.J. A 25, Supplement 1, 123 (2005)	On the structure of the anomalously low-lying 5/2{++} state of {+135}Sb	135Sn 135Sb 	https://doi.org/10.1140/epjad/i2005-06-040-2
+2005KUZU	Inter.Sym.on Exotic Nuclear Systems, Debrecen, Hungary, Z.Gacsi, Zs.Dombradi, A.Krasznahorkay, eds., p.73 (2005); AIP Conf. Proc. 802 (2005)	Production and Half-lives of Neutron-rich Isotopes Near N=126	195Re 200Os 198Ir 203Pt 195Re 200Os 198Ir 203Pt 	https://doi.org/10.1063/1.2140628
+2005MA81	J.Phys.(London) G31, S1421 (2005)	Application of ultra-fast timing techniques to the study of exotic and weakly produced nuclei	80Ga 80Ge 	https://doi.org/10.1088/0954-3899/31/10/007
+2005MAZX	Proc.Nuclei at the Limits, Argonne, Illinois, D.Seweryniak And T.L.Khoo, eds., p.164 (2005); AIP Conf. Proc 764 (2005)	Isomer And Beta-Decay Studies Of Nuclei Near {+78}Ni	74Co 76Ni 74Co 71Ni 76Ni 76Ni 	https://doi.org/10.1063/1.1905306
+2005MO30	Nucl.Phys. A758, 643c (2005)	|b-Decay Studies Close to the N=82 r-process Path	119Rh 	https://doi.org/10.1016/j.nuclphysa.2005.05.188
+2005NIZZ	Proc. Intern. Symposium on the Origin of Matter and Evolution of Galaxies, Riken, Saitama, Japan, 17-19 November 2003, World Scientific, Singapore, p.304 (2005)	Half-life measurement of neutron-rich nuclei and future at RIBF	68Fe 70Co 	https://doi.org/
+2005SC28	Eur.Phys.J. A 25, Supplement 1, 639 (2005)	The half-life of the doubly-magic r-process nucleus {+78}Ni	78Ni 	https://doi.org/10.1140/epjad/i2005-06-069-1
+2005SY01	Eur.Phys.J. A 23, 481 (2005)	The |b-decay of {+147}Cs to {+147}Ba	147Cs 147Ba 	https://doi.org/10.1140/epja/i2004-10112-y
+2005THZX	Proc.Third Intern.Workshop on Nuclear Fission and Fission-Product Spectroscopy, Cadarache, France, 11-14 May 2005, H.Goutte, H.Faust, G.Fioni, D.Goutte, Eds., p. 131 (2005); AIP Conf.Proc. 798 (2005)	Nuclear structure studies of neutron-rich Cu and Zn isotopes produced by means of proton-induced fission of {+238}U	72Ni 72Cu 72Cu 72Zn 	https://doi.org/10.1063/1.2137238
+2005VA19	Phys.Rev. C 71, 054307 (2005)	Evolution of the nuclear structure approaching {+78}Ni: |b decay of {+74-78}Cu	78Cu 78Cu 78Zn 	https://doi.org/10.1103/PhysRevC.71.054307
+2005WAZY	Proc.Nuclei at the Limits, Argonne, Illinois, D.Seweryniak and T.L.Khoo, eds., p.335 (2005); AIP Conf. Proc 764 (2005)	Structure And Decay Of Neutron-Rich Nuclides In The 115 lt A lt 138 Mass Range And r-Process Nucleosynthesis	125Ag 124Ag 124Cd 	https://doi.org/10.1063/1.1905332
+2006BO33	Phys.Scr. T125, 180 (2006)	Beta decay half-life of {+231}Ra	231Ra 	https://doi.org/10.1088/0031-8949/2006/T125/040
+2006BO41	Int.J. Mass Spectrom. 251, 212 (2006)	Experiments with stored exotic nuclei at relativistic energies	235Ac 	https://doi.org/10.1016/j.ijms.2006.01.037
+2006KEZZ	GSI 2006-1, p.154 (2006)	|b-decay properties of nuclei in the region around {+132}Sn	135Sn 138Sb 140Te 143I 	https://doi.org/
+2006KO25	Nucl.Instrum.Methods Phys.Res. A564, 275 (2006)	Experimental apparatus at KUR-ISOL to identify isomeric transitions from fission products, and decay spectroscopy of {+151}Ce	151Ce 151Pr 	https://doi.org/10.1016/j.nima.2006.05.014
+2006MA87	Radiochim.Acta 94, 403 (2006)	Measurement of the half-life of {+132}I	132I 	https://doi.org/10.1524/ract.2006.94.8.403
+2006MO07	Phys.Rev. C 73, 035801 (2006)	|b-decay half-lives and |b-delayed neutron emission probabilities for neutron rich nuclei close to the N = 82 r-process path	115Tc 118Ru 121Rh 124Pd 124Ag 120Rh 123Pd 124Ag 	https://doi.org/10.1103/PhysRevC.73.035801
+2006SAZS	JAEA-Review 2006-029, p.31 (2006)	Decay studies of new neutron-rich isotopes {+163,164,165}Eu	165Eu 	https://doi.org/
+2006TH12	Phys.Rev. C 74, 054309 (2006)	|b-decay properties of {+72}Ni and {+72}Cu	72Ni 72Cu 72Cu 72Zn 	https://doi.org/10.1103/PhysRevC.74.054309
+2006TOZW	Thesis, Michigan State University (2006)	Nuclear structure below {+132}Sn: an investigation of neutron-rich nuclides via |b and isomeric decay	117Ru 120Rh 121Pd 125Ag 127Cd 129In 129Sn 126Cd 122Ag 122Pd 120Rh 	https://doi.org/
+2007ARZQ	Mainz Univ. (2007)	Kernspektroskopische Untersuchungen in der {+132}Sn-Region	139Sb 138Sn 139Te 138Sn 139Sb 136Sn 138Sn 139Sb 139Te 	https://doi.org/
+2007FRZS	Proc.23rd Int. Nuclear Physics Conf.,June 3-8 2007, Tokyo p.218 Vol.2 (2007)	Experimental studies of single-particle features and collectivity above {+132}Sn	136Sn 135Sb 136Te 	https://doi.org/
+2007KO66	Eur.Phys.J. A 32, 25 (2007)	On the unusual properties of the 282 keV state in {+135}Sb	135Sn 135Sb 	https://doi.org/10.1140/epja/i2007-10363-0
+2007KUZW	ArXiv:0711.0101v1  [nucl-ex] (2007)	First access to |b half-lives approaching the r-process path near N=126	202Ir 200Os 	https://doi.org/
+2007LI06	J.Radioanal.Nucl.Chem. 271, 311 (2007)	Accuracy and uncertainty in radioactivity measurement for NAA	77Ge 	https://doi.org/10.1007/s10967-007-0209-y
+2007SC29	Nucl.Phys. A787, 299c (2007)	Nuclear Astrophysics with Fast Rare Isotope Beams	78Ni 	https://doi.org/10.1016/j.nuclphysa.2006.12.046
+2007SH05	Eur.Phys.J. A 31, 171 (2007)	Observation of M3 isomeric transition from {+156m}Pm through the |b{+-}-decay of {+156}Nd	156Nd 156Pm 156Nd 156Pm 	https://doi.org/10.1140/epja/i2006-10213-7
+2007SYZZ	Univ. Warszawski (2007)	The structure of exotic nuclides {+147}Ba,{+147},{+149}La and {+149}Ce lying at the border of the octupole deformation region	147Cs 149Ba 149La 	https://doi.org/
+2007VE08	Phys.Rev. C 76, 054312 (2007)	Low-energy states of {+81}{-31}Ga{-50} Proton structure of the nuclei close to {+78}Ni	81Zn 81Ga 81Ge 81As 81Zn 81Ga 81Ga 81Ga 83As 80Zn 81Ga 82Ge 83As 84Se 85Br 	https://doi.org/10.1103/PhysRevC.76.054312
+2008BO29	Nucl.Phys. A811, 244 (2008)	Nuclear structure of {+231}Ac	231Fr 231Ra 	https://doi.org/10.1016/j.nuclphysa.2008.08.005
+2008KOZO	Proc.Intern.Conf.Nuclear Data for Science and Technology, Nice, France, April 22-27, 2007, O.Bersillon, F.Gunsing, E.Bauge, R.Jacqmin, and S.Leray, Eds., p.115 (2008); EDP Sciences, 2008	Search for isomeric transitions in fission products around mass number 150	151Pr 148Pr 151Pr 	https://doi.org/10.1051/ndata:07185
+2008KUZY	Proc.Intern.Conf.Nuclear Data for Science and Technology, Nice, France, April 22-27, 2007, O.Bersillon, F.Gunsing, E.Bauge, R.Jacqmin, and S.Leray, Eds., p.47 (2008); EDP Sciences, 2008	New technique to determine beta half-lives in complex background conditions	196Re 200Os 202Ir 	https://doi.org/10.1051/ndata:07685
+2008MAZL	Proc.of the 9th Internat. Spring Seminar on Nuclear Physics: Changing Facets of Nuclear Structure, Vico Equense, Italy, May 20-24 2007, A.Covello, Ed., World Scientific, Singapore, p.263 (2008)	Surprising features of simple nuclear systems just above {+132}Sn	136Sn 136Sb 136Te 135Sb 136Te 	https://doi.org/
+2008PA33	Phys.Rev. C 78, 041307 (2008)	Shape isomerism at N = 40: Discovery of a proton intruder state in {+67}Co	67Fe 67Co 67Co 68Ni 	https://doi.org/10.1103/PhysRevC.78.041307
+2008SM01	Phys.Rev. C 77, 014309 (2008)	Lifetime measurements of the negative-parity 7{+-} and 8{+-} states in {+122}Cd	122Ag 122Cd 	https://doi.org/10.1103/PhysRevC.77.014309
+2009AL30	Phys.Rev. C 80, 064308 (2009)	|b{++}-delayed spectroscopy of neutron-rich tantalum nuclei: Shape evolution in neutron-rich tungsten isotopes	186Hf 187Hf 188Hf 189Hf 188Ta 189Ta 190Ta 191Ta 192Ta 190W 191W 192W 193W 194W 192Re 193Re 194Re 195Re 196Re 187Hf 190Ta 191W 193Re 192Ta 192W 190W 	https://doi.org/10.1103/PhysRevC.80.064308
+2009BA52	Phys.Rev. C 80, 054318 (2009)	Collective and noncollective states in {+116}Cd studied via the |b decays of {+116}Ag{+m1,m2,gs}	116Ag 120Cd 	https://doi.org/10.1103/PhysRevC.80.054318
+2009CR02	Phys.Rev. C 79, 054320 (2009)	Low-energy structure of {+61}Mn populated following |b decay of {+61}Cr	68Fe 70Ni 	https://doi.org/10.1103/PhysRevC.79.054320
+2009IL01	Phys.Rev. C 80, 054304 (2009)	|b decay of the |pf{-5/2} ground state of {+77}Cu studied with 225 MeV and 0.2 MeV purified radioactive beams	77Cu 77Cu 77Zn 77Ga 77Ge 77Zn 73Cu 73Zn 	https://doi.org/10.1103/PhysRevC.80.054304
+2009KU28	Nucl.Phys. A827, 587c (2009)	Recent progress in measuring |b half-lives of nuclei approaching the r-process waiting point A = 195	196Re 200Os 200Ir 	https://doi.org/10.1016/j.nuclphysa.2009.05.129
+2009LE26	Phys.Rev. C 80, 044308 (2009)	Experimental study of {+84}Ga  beta decay: Evidence for a rapid onset of collectivity in the vicinity of {+78}Ni	84Ge 84Ga 84Ge 84As 83Ge 83Ge 84As 96Rb 78Ni 84Ge 	https://doi.org/10.1103/PhysRevC.80.044308
+2009MAZL	Proc.13th Intern.Symposium on Capture Gamma-Ray Spectroscopy and Related Topics, Cologne, Germany, 25-29 Aug.2008, J.Jolie, A.Zilges, N.Warr, A.Blazhev, Eds., p.502 (2009); AIP Conf.Proc. 1090 (2009)	Selected properties of nuclei at the magic shell closures from the studies of E1, M1 and E2 transition rates	63Fe 122In 	https://doi.org/10.1063/1.3087073
+2009PA16	Phys.Rev. C 79, 044309 (2009)	Structure of {+65,67}Co studied through the |b decay of {+65,67}Fe and a deep-inelastic reaction	65Co 67Fe 65Co 67Co 65Co 65Co 	https://doi.org/10.1103/PhysRevC.79.044309
+2009PA35	Phys.Rev. C 80, 034307 (2009)	|b-decay study of {+77}Cu	77Cu 76Zn 77Zn 	https://doi.org/10.1103/PhysRevC.80.034307
+2009PE06	Phys.Rev. C 79, 035806 (2009)	|b-decay half-lives and |b-delayed neutron emission probabilities of nuclei in the region A lt 110, relevant for the r process	105Y 107Zr 109Nb 111Mo 113Tc 	https://doi.org/10.1103/PhysRevC.79.035806
+2009REZW	Proc.13th Intern.Symposium on Capture Gamma-Ray Spectroscopy and Related Topics, Cologne, Germany, 25-29 Aug.2008, J.Jolie, A.Zilges, N.Warr, A.Blazhev, Eds., p.122 (2009); AIP Conf.Proc. 1090 (2009)	New Insights into the Structure of Exotic Nuclei Using the RISING Active Stopper	189Ta 191W 193Re 190W 192W 194Re 	https://doi.org/10.1063/1.3086996
+2009ST07	Phys.Rev. C 79, 044325 (2009)	Evidence for a |b-decaying 1/2{+-} isomer in {+71}Ni	71Co 71Ni 71Ni 71Cu 69Ni 	https://doi.org/10.1103/PhysRevC.79.044325
+2009ST28	Eur.Phys.J. A 42, 407 (2009)	Spectroscopy of exotic {+121,123,125}Ag produced in fragmentation reactions	121Pd 123Ag 125Ag 125Ag 121Pd 121Ag 	https://doi.org/10.1140/epja/i2008-10754-7
+2009TA23	Phys.Rev. C 80, 034304 (2009)	Half-life and magnetic moment of the first excited state in {+132}I	132Te 132Sb 131Sb 133I 132I 132I 132I 	https://doi.org/10.1103/PhysRevC.80.034304
+2010BE30	Phys.Rev. C 82, 044310 (2010)	Lifetime measurement of excited states in the shape-phase-transitional nucleus {+98}Zr	98Y 98Zr 98Zr 	https://doi.org/10.1103/PhysRevC.82.044310
+2010BEZM	Proc.Intern.Symposium on Nuclei in the Cosmos XI, July 19-23 2010, Heidelberg, Germany, p.84 (2010)	Production and |b half-lives of heavy neutron-rich nuclei approaching the r-process path at N=126	196Re 200Os 202Ir 204Pt 204Au 	https://doi.org/
+2010HO12	Phys.Rev. C 82, 025806 (2010)	Half-lives and branchings for |b-delayed neutron emission for neutron-rich Co-Cu isotopes in the r-process	75Co 78Ni 80Cu 81Zn 82Ga 78Ni 	https://doi.org/10.1103/PhysRevC.82.025806
+2010KU01	Acta Phys.Pol. B41, 469 (2010)	Progress in Trap Assisted |b Decay Spectroscopy of {+115}Ru	115Ru 115Ru 	https://doi.org/
+2010KU25	Phys.Rev. C 82, 064318 (2010)	New isomer and decay half-life of {+115}Ru	115Ru 115Ru 115Rh 117Pd 115Ru 	https://doi.org/10.1103/PhysRevC.82.064318
+2010NAZY	Proc.Intern.Symposium Exotic Nuclei, Sochi, (Russia), 28 Sept.-2 Oct. 2009, Yu.E.Penionzhkevich, S.M.Lukyanov, Eds., p.156 (2010); AIP Conf.Proc. 1224 (2010)	Lifetime Measurements for the First 2{++} States in {+162,164}Gd Populated by the |b Decay of {+162,164}Eu	164Eu 	https://doi.org/10.1063/1.3431410
+2010NAZZ	JAEA-Review 2010-056, p.17 (2010)	Lifetime measurement for the first 2{+} state in {+162}Gd	162Gd 	https://doi.org/
+2010PA33	Phys.Rev. C 82, 064314 (2010); Erratum Phys.Rev. C 83, 019903 (2011)	|b decay of {+81}Zn and migrations of states observed near the N=50 closed shell	81Zn 81Ga 78Ni 79Ni 	https://doi.org/10.1103/PhysRevC.82.064314
+2010RAZY	Priv.Comm. (2010)	|b decay of {+71,73}Co; Probing single particle states approaching doubly magic {+78}Ni	73Co 73Ni 77Ni 	https://doi.org/
+2010RE01	Phys.Rev. C 81, 014301 (2010)	Fission fragment isomers populated via {+6}Li+{+232}Th	88Br 93Rb 99Y 123In 131Sb 132Te 128Sb 	https://doi.org/10.1103/PhysRevC.81.014301
+2010RU09	Eur.Phys.J. A 45, 1 (2010)	Quenching of the E1 strength in {+149}Nd	149Pr 	https://doi.org/10.1140/epja/i2010-10979-9
+2010SMZX	Proc.Intern.Symposium on Nuclei in the Cosmos XI, July 19-23 2010, Heidelberg, Germany, p.283 (2010)	|b-decay and neutron emission studies of r-process nuclei near {+137}Sb	142Xe 	https://doi.org/
+2010WI03	Phys.Rev. C 81, 044303 (2010)	New subshell closure at N=58 emerging in neutron-rich nuclei beyond {+78}Ni	85Ga 85Ge 84Ge 84As 83Se 84Ge 84As 83Se 	https://doi.org/10.1103/PhysRevC.81.044303
+2011AR18	Phys.Rev. C 84, 061307 (2011)	Decay of the r-process nuclides {+137,138,139}Sb, and the A=130 solar r-process abundance peak	139Sb 137Sn 140Sb 	https://doi.org/10.1103/PhysRevC.84.061307
+2011BUZZ	Priv.Comm. (2011)	Decay Spectroscopy of Neutron-Rich Nuclides Near A |J 110	109Ru 	https://doi.org/
+2011DA08	Phys.Rev. C 83, 054312 (2011)	|b-decay measurements for N > 40 Mn nuclei and inference of collectivity for neutron-rich Fe isotopes	71Fe 74Co 68Fe 68Fe 67Fe 	https://doi.org/10.1103/PhysRevC.83.054312
+2011IL01	Phys.Rev. C 83, 014322 (2011)	|b-decay studies of the transitional nucleus {+75}Cu and the structure of {+75}Zn	75Cu 75Zn 	https://doi.org/10.1103/PhysRevC.83.014322
+2011KU16	Phys.Rev. C 84, 044304 (2011)	Signatures of oblate deformation in the {+111}Tc nucleus	111Mo 111Tc 111Tc 111Tc 	https://doi.org/10.1103/PhysRevC.84.044304
+2011NI01	Phys.Rev.Lett. 106, 052502 (2011)	|b-Decay Half-Lives of Very Neutron-Rich Kr to Tc Isotopes on the Boundary of the r-Process Path: An Indication of Fast r-Matter Flow	100Kr 102Rb 105Sr 108Y 110Zr 112Nb 115Mo 117Tc 	https://doi.org/10.1103/PhysRevLett.106.052502
+2011NIZY	RIKEN Accelerator Progress Report 2010, p.i (2011)	|b-Decay Half-Lives of Very Neutron-Rich Kr to Tc Isotopes	102Kr 102Rb 105Sr 108Y 110Zr 112Nb 115Mo 117Tc 	https://doi.org/
+2011RI01	Phys.Rev. C 83, 011301 (2011); Erratum Phys.Rev. C 83, 029901 (2011)	Decay study of {+114}Tc with a Penning trap	114Tc 114Ru 	https://doi.org/10.1103/PhysRevC.83.011301
+2011RO42	Eur.Phys.J. A 47, 106 (2011)	Half-life measurements of {+137,139}Cs excited nuclear states	139Cs 139Xe 139Cs 139Cs 	https://doi.org/10.1140/epja/i2011-11106-4
+2011SU11	Phys.Rev.Lett. 106, 202501 (2011)	Structural Evolution in the Neutron-Rich Nuclei {+106}Zr and {+108}Zr	108Zr 106Y 108Zr 108Zr 106Y 	https://doi.org/10.1103/PhysRevLett.106.202501
+2011VO01	Appl.Radiat.Isot. 69, 705 (2011)	Direct determination of half-life of {+214}Pb by gamma spectrometry and comparison with previous indirect measurements	214Pb 	https://doi.org/10.1016/j.apradiso.2010.12.014
+2012AL05	Phys.Rev. C 85, 034301 (2012); Pub.Note Phys.Rev. C 85, 039904 (2012)	Multiple |B{+-} decaying states in {+194}Re: Shape evolution in neutron-rich osmium isotopes	186Hf 187Hf 188Hf 189Hf 188Ta 189Ta 190Ta 191Ta 190W 191W 192W 193W 192Re 193Re 194Re 195Re 196Re 195Os 196Os 197Os 198Os 194Re 194Re 187Hf 190Ta 191W 193Re 194Re 	https://doi.org/10.1103/PhysRevC.85.034301
+2012BA58	Phys.Rev. C 86, 064311 (2012)	Low-lying collective states in {+120}Cd populated by |b decay of {+120}Ag: Breakdown of the anharmonic vibrator model at the three-phonon level	120Ag 120Cd 122Cd 	https://doi.org/10.1103/PhysRevC.86.064311
+2012BE28	Phys.Lett. B 715, 293 (2012)	First measurement of beta decay half-lives in neutron-rich Tl and Bi isotopes	219Bi 213Tl 	https://doi.org/10.1016/j.physletb.2012.07.063
+2012BE38	J.Phys.:Conf.Ser. 337, 012070 (2012)	Approaching r-process nuclei at N = 126	196Re 200Os 202Ir 204Pt 204Au 	https://doi.org/10.1088/1742-6596/337/1/012070
+2012KO29	Phys.Rev. C 86, 024307 (2012)	|b-|g and |b-delayed neutron-|g decay of neutron-rich copper isotopes	79Cu 79Ga 78Zn 78Cu 79Cu 	https://doi.org/10.1103/PhysRevC.86.024307
+2012KU28	Phys.Rev. C 86, 044306 (2012)	Low-spin excitations in the {+109}Tc nucleus	109Mo 109Tc 109Mo 109Mo 109Tc 	https://doi.org/10.1103/PhysRevC.86.044306
+2012LI02	Phys.Rev. C 85, 014328 (2012)	Low-energy structure of {-27}{+66}Co{-39} and {-27}{+68}Co{-41} populated through |b decay	68Fe 68Co 	https://doi.org/10.1103/PhysRevC.85.014328
+2012MA37	Phys.Rev.Lett. 109, 112501 (2012)	New Half-lives of r-process Zn and Ga Isotopes Measured with Electromagnetic Separation	83Zn 85Ga 	https://doi.org/10.1103/PhysRevLett.109.112501
+2012QU01	Phys.Rev. C 85, 035807 (2012)	|b decay of nuclei around {+90}Se: Search for signatures of a N=56 subshell closure relevant to the r process	86As 87As 88As 88Se 89Se 90Se 90Br 91Br 92Br 93Br 91Kr 92Kr 93Kr 94Kr 95Kr 93Rb 94Rb 95Rb 96Rb 97Rb 95Sr 96Sr 97Sr 98Sr 99Sr 97Y 98Y 99Y 100Y 101Y 100Zr 101Zr 102Zr 103Zr 99Sr 88As 90Se 93Br 95Kr 97Rb 99Sr 101Y 90Se 	https://doi.org/10.1103/PhysRevC.85.035807
+2012RA10	Phys.Rev. C 85, 034326 (2012)	|b decay of {+71,73}Co: Probing single-particle states approaching doubly magic {+78}Ni	73Co 73Ni 69Co 69Ni 77Ni 	https://doi.org/10.1103/PhysRevC.85.034326
+2012RO47	J.Phys.:Conf.Ser. 366, 012038 (2012)	Fast-timing measurements performed at ALTO on {+137,139}Cs	139Xe 139Cs 135Sb 	https://doi.org/10.1088/1742-6596/366/1/012038
+2012WA21	Appl.Radiat.Isot. 70, 1927 (2012)	Half-life determination of {+88}Kr and {+138}Xe	88Kr 138Xe 	https://doi.org/10.1016/j.apradiso.2012.02.054
+2013DE20	Phys.Rev. C 87, 067303 (2013)	|b{+-} decay of the neutron-rich isotope {+215}Pb	215Pb 215Pb 215Bi 215Pb 	https://doi.org/10.1103/PhysRevC.87.067303
+2013KO31	Phys.Rev. C 88, 044330 (2013)	Experimental study of the |b-|g and |b-n|g decay of the neutron-rich nucleus {+85}Ga	85Ga 85Ga 85Ge 85Ge 87Se 89Kr 93Sr 85Ge 84As 85Ge 	https://doi.org/10.1103/PhysRevC.88.044330
+2013KO32	Phys.Rev. C 88, 047301 (2013)	Probing nuclear structures in the vicinity of {+78}Ni with |b- and |bn-decay spectroscopy of {+84}Ga	84Ga 84Ga 84Ge 84Ge 	https://doi.org/10.1103/PhysRevC.88.047301
+2013LI04	Phys.Rev. C 87, 014325 (2013)	Low-energy level schemes of {+66,68}Fe and inferred proton and neutron excitations across Z=28 and N=40	68Fe 68Fe 68Ni 	https://doi.org/10.1103/PhysRevC.87.014325
+2013MA22	Phys.Rev. C 87, 034315 (2013); Erratum Phys.Rev. C 87, 039902 (2013)	New half-life measurements of the most neutron-rich arsenic and germanium isotopes	86Ge 87As 	https://doi.org/10.1103/PhysRevC.87.034315
+2013MA87	Phys.Rev. C 88, 064320 (2013)	New half-lives of very neutron-rich iron isotopes	69Fe 70Fe 71Fe 72Fe 72Fe 	https://doi.org/10.1103/PhysRevC.88.064320
+2013MI13	Phys.Rev. C 88, 014309 (2013)	|b-decay study of neutron-rich bromine and krypton isotopes	93Br 94Kr 93Kr 92Rb 	https://doi.org/10.1103/PhysRevC.88.014309
+2013MI19	Phys.Rev.Lett. 111, 132502 (2013)	Large |b-Delayed One and Two Neutron Emission Rates in the Decay of {+86}Ga	86Ga 	https://doi.org/10.1103/PhysRevLett.111.132502
+2013OL06	Phys.Rev. C 88, 044306 (2013)	|b{+-} decay of {+65}Mn to {+65}Fe	65Fe 65Fe 64Fe 65Fe 64Fe 	https://doi.org/10.1103/PhysRevC.88.044306
+2013OLZX	Proc.2012 Intern.Scientific meeting Nuclear Physics,Basic Concepts in Nuclear Physics: Theory, Experiments, and Applications, La Rabida, Spain, 9-13 September 2013, J.A.Caballero Carretero, C.E.Alonso, M.V.Andres Martin, J.Enrique Garcia Ramos, F.Perez Bernal Eds., p.181 (2013); AIP Conf.Proc. 1541 (2013)	|b-decay of {+65}Mn to {+65}Fe	65Fe 	https://doi.org/10.1063/1.4810837
+2013PAZU	Proc.2012 Intern.Scientific meeting Nuclear Physics,Basic Concepts in Nuclear Physics: Theory, Experiments, and Applications, La Rabida, Spain, 9-13 September 2013, J.A.Caballero Carretero, C.E.Alonso, M.V.Andres Martin, J.Enrique Garcia Ramos, F.Perez Bernal Eds., p.185 (2013); AIP Conf.Proc. 1541 (2013)	Structure of {+81}Ga populated from the |b{+-} decay of {+81}Zn	81Zn 81Ga 81Zn 	https://doi.org/10.1063/1.4810839
+2013VE03	Phys.Rev. C 87, 054307 (2013)	Structure of {+80}Ge revealed by the |b decay of isomeric states in {+80}Ga: Triaxiality in the vicinity of {+78}Ni	80Ga 80Ge 80Ge 	https://doi.org/10.1103/PhysRevC.87.054307
+2014BA18	Phys.Rev. C 89, 054321 (2014)	Structure of low-lying states in {+124,126}Cd  populated by |b decay of {+124,126}Ag	126Cd 	https://doi.org/10.1103/PhysRevC.89.054321
+2014BHZZ	Int.Nuclear Physics Conf. 2013,(IUPAP),Firenze,Italy, June 2-7,2013, S.Lunardi, P.G.Bizzeti, W.S.Kabana, C.Bucci,et al.Eds.p.02009 (2014); EPJ web of Conf.v.66, (2014)	Lifetime measurements and decay spectroscopy of {+132}I	132I 132Te 132I 	https://doi.org/10.1051/epjconf/20146602009
+2014BUZX	Unv. Notre Dame (2014)	On the production of the light heavy-elements (A |? 90)	109Mo 109Tc 109Ru 	https://doi.org/
+2014CA23	Nucl.Data Sheets 120, 81 (2014)	|b-decay and |b-delayed Neutron Emission Measurements at GSI-FRS Beyond N=126, for r-process Nucleosynthesis	211Hg 215Tl 218Pb 	https://doi.org/10.1016/j.nds.2014.07.012
+2014HA38	Nucl.Instrum.Methods Phys.Res. A747, 41 (2014)	Performance of a total absorption clover detector for Q{-|b} measurements of neutron-rich nuclei far from the |b-stability line	166Eu 165Gd 	https://doi.org/10.1016/j.nima.2014.02.012
+2014KO27	Nucl.Data Sheets 120, 52 (2014)	Half-life Measurements of Excited Levels in Fission Products around Mass Number 150	149Pr 149Ce 	https://doi.org/10.1016/j.nds.2014.07.004
+2014KR09	Phys.Rev. C 90, 024301 (2014)	Competition between pairing correlations and deformation from the odd-even mass staggering of francium and radium isotopes	233Fr 234Ra 233Fr 	https://doi.org/10.1103/PhysRevC.90.024301
+2014LE20	Phys.Rev.Lett. 113, 082502 (2014)	In-Trap Spectroscopy of Charge-Bred Radioactive Ions	124In 	https://doi.org/10.1103/PhysRevLett.113.082502
+2014LI32	Phys.Rev. C 90, 014320 (2014)	Low-lying isomeric states in {+80}Ga from the |b{+-} decay of  {+80}Zn	80Zn 80Zn 80Ga 	https://doi.org/10.1103/PhysRevC.90.014320
+2014MO02	Phys.Rev. C 89, 014324 (2014)	|b-decay studies of neutron-rich Tl, Pb, and Bi isotopes	213Tl 215Pb 219Bi 215Pb 218Po 213Pb 215Bi 218Po 	https://doi.org/10.1103/PhysRevC.89.014324
+2014RA20	J.Phys.(London) G41, 115104 (2014)	|b decay of {+72}Co and microsecond isomers in even-mass neutron-rich nickel isotopes	72Co 76Ni 	https://doi.org/10.1088/0954-3899/41/11/115104
+2014SMZZ	Thesis, Univ. of Notre Dame (2014)	|b-delayed neutron emission studies of neutron-rich Palladium and Silver isotopes	128Pd 129Ag 	https://doi.org/
+2014SU05	Phys.Rev. C 89, 021301 (2014)	Shape coexistence in {+68}Ni	68Co 68Ni 	https://doi.org/10.1103/PhysRevC.89.021301
+2014TEZY	IPNO-T-13-07 (2014)	Effect of shell closure N=50 and N=82 on the structure of very neutron-rich nuclei produced at ALTO. Measurements of neutron emission probabilities and half-lives of nuclei at astrophysical r-process path	84Ga 126Ag 126Cd 	https://doi.org/
+2014WA26	Phys.Rev.Lett. 113, 042502 (2014)	Monopole-Driven Shell Evolution below the Doubly Magic Nucleus {+132}Sn Explored with the Long-Lived Isomer in {+126}Pd	126Pd 126Pd 	https://doi.org/10.1103/PhysRevLett.113.042502
+2014XU07	Phys.Rev.Lett. 113, 032505 (2014)	|b-Decay Half-Lives of {+76,77}Co, {+79,80}Ni and {+81}Cu Experimental Indication of a Doubly Magic {+78}Ni	77Co 80Ni 81Cu 82Zn 77Co 80Ni 81Cu 	https://doi.org/10.1103/PhysRevLett.113.032505
+2014XUZZ	Thesis, Univ. of Tokyo (2014)	Beta-decay spectroscopy on neutron-rich nuclei in a range of Z = 26 - 32	88Ge 86Ga 84Zn 82Cu 80Ni 77Co 74Fe 75Co 78Ni 81Cu 84Zn 86Ga 	https://doi.org/
+2015BEZR	Proc.of the Conf.on Advances in Radioactive Isotope Science (ARIS2014),Tokyo, Japan,  June 1-6, 2014, p.020021  (2015); JPS Conf. Proc. 6, (2015)	|b-Decay Measurements in the Vicinity of {+78}Ni with the EURICA Setup	75Cu 76Cu 77Cu 73Ni 74Ni 75Ni 76Ni 70Co 71Co 72Co 73Co 74Co 75Co 69Fe 70Fe 71Fe 72Fe 73Fe 74Fe 70Fe 70Co 70Ni 	https://doi.org/10.7566/JPSCP.6.020021
+2015ET01	Phys.Rev. C 91, 064317 (2015)	Low-lying intruder and tensor-driven structures in {+82}As revealed by |b decay at a new movable-tape-based experimental setup	82Ge 82Ge 82As 82As 80Ga 82Ga 82Ga 132Sb 132Sn 82Ga 81Ga 83As 85Br 80Ga 82As 81Ge 83As 80Ga 82As 	https://doi.org/10.1103/PhysRevC.91.064317
+2015FL01	Phys.Rev. C 91, 034310 (2015)	Characterization of the low-lying 0{++} AND 2{++} states in {+68}Ni via |b decay of the low-spin {+68}Co isomer	68Co 68Fe 68Co 68Ni 68Fe 67Co 136I 68Ni 	https://doi.org/10.1103/PhysRevC.91.034310
+2015KO23	J.Phys.Soc.Jpn. 84, 054201 (2015)	|b{+-} Decay of {+150}Ce to Odd-Odd {+150}Pr	150Ce 	https://doi.org/10.7566/JPSJ.84.054201
+2015LE14	Phys.Rev. C 92, 044320 (2015)	|b-delayed |g-ray spectroscopy of non-yrast states in {+138}Te near the neutron drip line	138Sb 139Sb 138Te 138Sb 	https://doi.org/10.1103/PhysRevC.92.044320
+2015LI33	Phys.Rev. C 92, 024319 (2015); Erratum Phys.Rev. C 94, 069904 (2016)	Analogous intruder behavior near Ni, Sn, and Pb isotopes	69Fe 69Co 69Ni 69Co 69Fe 69Co 69Co 69Fe 69Co 69Co 68Fe 68Co 71Cu 71Cu 71Cu 	https://doi.org/10.1103/PhysRevC.92.024319
+2015LO04	Phys.Rev.Lett. 114, 192501 (2015)	|b-Decay Half-Lives of 110 Neutron-Rich Nuclei across the N=82 Shell Gap: Implications for the Mechanism and Universality of the Astrophysical r Process	139Sn 137In 134Cd 132Ag 129Pd 127Rh 124Ru 121Tc 118Mo 115Nb 112Zr 109Y 106Sr 103Rb 	https://doi.org/10.1103/PhysRevLett.114.192501
+2015MO20	Europhys.Lett. 111, 52001 (2015)	First measurement of the |b-decay half-life of {+206}Au	206Au 206Hg 	https://doi.org/10.1209/0295-5075/111/52001
+2015NIZZ	Proc.of the Conf.on Advances in Radioactive Isotope Science (ARIS2014),Tokyo, Japan,  June 1-6, 2014, p.030062  (2015); JPS Conf. Proc. 6, (2015)	|b Decay Half-Lives of A |J 110 Nuclei on the r-Process Path	106Y 	https://doi.org/10.7566/JPSCP.6.030062
+2015PR10	Phys.Rev. C 92, 061302 (2015)	New low-energy 0{++} state and shape coexistence in {+70}Ni	70Ni 68Co 69Ni 	https://doi.org/10.1103/PhysRevC.92.061302
+2015SO23	Phys.Rev. C 92, 051305 (2015)	Two-hole structure outside {+78}Ni: Existence of a |ms isomer of {+76}Co and |b decay into {+76}Ni	76Co 76Ni 76Co 76Ni 	https://doi.org/10.1103/PhysRevC.92.051305
+2015TA13	Phys.Rev. C 91, 054324 (2015)	|b decay of {+129}Cd and excited states in {+129}In	129In 	https://doi.org/10.1103/PhysRevC.91.054324
+2016AL10	Phys.Rev. C 93, 044325 (2016)	Reexamining Gamow-Teller decays near {+78}Ni	83Zn 83Ga 83Zn 83Ga 82Zn 83Ga 82Ge 83Zn 83Ga 	https://doi.org/10.1103/PhysRevC.93.044325
+2016CR05	Phys.Lett. B 763, 108 (2016)	Shape coexistence from lifetime and branching-ratio measurements in {+68,70}Ni	70Co 68Fe 68Co 70Co 68Fe 	https://doi.org/10.1016/j.physletb.2016.10.020
+2016DO05	Phys.Rev. C 93, 064317 (2016)	Total absorption spectroscopy of the |b decay of {+76}Ga	76Ga 76Ga 	https://doi.org/10.1103/PhysRevC.93.064317
+2016DOZZ	Nuclear Physics in Astrophysics VI, Lisbon, Portugal, May 19-24, 2013 p.012045 (2016); J.Phys.:Conf.Ser. 665	Approaching the precursor nuclei of the third r-process peak with RIBs	212Tl 	https://doi.org/10.1088/1742-6596/665/1/012045
+2016DU13	Phys.Rev. C 93, 062801 (2016)	Half-lives of neutron-rich {+128-130}Cd	130Cd 	https://doi.org/10.1103/PhysRevC.93.062801
+2016GO13	Phys.Rev.Lett. 116, 182501 (2016)	First Evidence of Shape Coexistence in the {+78}Ni Region: Intruder 0{++}{-2} State in {+80}Ge	80Ga 	https://doi.org/10.1103/PhysRevLett.116.182501
+2016JU03	Phys.Rev. C 94, 024303 (2016)	|b decay of semi-magic {+130}Cd: Revision and extension of the level scheme of {+130}In	130Cd 130In 	https://doi.org/10.1103/PhysRevC.94.024303
+2016LI20	Phys.Rev. C 93, 044303 (2016)	Fast-timing study of the l-forbidden 1/2{++} |) 3/2{++} M1 transition in {+129}Sn	129Sn 129In 138Cs 129Sn 	https://doi.org/10.1103/PhysRevC.93.044303
+2016MA40	Eur.Phys.J. A 52, 172 (2016)	On the enhanced E1 transitions in the K = 3/2 parity doublet band in {+223}Ra	223Rn 	https://doi.org/10.1140/epja/i2016-16172-4
+2016MI18	Phys.Rev. C 94, 024305 (2016)	|b-decay study of {+94}Kr	94Kr 94Kr 94Rb 96Rb 92Se 98Kr 100Sr 	https://doi.org/10.1103/PhysRevC.94.024305
+2016MO07	Phys.Rev. C 93, 034328 (2016)	Low-lying excitations in {+72}Ni	72Co 73Co 72Co 72Co 72Ni 71Ni 72Co 	https://doi.org/10.1103/PhysRevC.93.034328
+2016SO13	Phys.Lett. B 762, 404 (2016)	K-mixing in the doubly mid-shell nuclide {+170}Dy and the role of vibrational degeneracy	170Tb 	https://doi.org/10.1016/j.physletb.2016.09.058
+2016TE09	Nucl.Instrum.Methods Phys.Res. A815, 96 (2016)	The {+3}He long-counter TETRA at the ALTO ISOL facility	82Ga 	https://doi.org/10.1016/j.nima.2015.11.150
+2016UR04	Phys.Rev. C 94, 044328 (2016)	Low-spin structure of {+86}{-35}Br{-51} and {+86}{-36}Kr{-50} nuclei: The role of the g{-7/2} neutron orbital	86Se 86Br 86Br 86Br 86Br 	https://doi.org/10.1103/PhysRevC.94.044328
+2016WA19	Phys.Lett. B 760, 641 (2016)	Long-lived K isomer and enhanced |g vibration in the neutron-rich nucleus {+172}Dy: Collectivity beyond double midshell	172Dy 	https://doi.org/10.1016/j.physletb.2016.07.057
+2017AL45	Nucl.Instrum.Methods Phys.Res. A874, 103 (2017)	VECC array for Nuclear fast Timing and angUlar corRElation studies (VENTURE)	132Te 	https://doi.org/10.1016/j.nima.2017.08.037
+2017BR12	Phys.Rev. C 96, 024309 (2017)	K selection in the decay of the (|n5/2[532] (X) 3/2 [411]) 4{+-} isomeric state in {+102}Zr	102Y 102Y 102Zr 100Sr 	https://doi.org/10.1103/PhysRevC.96.024309
+2017CA12	Phys.Rev. C 95, 064322 (2017)	|b-decay half-lives and |b-delayed neutron emission probabilities for several isotopes of Au, Hg, Tl, Pb, and Bi, beyond N=126	206Au 211Hg 216Tl 218Pb 220Bi 211Hg 216Tl 201Pt 202Pt 203Pt 204Pt 205Pt 203Au 204Au 205Au 206Au 207Au 208Au 209Au 206Hg 207Hg 208Hg 209Hg 210Hg 211Hg 212Hg 213Hg 209Tl 210Tl 211Tl 212Tl 213Tl 214Tl 215Tl 216Tl 212Pb 213Pb 214Pb 215Pb 216Pb 217Pb 218Pb 219Pb 215Bi 216Bi 217Bi 218Bi 219Bi 220Bi 221Bi 222Bi 220Po 221Po 222Po 223Po 224Po 225Po 226Po 227Po 223At 223At 224At 225At 226At 227At 228At 229At 230At 226Rn 227Rn 228Rn 229Rn 230Rn 231Rn 230Fr 231Fr 232Fr 	https://doi.org/10.1103/PhysRevC.95.064322
+2017CHZX	Proc.Intern.Conf.Nuclear Data for Science and Technology (ND2016), Bruges, Belgium, September 11-16, 2016,A.Plompen, et al, Ed. p.02048, (2017);EPJ Web of Conf., Vol.146 Pt.1, 2017	Decay Data Evaluation Project (DDEP): Updated evaluation of the {+133}Ba, {+140}Ba, {+140}La and {+141}Ce decay characteristics	140Ba 	https://doi.org/10.1051/epjconf/201714602048
+2017CZ01	Phys.Rev. C 95, 024321 (2017)	Penning-trap-assisted study of excitations in {+88}Br |b decay of {+88}Se	88Se 88Br 88Br 	https://doi.org/10.1103/PhysRevC.95.024321
+2017KO16	Appl.Radiat.Isot. 125, 15 (2017)	Half-life measurement of {+212}Pb by means of a liquid scintillator-based {+220}Rn trap	212Pb 	https://doi.org/10.1016/j.apradiso.2017.03.026
+2017LI06	J.Phys.(London) G44, 054002 (2017)	|b decay studies of n-rich Cs isotopes with the ISOLDE Decay Station	150Cs 150Cs 149Cs 149Ba 148Ce 149Ba 148Ce 	https://doi.org/10.1088/1361-6471/aa6015
+2017MO12	Phys.Rev. C 95, 044322 (2017)	Nuclear structure and |b-decay schemes for Te nuclides beyond N=82	140Sb 140Sb 140Te 	https://doi.org/10.1103/PhysRevC.95.044322
+2017MO19	Phys.Rev. C 96, 014325 (2017)	|b-decay scheme of {+140}Te to {+140}I: Suppression of Gamow-Teller transitions between the neutron h{-9/2} and proton h{-11/2} partner orbitals	140Te 140Te 140I 142I 146Cs 148La 139I 	https://doi.org/10.1103/PhysRevC.96.014325
+2017OL03	Phys.Rev. C 95, 061303 (2017)	Search for shape-coexisting 0{++} states in {+66}Ni from lifetime measurements	66Co 66Fe 	https://doi.org/10.1103/PhysRevC.95.061303
+2017OL08	J.Phys.(London) G44, 125103 (2017)	Beta decay of {+66}Mn to the N = 40 nucleus {+66}Fe	66Fe 	https://doi.org/10.1088/1361-6471/aa915e
+2017SP03	J.Phys.(London) G44, 044002 (2017)	Neutron-capture rates for explosive nucleosynthesis: the case of {+68}Ni(n, |g){+69}Ni	69Co 	https://doi.org/10.1088/1361-6471/aa5ae7
+2017UR03	Phys.Rev. C 96, 044333 (2017)	Shape coexistence in the odd-odd nucleus {+98}Y: The role of the g{-9/2} neutron extruder	98Y 98Y 147La 98Y 98Sr 98Sr 98Y 98Y 98Y 98Y 98Zr 98Y 	https://doi.org/10.1103/PhysRevC.96.044333
+2017VE01	Phys.Rev. C 95, 054320 (2017)	Pygmy Gamow-Teller resonance in the N=50 region: New evidence from staggering of |b-delayed neutron-emission probabilities	84Ga 84Ga 84Ge 	https://doi.org/10.1103/PhysRevC.95.054320
+2017VE05	Phys.Rev. C 96, 034311 (2017)	Search for the {+73}Ga ground-state doublet splitting in the |b decay of {+73}Zn	73Zn 73Zn 73Zn 75Ga 	https://doi.org/10.1103/PhysRevC.96.034311
+2017WU04	Phys.Rev.Lett. 118, 072701 (2017)	94 |b-Decay Half-Lives of Neutron-Rich {-55}Cs to {-67}Ho: Experimental Feedback and Evaluation of the r-Process Rare-Earth Peak Formation	151Cs 154Ba 156La 158Ce 160Pr 162Nd 163Pm 166Sm 168Eu 170Gd 172Tb 173Dy 175Ho 	https://doi.org/10.1103/PhysRevLett.118.072701
+2018BU16	Phys.Rev. C 98, 064320 (2018)	New insights into triaxiality and shape coexistence from odd-mass {+109}Rh	109Ru 	https://doi.org/10.1103/PhysRevC.98.064320
+2018HA19	Phys.Rev.Lett. 120, 182502 (2018)	Masses and |b-Decay Spectroscopy of Neutron-Rich Odd-Odd {+160,162}Eu Nuclei: Evidence for a Subshell Gap with Large Deformation at N=98	162Eu 162Eu 	https://doi.org/10.1103/PhysRevLett.120.182502
+2018HAZZ	Thesis, Seoul National University  (2018)	Decay spectroscopy of neutron-rich A|?100 nuclei: shape evolution of {+106,108,110}Mo	106Nb 110Zr 110Nb 110Zr 110Mo 110Mo 110Nb 	https://doi.org/
+2018HI07	Phys.Rev. C 98, 014321 (2018)	|b- and |g-decay spectroscopy of {+197,198}Os	198Os 198Ir 198Os 198Ir 198Ir 	https://doi.org/10.1103/PhysRevC.98.014321
+2018KU13	Phys.Rev. C 98, 024318 (2018)	Excited levels in the multishaped {+117}Pd nucleus studied via |b decay of {+117}Rh	117Rh 117Rh 117Rh 117Pd 117Rh 	https://doi.org/10.1103/PhysRevC.98.024318
+2018LI06	Phys.Rev. C 97, 024305 (2018)	Evolution of deformation in neutron-rich Ba isotopes up to A=150	150Cs 150Cs 150Ba 150Ba 148Cs 150Ba 	https://doi.org/10.1103/PhysRevC.97.024305
+2018RZ01	Phys.Rev. C 98, 064315 (2018)	Low-spin excitations in {+97}Zr	97Sr 88Br 97Sr 88Br 	https://doi.org/10.1103/PhysRevC.98.064315
+2018SI07	Phys.Rev. C 97, 035504 (2018)	Recoil ions from the |b decay of {+134}Sb confined in a Paul trap	134Te 134Sb 134Sb 	https://doi.org/10.1103/PhysRevC.97.035504
+2018SI28	Phys.Rev. C 98, 054307 (2018)	|B-decay half-lives of {+134,134m}Sb and their isomeric yield ratio produced by the spontaneous fission of {+252}Cf	134Sb 134Sb 134Sb 133Te 136I 138Cs 	https://doi.org/10.1103/PhysRevC.98.054307
+2018ST18	Phys.Rev. C 98, 064326 (2018)	|b{+-}decay study of the {+66}Mn - {+66}Fe - {+66}Co - {+66}Ni decay chain	66Fe 66Co 66Fe 66Fe 66Co 65Fe 66Co 66Fe 66Co 66Fe 66Co 	https://doi.org/10.1103/PhysRevC.98.064326
+2019AL03	Phys.Rev. C 99, 014306 (2019)	Lifetimes and transition probabilities for the low-lying states in {+131}I and {+132}Xe	132I 132Te 129Sb 133I 	https://doi.org/10.1103/PhysRevC.99.014306
+2019BU06	Phys.Rev. C 99, 034314 (2019)	Revision of forensics-relevant nuclear data in {+127}Sb |b decay	127Sb 133I 132Te 	https://doi.org/10.1103/PhysRevC.99.034314
+2019DO02	Phys.Rev. C 99, 015802 (2019)	|b-decay half-lives of neutron-rich nuclides in the A=100--110 mass region	99Y 102Zr 109Tc 	https://doi.org/10.1103/PhysRevC.99.015802
+2019DU12	Phys.Rev. C 99, 045805 (2019)	|b decay and |b-delayed neutron decay of the N=82 nucleus {+131}{-49}In{-82}	131In 131In 130Sn 131Sn 131Sn 130Sb 131In 	https://doi.org/10.1103/PhysRevC.99.045805
+2019KR10	Phys.Rev. C 100, 014608 (2019)	Fission product yield measurements using monoenergetic photon beams	88Kr 127Sb 128Sn 129Sb 130Sb 131Sb 132Te 133Te 133I 134Te 135I 138Cs 140Ba 141Ba 	https://doi.org/10.1103/PhysRevC.100.014608
+2019KU16	Phys.Rev. C 100, 034316 (2019)	First |b-decay scheme of {+107}Nb: New insight into the low-energy levels of {+107}Mo	107Nb 107Nb 107Mo 105Mo 107Mo 	https://doi.org/10.1103/PhysRevC.100.034316
+2019LE05	Phys.Rev. C 99, 034601 (2019)	Experimental constraints on the {+73}Zn(n,|g){+74}Zn reaction rate	74Cu 74Cu 74Cu 74Zn 73Zn 73Zn 	https://doi.org/10.1103/PhysRevC.99.034601
+2019LO04	Phys.Rev. C 99, 044310 (2019)	|b decay of {+127}Cd and excited states in {+127}In	127Cd 127In 129Cd 129In 	https://doi.org/10.1103/PhysRevC.99.044310
+2019LY02	Phys.Rev. C 100, 025806 (2019)	{+69,71}Co |b-decay strength distributions from total absorption spectroscopy	71Co 71Co 	https://doi.org/10.1103/PhysRevC.100.025806
+2019MI18	Eur.Phys.J. A 55, 148 (2019)	A novel method for the measurement of half-lives and decay branching ratios of exotic nuclei	137Sb 212Pb 137Sb 137Sb 	https://doi.org/10.1140/epja/i2019-12837-8
+2019OL02	Phys.Rev. C 99, 024321 (2019)	Properties of low-lying states in {+65}Co from lifetime measurements	65Fe 65Fe 65Co 65Co 	https://doi.org/10.1103/PhysRevC.99.024321
+2019PI04	Phys.Rev. C 99, 024304 (2019)	|b decay of {+133}In: |g emission from neutron-unbound states in {+133}Sn	133In 133In 133In 133Sn 132Sn 131Sn 133Sn 132Sb 133In 133Sb 132Te 	https://doi.org/10.1103/PhysRevC.99.024304
+2019YO03	Phys.Rev. C 100, 031302(R) (2019)	Strong one-neutron emission from two-neutron unbound states in |b decays of the r-process nuclei {+86,87}Ga	87Ga 87Ga 	https://doi.org/10.1103/PhysRevC.100.031302
+2019ZH49	Phys.Lett. B 799, 135036 (2019)	Interplay of quasiparticle and vibrational excitations: First observation of isomeric states in {+168}Dy and {+169}Dy	169Dy 	https://doi.org/10.1016/j.physletb.2019.135036

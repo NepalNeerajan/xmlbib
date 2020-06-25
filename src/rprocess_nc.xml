@@ -1,0 +1,62 @@
+<nsr-entry>
+<keyno>2012KO36</keyno>
+<history>A20121109</history>
+<coden>JOUR PRLTA 109 172501</coden>
+<refrence>Phys.Rev.Lett. 109, 172501 (2012)</refrence>
+<authors>R.L.Kozub, G.Arbanas, A.S.Adekola, D.W.Bardayan, J.C.Blackmon, K.Y.Chae, K.A.Chipps, J.A.Cizewski, L.Erikson, R.Hatarik, W.R.Hix, K.L.Jones, W.Krolas, J.F.Liang, Z.Ma, C.Matei, B.H.Moazen, C.D.Nesaraja, S.D.Pain, D.Shapira, J.F.Shriner, Jr., M.S.Smith, T.P.Swan</authors>
+<title>Neutron Single Particle Structure in {+131}Sn and Direct Neutron Capture Cross Sections</title>
+<keywords>NUCLEAR REACTIONS {+2}H({+130}Sn,p), E=630 MeV; {+130}Sn(n,|g), E lt 5 MeV;measured reaction products, Ep,Ip; deduced |s(|q), energy levels, J,|p, properties of single-particle states, direct-semidirect |s.  Comparison with  available data.</keywords>
+<doi>10.1103/PhysRevLett.109.172501</doi>
+</nsr-entry>
+<nsr-entry>
+<keyno>2012ME04</keyno>
+<history>A20120309 M20120328</history>
+<coden>JOUR ZAANE 48 20</coden>
+<refrence>Eur.Phys.J. A 48, 20 (2012)</refrence>
+<authors>G.Meierhofer, P.Grabmayr, L.Canella, P.Kudejova, J.Jolie, N.Warr</authors>
+<title>Prompt |g rays in {+77}Ge and {+75}Ge after thermal neutron capture</title>
+<keywords>NUCLEAR REACTIONS {+74},{+76}Ge(n,|g),E=cold; measured E|g,I|g,|g|g-coin; deduced |g transitions, isomeric transition, energy levels.</keywords>
+<keywords>RADIOACTIVITY {+77}Ge(|b{+-})[from {+76}Ge(n,|g),E=thermal];   measured E|g, I|g.</keywords>
+<doi>10.1140/epja/i2012-12020-y</doi>
+</nsr-entry>
+<nsr-entry>
+<keyno>2015AT03</keyno>
+<history>A20151207</history>
+<coden>JOUR PRLTA 115 232501</coden>
+<refrence>Phys.Rev.Lett. 115, 232501 (2015)</refrence>
+<authors>D.Atanasov, P.Ascher, K.Blaum, R.B.Cakirli, T.E.Cocolios, S.George, S.Goriely, F.Herfurth, H.-T.Janka, O.Just, M.Kowalska, S.Kreim, D.Kisler, Y.A.Litvinov, D.Lunney, V.Manea, D.Neidherr, M.Rosenbusch, L.Schweikhard, A.Welker, F.Wienholtz, R.N.Wolf, K.Zuber</authors>
+<title>Precision Mass Measurements of {+129-131}Cd and Their Impact on Stellar Nucleosynthesis via the Rapid Neutron Capture Process</title>
+<keywords>ATOMIC MASSES {+129},{+130},{+131}Cd; measured TOF-ICR resonance spectra; deduced masses, corrections to the existing values, neutron separation energies. Penning-trap spectrometer ISOLTRAP at ISOLDE/CERN.</keywords>
+<doi>10.1103/PhysRevLett.115.232501</doi>
+</nsr-entry>
+<nsr-entry>
+<keyno>2016LI30</keyno>
+<history>A20160621</history>
+<coden>JOUR PRLTA 116 242502</coden>
+<refrence>Phys.Rev.Lett. 116, 242502 (2016)</refrence>
+<authors>S.N.Liddick, A.Spyrou, B.P.Crider, F.Naqvi, A.C.Larsen, M.Guttormsen, M.Mumpower, R.Surman, G.Perdikakis, D.L.Bleuel, A.Couture, L.C.Campo, A.C.Dombos, R.Lewis, S.Mosby, S.Nikas, C.J.Prokop, T.Renstrom, B.Rubio, S.Siem, S.J.Quinn</authors>
+<title>Experimental Neutron Capture Rate Constraint Far from Stability</title>
+<keywords>RADIOACTIVITY {+70}Co(|b{+-}) [from {+9}Be({+86}Kr,X), E=140 MeV/nucleon]; measured decay products, E|g,I|g; deduced nuclear level density as a function of excitation energy. Comparison with available data.</keywords>
+<keywords>NUCLEAR REACTIONS {+69}Ni(n,|g), E lt 10 GK;   calculated nuclear reaction capture rates using experimental level densities and code TALYS.</keywords>
+<doi>10.1103/PhysRevLett.116.242502</doi>
+</nsr-entry>
+<nsr-entry>
+<keyno>2019AH05</keyno>
+<history>A20191105 M20200103</history>
+<coden>JOUR PRVCA 100 044613</coden>
+<refrence>Phys.Rev. C 100, 044613 (2019)</refrence>
+<authors>S.Ahn, D.W.Bardayan, K.L.Jones, A.S.Adekola, G.Arbanas, J.C.Blackmon, K.Y.Chae, K.A.Chipps, J.A.Cizewski, S.Hardy, M.E.Howard, R.L.Kozub, B.Manning, M.Matos, C.D.Nesaraja, P.D.O'Malley, S.D.Pain, W.A.Peters, S.T.Pittman, B.C.Rasco, M.S.Smith, I.Spassova</authors>
+<title>Direct neutron capture cross section on {+80}Ge and probing shape coexistence in neutron-rich nuclei</title>
+<keywords>NUCLEAR REACTIONS {+2}H({+80}Ge,p),({+80}Ge,d),E=310 MeV; measured energies and angles of light-ion ejectiles, Ep, Ip, E(d), I(d), ({+80}Ge)p- and ({+80}Ge)d-coin, angular distributions of ejected proton using various silicon detectors at the Holifield Radioactive Ion Beam Facility at ORNL. Proton angular distributions analyzed using adiabatic wave approximation including finite range effects (ADWAFR) using FRESCO code, and by DWBA. {+81}Ge; deduced levels, J, |p, spectroscopic factors, configurations, region of shape coexistence around N|?50. Systematics of low-lying levels in N=49 isotones {+81}Ge, {+83}Se, {+85}Kr and {+87}Sr. Discussed implications for the magic nature of {+78}Ni. {+80}Ge(n,|g),E=0.01-3 MeV; calculated |s(E) for r-process simulations using direct-semidirect (DSD) model and the CUPIDO code.</keywords>
+<doi>10.1103/PhysRevC.100.044613</doi>
+</nsr-entry>
+<nsr-entry>
+<keyno>2019MA26</keyno>
+<history>A20190503 M20190708</history>
+<coden>JOUR PRVCA 99 041302</coden>
+<refrence>Phys.Rev. C 99, 041302 (2019); Erratum Phys.Rev. C 99, 069901 (2019)</refrence>
+<authors>B.Manning, G.Arbanas, J.A.Cizewski, R.L.Kozub, S.Ahn, J.M.Allmond, D.W.Bardayan, K.Y.Chae, K.A.Chipps, M.E.Howard, K.L.Jones, J.F.Liang, M.Matos, C.D.Nesaraja, F.M.Nunes, P.D.O'Malley, S.D.Pain, W.A.Peters, S.T.Pittman, A.Ratkiewicz, K.T.Schmitt, D.Shapira, M.S.Smith, L.Titus</authors>
+<title>Informing direct neutron capture on tin isotopes near the N=82 shell closure</title>
+<keywords>NUCLEAR REACTIONS {+2}H({+124}Sn,p),({+126}Sn,p),({+128}Sn,p),E=630 MeV; measured Ep, Ip, (recoils)p-coin, Q-value spectra, differential |s(|q) using Super Oak Ridge Rutgers University Barrel Array (SuperORRUBA) for light charged particle detection and ionization chamber for detection of beam intensity and recoils at Oak Ridge National Laboratory. {+125},{+127},{+129}; deduced levels, J|p, L-transfers, spectroscopic factors. {+2}H({+130}Sn,p),({+132}Sn,p); reanalyzed previous experimental data. Angular distribution data compared with Finite Range Adiabatic Wave Approximation. {+124},{+126},{+128},{+130},{+132}Sn(n,|g),E=30 keV; calculated direct-semidirect |s(n,|g) from spectroscopic information, and compared with various theoretical predictions. Relevance to r-process abundance calculations.</keywords>
+<doi>10.1103/PhysRevC.99.041302</doi>
+</nsr-entry>

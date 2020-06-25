@@ -1,0 +1,43 @@
+2002BOZX	Proc.Inter.Nuclear Physics Conference, Berkeley, California, 30 July - 3 August 2001, E.Norman, L.Schroeder, G.Wozniak, Eds., p.905 (2002); AIP Conf.Proc. 610 (2002)	New Mass Measurements with the ISOLTRAP Spectrometer	132Sn 	https://doi.org/
+2002RA23	Nucl.Phys. A706, 3 (2002)	High-Accuracy Mass Determination of Neutron-Rich Rubidium and Strontium Isotopes	94Rb 95Sr 	https://doi.org/10.1016/S0375-9474(02)00863-1
+2002SAZS	ANL-02/15 (Physics Division Ann.Rept., 2001), p.32 (2002)	Mass Measurements of Short-Lived Neutron-Rich Isotopes at the Canadian Penning Trap Mass Spectrometer	147La 149Ce 149Pr 	https://doi.org/
+2003SAZU	ANL-03/23 (Physics Division Ann.Rept., 2002), p.44 (2003)	Precise Mass Measurement of Neutron-Rich Nuclei from Fission Fragments of {+252}Cf	147Ba 149La 151Ce 151Pr 	https://doi.org/
+2004CL07	Nucl.Phys. A746, 342c (2004)	Precise mass measurements of astrophysical interest made with the Canadian Penning trap mass spectrometer	147Ba 148La 151Ce 153Pr 	https://doi.org/10.1016/j.nuclphysa.2004.09.051
+2004GE18	Nucl.Phys. A746, 150c (2004)	New results with stored exotic nuclei at relativistic energies	140Te 122Pd 	https://doi.org/10.1016/j.nuclphysa.2004.09.030
+2004HE32	Nucl.Phys. A746, 487c (2004)	Masses along the rp-process path and large scale surveys on Cu, Ni and Ga with ISOLTRAP	69Ni 	https://doi.org/10.1016/j.nuclphysa.2004.09.074
+2004JO18	Nucl.Phys. A746, 277c (2004)	First mass measurement at JYFLTRAP	104Zr 	https://doi.org/10.1016/j.nuclphysa.2004.09.024
+2004KO42	Nucl.Instrum.Methods Phys.Res. A528, 776 (2004)	JYFLTRAP: a cylindrical Penning trap for isobaric beam purification at IGISOL	116Rh 106Mo 	https://doi.org/10.1016/j.nima.2004.05.029
+2004LIZX	GSI 2004-1, p.16 (2004)	Direct Mass Measurements of Stored Exotic Nuclei	122Pd 140Te 	https://doi.org/
+2004MAZV	Inst.fur Kernchemie, Univ.Mainz, Jahresbericht 2003, p.A10 (2004); IKMz 2004-1 (2004)	Direct Mass Measurements of Short-Lived Neutron-Rich Fission Fragment  at the FSR-ESR Facility at GSI	122Pd 140Te 	https://doi.org/
+2004RI12	Phys.Rev. C 70, 011301 (2004)	Direct mass measurements of neutron-rich zirconium isotopes up to {+104}Zr	104Zr 104Zr 	https://doi.org/10.1103/PhysRevC.70.011301
+2004VA07	Phys.Rev.Lett. 92, 112501 (2004)	Unambiguous Identification of Three |b-Decaying Isomers in {+70}Cu	70Ni 70Cu 	https://doi.org/10.1103/PhysRevLett.92.112501
+2005GEZW	nucl-ex/0510009,10/4/2005 (2005)	Present and Future Experiments with Stored Exotic Nuclei at Relativistic Energies	235Ac 	https://doi.org/
+2005HE26	Eur.Phys.J. A 25, Supplement 1, 17 (2005)	Recent high-precision mass measurements with the Penning trap spectrometer ISOLTRAP	232Ra 230Fr 	https://doi.org/10.1140/epjad/i2005-06-031-3
+2005JO22	Eur.Phys.J. A 25, Supplement 1, 27 (2005)	Ion manipulation and precision measurements at JYFLTRAP	105Zr 	https://doi.org/10.1140/epjad/i2005-06-180-3
+2005LIZZ	GSI 2005-1, p.79 (2005)	Direct Mass Measurements of Stored exotic Nuclei	222At 223Rn 231Ra 	https://doi.org/
+2005SI34	Nucl.Phys. A763, 45 (2005); Erratum Nucl.Phys. A768, 160 (2006)	Mass measurements on neutron-deficient Sr and neutron-rich Sn isotopes with the ISOLTRAP mass spectrometer	132Sn 	https://doi.org/10.1016/j.nuclphysa.2005.08.014
+2005WAZR	ANL-05/61 (Physics Division Ann.Rept., 2004), p.22 (2005)	Precise Mass Measurement of Light Fission Fragments from {+252}Cf Source	107Mo 108Tc 111Ru 111Rh 	https://doi.org/
+2006DE36	Phys.Rev. C 74, 034331 (2006)	High-accuracy mass measurements of neutron-rich Kr isotopes	95Kr 	https://doi.org/10.1103/PhysRevC.74.034331
+2006HA03	Phys.Rev.Lett. 96, 042504 (2006); Erratum Phys.Rev.Lett. 96, 069901 (2006)	First Precision Mass Measurements of Refractory Fission Fragments	100Sr 105Zr 110Mo 	https://doi.org/10.1103/PhysRevLett.96.042504
+2006HA62	Int.J. Mass Spectrom. 251, 119 (2006)	Opportunistic mass measurements at the Holifield Radioactive Ion Beam Facility	79Cu 86Ge 	https://doi.org/10.1016/j.ijms.2006.01.020
+2006LI59	Int.J.Mod.Phys. E15, 1645 (2006)	Exploring long-lived K-isomers via Schottky-Mass-Spectrometry at the ESR	235Ac 	https://doi.org/10.1142/S0218301306004971
+2006MAZZ	Proc.12th Intern.Symposium on Capture Gamma-Ray Spectroscopy and Related Topics, Notre Dame, Indiana, 4-9 September 2005, A.Woehr, A.Aprahamian, Eds., p.164 (2006); AIP Conf.Proc. 819 (2006)	Recent Achievements and Future of Mass Measurements with Fast Radioactive Beams	95Kr 100Sr 101Y 110Mo 111Tc 	https://doi.org/10.1063/1.2187852
+2006SA56	Int.J. Mass Spectrom. 251, 252 (2006)	Studies of neutron-rich isotopes with the CPT mass spectrometer and the CARIBU project	147Ba 148La 151Ce 153Pr 	https://doi.org/10.1016/j.ijms.2006.01.047
+2007BO50	Eur.Phys.J. Special Topics 150, 337 (2007)	Penning trap mass measurements of rare isotopes produced by projectile fragmentation with LEBIT at NSCL	80As 	https://doi.org/10.1140/epjst/e2007-00340-3
+2007GU09	Phys.Rev. C 75, 044303 (2007)	High-precision mass measurements of nickel, copper, and gallium isotopes and the purported shell closure at N = 40	69Ni 76Cu 78Ga 	https://doi.org/10.1103/PhysRevC.75.044303
+2007GUZZ	nucl-ex/0701029,01/22/2007 (2007)	High-precision mass measurements of nickel, copper, and gallium isotopes and the purported shell closure at N=40	69Ni 76Cu 78Ga 	https://doi.org/
+2007HA20	Phys.Rev. C 75, 064302 (2007)	Precision mass measurements of neutron-rich Tc, Ru, Rh, and Pd isotopes	110Tc 115Ru 118Rh 120Pd 	https://doi.org/10.1103/PhysRevC.75.064302
+2007HA32	Nucl.Phys. A793, 20 (2007)	Precision mass measurements of neutron-rich yttrium and niobium isotopes	101Y 107Nb 	https://doi.org/10.1016/j.nuclphysa.2007.06.011
+2007RA23	Eur.Phys.J. A 32, 87 (2007)	Precise atomic masses of neutron-rich Br and Rb nuclei close to the r-process path	92Br 97Rb 	https://doi.org/10.1140/epja/i2006-10297-y
+2007RA27	Eur.Phys.J. A 34, 5 (2007)	Masses of neutron-rich Ni and Cu isotopes and the shell closure at Z = 28, N = 40	73Ni 75Cu 	https://doi.org/10.1140/epja/i2007-10489-y
+2007RAZY	nucl-ex/0703017,3/12/2007 (2007)	Precise atomic masses of neutron-rich Br and Rb nuclei close to the r-process path	92Br 97Rb 	https://doi.org/
+2007RI01	Eur.Phys.J. A 31, 1 (2007)	Decay study of neutron-rich zirconium isotopes employing a Penning trap as a spectroscopy tool	104Zr 104Nb 104Zr 104Nb 	https://doi.org/10.1140/epja/i2006-10158-9
+2008BA54	Phys.Rev.Lett. 101, 262501 (2008)	Mass Measurements beyond the Major r-Process Waiting Point {+80}Zn	81Zn 	https://doi.org/10.1103/PhysRevLett.101.262501
+2008BL05	Phys.Rev.Lett. 100, 132501 (2008); Erratum Phys.Rev.Lett. 101, 059901 (2008)	Discovery of a Nuclear Isomer in {+65}Fe with Penning Trap Mass Spectrometry	65Fe 66Co 	https://doi.org/10.1103/PhysRevLett.100.132501
+2008DW01	Phys.Rev.Lett. 100, 072501 (2008)	Restoration of the N = 82 Shell Gap from Direct Mass Measurements of {+132,134}Sn	134Sn 	https://doi.org/10.1103/PhysRevLett.100.072501
+2008HA23	Phys.Rev.Lett. 101, 052502 (2008)	Evolution of the N = 50 Shell Gap Energy towards {+78}Ni	80Zn 83Ga 85Ge 87As 89Se 	https://doi.org/10.1103/PhysRevLett.101.052502
+2008SU19	Nucl.Phys. A812, 1 (2008)	Nuclear structure studies of short-lived neutron-rich nuclei with the novel large-scale isochronous mass spectrometry at the FRS-ESR facility	80Ga 83Ge 86As 89Se 90Br 97Rb 101Y 107Nb 112Tc 115Ru 118Rh 120Pd 123Ag 125Cd 131Sn 135Sb 138Te 141I 143Xe 146Ba 79Ga 80Ga 81Ge 82Ge 84As 85As 86Se 87Se 88Se 89Br 90Br 91Kr 92Kr 93Kr 94Rb 95Rb 96Sr 97Sr 98Sr 99Y 100Y 101Zr 102Zr 104Nb 105Nb 106Nb 107Mo 108Mo 110Tc 111Tc 114Ru 116Rh 119Pd 	https://doi.org/10.1016/j.nuclphysa.2008.08.013
+2008WE02	Nucl.Phys. A803, 1 (2008)	Atomic mass measurements of short-lived nuclides around the doubly-magic {+208}Pb	147Cs 216Bi 229Fr 230Ra 	https://doi.org/10.1016/j.nuclphysa.2007.12.014
+2009CH08	Phys.Rev.Lett. 102, 122503 (2009)	Schottky Mass Measurement of the {+208}Hg Isotope: Implication for the Proton-Neutron Interaction Strength around Doubly Magic {+208}Pb	208Hg 	https://doi.org/10.1103/PhysRevLett.102.122503
+2009NE03	Phys.Rev.Lett. 102, 112501 (2009)	Discovery of {+229}Rn and the Structure of the Heaviest Rn and Ra Isotopes from Penning-Trap Mass Measurements	229Rn 	https://doi.org/10.1103/PhysRevLett.102.112501
+2009NE11	Phys.Rev. C 80, 044323 (2009)	High-precision Penning-trap mass measurements of heavy xenon isotopes for nuclear structure studies	146Xe 	https://doi.org/10.1103/PhysRevC.80.044323

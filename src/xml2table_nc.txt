@@ -1,0 +1,6 @@
+2012KO36	Phys.Rev.Lett. 109, 172501 (2012)	Neutron Single Particle Structure in {+131}Sn and Direct Neutron Capture Cross Sections	130Sn 130Sn 	https://doi.org/10.1103/PhysRevLett.109.172501
+2012ME04	Eur.Phys.J. A 48, 20 (2012)	Prompt |g rays in {+77}Ge and {+75}Ge after thermal neutron capture	77Ge 	https://doi.org/10.1140/epja/i2012-12020-y
+2015AT03	Phys.Rev.Lett. 115, 232501 (2015)	Precision Mass Measurements of {+129-131}Cd and Their Impact on Stellar Nucleosynthesis via the Rapid Neutron Capture Process	131Cd 	https://doi.org/10.1103/PhysRevLett.115.232501
+2016LI30	Phys.Rev.Lett. 116, 242502 (2016)	Experimental Neutron Capture Rate Constraint Far from Stability	70Co 69Ni 	https://doi.org/10.1103/PhysRevLett.116.242502
+2019AH05	Phys.Rev. C 100, 044613 (2019)	Direct neutron capture cross section on {+80}Ge and probing shape coexistence in neutron-rich nuclei	80Ge 80Ge 80Ge 80Ge 81Ge 81Ge 83Se 78Ni 80Ge 	https://doi.org/10.1103/PhysRevC.100.044613
+2019MA26	Phys.Rev. C 99, 041302 (2019); Erratum Phys.Rev. C 99, 069901 (2019)	Informing direct neutron capture on tin isotopes near the N=82 shell closure	128Sn 130Sn 132Sn 132Sn 	https://doi.org/10.1103/PhysRevC.99.041302

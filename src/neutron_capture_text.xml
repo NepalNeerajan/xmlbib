@@ -82,7 +82,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Nucl.Sci.Eng. 134, 50 (2000)</refrence>
 <authors>G.Leinweber, J.Burke, C.R.Lubitz, H.D.Knox, N.J.Drindak, R.C.Block, R.E.Slovacek, C.J.Werner, N.C.Francis, Y.Danon, B.E.Moretti</authors>
 <title>Neutron Capture and Total Cross-Section Measurements and Resonance Parameter Analysis of Zirconium up to 2.5 keV</title>
-<keywords>NUCLEAR REACTIONS Zr(n,X),(n,|g),E < 2.5 keV; measured capture and transmission |s. {+91},{+96}Zr deduced resonance parameters.</keywords>
+<keywords>NUCLEAR REACTIONS Zr(n,X),(n,|g),E lt 2.5 keV; measured capture and transmission |s. {+91},{+96}Zr deduced resonance parameters.</keywords>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
 <!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
@@ -143,7 +143,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Nucl.Phys. A688, 487c (2001)</refrence>
 <authors>C.Arlandini, M.Heil, R.Reifarth, F.Kappeler, P.V.Sedyshev</authors>
 <title>Stellar Neutron Capture Rate of {+147}Pm for Constraining the s-Process Neutron Density</title>
-<keywords>NUCLEAR REACTIONS {+147}Pm(n,|g),E<106 KeV; measured E|g, |s at average energy corresponding to s-process conditions.</keywords>
+<keywords>NUCLEAR REACTIONS {+147}Pm(n,|g),E lt 106 KeV; measured E|g, |s at average energy corresponding to s-process conditions.</keywords>
 <doi>10.1016/S0375-9474(01)00764-3</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -349,7 +349,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>J.Nucl.Sci.Technol.(Tokyo) 39, 111 (2002)</refrence>
 <authors>K.Kobayashi, S.Lee, S.Yamamoto, H.J.Cho, Y.Fujita</authors>
 <title>Measurement of Neutron Capture Cross Section of {+237}Np by Linac Time-of-Flight Method and with Linac-Driven Lead Slowing-Down Spectrometer</title>
-<keywords>NUCLEAR REACTIONS {+237}Np(n,|g),E < 10 keV; measured capture |s. Comparison with previous results.</keywords>
+<keywords>NUCLEAR REACTIONS {+237}Np(n,|g),E lt 10 keV; measured capture |s. Comparison with previous results.</keywords>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
 <!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
@@ -412,7 +412,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Ann.Nucl.Energy 29, 1157 (2002)</refrence>
 <authors>J.Yoon, T.Ro, S.Lee, S.Yamamoto, K.Kobayashi</authors>
 <title>Measurement of Neutron Capture Cross-Section of Indium in the Energy Region from 0.003 eV to 30 keV</title>
-<keywords>NUCLEAR REACTIONS In(n,|g),E < 30 keV; measured capture |s. Comparisons with previous results.</keywords>
+<keywords>NUCLEAR REACTIONS In(n,|g),E ls 30 keV; measured capture |s. Comparisons with previous results.</keywords>
 <doi>10.1016/S0306-4549(01)00104-9</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -514,7 +514,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Nucl.Sci.Eng. 144, 94 (2003)</refrence>
 <authors>S.Lee, S.Yamamoto, K.Kobayashi, G.Kim, J.Chang</authors>
 <title>Neutron Capture Cross-Section Measurement of Rhodium in the Energy Region from 0.003 eV to 80 keV by Linac Time-of-Flight Method</title>
-<keywords>NUCLEAR REACTIONS Rh(n,|g),E < 80 keV; measured capture |s. Time-of-flight method,comparison with previous results.</keywords>
+<keywords>NUCLEAR REACTIONS Rh(n,|g),E lt 80 keV; measured capture |s. Time-of-flight method,comparison with previous results.</keywords>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
 <!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
@@ -564,7 +564,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Nucl.Phys. A718, 478c (2003)</refrence>
 <authors>R.Reifarth, R.Haight, M.Heil, M.M.Fowler, K.Kappeler, G.G.Miller, R.S.Rundberg, J.L.Ullmann, J.B.Wilhelmy</authors>
 <title>Neutron capture measurements on {+171}Tm</title>
-<keywords>NUCLEAR REACTIONS {+171}Tm(n,|g),E < 20 MeV; measured |s. Comparison with model prediction.</keywords>
+<keywords>NUCLEAR REACTIONS {+171}Tm(n,|g),E lt 20 MeV; measured |s. Comparison with model prediction.</keywords>
 <doi>10.1016/S0375-9474(03)00862-5</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -643,7 +643,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Phys.Rev.Lett. 93, 161103 (2004)</refrence>
 <authors>U.Abbondanno, and the n_TOF Collaboration</authors>
 <title>Neutron Capture Cross Section Measurement of {+151}Sm at the CERN Neutron Time of Flight Facility (n_TOF)</title>
-<keywords>NUCLEAR REACTIONS {+151}Sm(n,|g),E < 1 MeV; measured |s; deduced Maxwellian averaged |s. Astrophysical implications discussed.</keywords>
+<keywords>NUCLEAR REACTIONS {+151}Sm(n,|g),E lt 1 MeV; measured |s; deduced Maxwellian averaged |s. Astrophysical implications discussed.</keywords>
 <doi>10.1103/PhysRevLett.93.161103</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -693,7 +693,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Nucl.Sci.Eng. 146, 209 (2004)</refrence>
 <authors>K.Kobayashi, S.Lee, S.Yamamoto, T.Kawano</authors>
 <title>Neutron Capture Cross-Section Measurement of {+99}Tc by Linac Time-of-Flight Method and the Resonance Analysis</title>
-<keywords>NUCLEAR REACTIONS {+99}Tc(n,|g),E < 47 keV; measured |s; deduced resonance parameters. Comparison with previous results.</keywords>
+<keywords>NUCLEAR REACTIONS {+99}Tc(n,|g),E lt 47 keV; measured |s; deduced resonance parameters. Comparison with previous results.</keywords>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
 <!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
@@ -705,7 +705,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Nucl.Instrum.Methods Phys.Res. B213, 36 (2004)</refrence>
 <authors>P.M.Milazzo, G.Aerts, E.Berthoumieux, N.Bustreo, D.Cano-Ott, P.Cennini, N.Colonna, C.Domingo, M.Embid, L.Ferrant, E.Gonzales, F.Gunsing, M.Heil, F.Kappeler, S.Marrone, P.F.Mastinu, A.Mengoni, C.Moreau, J.Pancin, T.Papaevangelou, C.Paradela, P.Pavlopoulos, R.Plag, R.Reifarth, C.Stephan, L.Tassan-Got, G.Tagliente, J.L.Tain, R.Terlizzi, V.Vlachoudis</authors>
 <title>Measurements of neutron capture cross-sections for ADS-related studies</title>
-<keywords>NUCLEAR REACTIONS Fe,Ag,{+197}Au(n,|g),E < 100 keV; measured capture yields.</keywords>
+<keywords>NUCLEAR REACTIONS Fe,Ag,{+197}Au(n,|g),E lt 100 keV; measured capture yields.</keywords>
 <doi>10.1016/S0168-583X(03)01530-1</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -796,7 +796,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Phys.Rev. C 69, 055801 (2004)</refrence>
 <authors>K.Wisshak, F.Voss, C.Arlandini, F.Kappeler, M.Heil, R.Reifarth, M.Krticka, F.Becvar</authors>
 <title>Stellar neutron capture on {+180}Ta{+m}. I. Cross section measurement between 10 keV and 100 keV</title>
-<keywords>NUCLEAR REACTIONS {+180m},{+181}Ta,{+197}Au(n,|g),E=10-100 keV; measured E|g,capture |s. {+180m}Ta(n,|g),E < 700 keV; deduced Maxwellian averaged |s.</keywords>
+<keywords>NUCLEAR REACTIONS {+180m},{+181}Ta,{+197}Au(n,|g),E=10-100 keV; measured E|g,capture |s. {+180m}Ta(n,|g),E lt 700 keV; deduced Maxwellian averaged |s.</keywords>
 <doi>10.1103/PhysRevC.69.055801</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -1247,7 +1247,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Phys.Rev. C 76, 045805 (2007)</refrence>
 <authors>C.Domingo-Pardo, and the n_TOF Collaboration</authors>
 <title>Measurement of the radiative neutron capture cross section of {+206}Pb and its astrophysical implications</title>
-<keywords>NUCLEAR REACTIONS {+206}Pb(n,|g),E<1 MeV; measured E|g, I|g; {+207}Pb deduced levels,J,|p,resonance parameters, reaction cross sections. CERN n_TOF facility.</keywords>
+<keywords>NUCLEAR REACTIONS {+206}Pb(n,|g),E lt 1 MeV; measured E|g, I|g; {+207}Pb deduced levels,J,|p,resonance parameters, reaction cross sections. CERN n_TOF facility.</keywords>
 <doi>10.1103/PhysRevC.76.045805</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -1531,7 +1531,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Phys.Rev. C 77, 035802 (2008)</refrence>
 <authors>G.Tagliente, for the n_TOF Collaboration</authors>
 <title>Neutron capture cross section of {+90}Zr: Bottleneck in the s-process reaction flow</title>
-<keywords>NUCLEAR REACTIONS {+90}Zr(n,|g),E<250 MeV; measured |s,neutron resonances. E|g,I|g,n-TOF spallation source. R-matrix analysis.</keywords>
+<keywords>NUCLEAR REACTIONS {+90}Zr(n,|g),E lt 250 MeV; measured |s,neutron resonances. E|g,I|g,n-TOF spallation source. R-matrix analysis.</keywords>
 <doi>10.1103/PhysRevC.77.035802</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -1623,7 +1623,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Phys.Rev. C 79, 065802 (2009)</refrence>
 <authors>J.Marganiec, I.Dillmann, C.Domingo Pardo, F.Kappeler, R.Reifarth, R.Gallino, M.Pignatari, P.Grabmayr</authors>
 <title>Neutron capture cross sections of {+74}Ge, {+76}Ge, and {+75}As at 25 keV</title>
-<keywords>NUCLEAR REACTIONS {+74},{+76}Ge,{+75}As(n,|g),E<106 keV; measured E|g,I|g,|s; deduced Maxwellian averaged |s for thermal energies from 5 to 100 keV. Neutrons from {+7}Li(p,n),E=1912 keV reaction. {+197}Au(n,|g),E<106 keV; measured |s and used as a standard. Estimated background contributions for |g-ray studies of double |b decay of {+76}Ge.</keywords>
+<keywords>NUCLEAR REACTIONS {+74},{+76}Ge,{+75}As(n,|g),E lt 106 keV; measured E|g,I|g,|s; deduced Maxwellian averaged |s for thermal energies from 5 to 100 keV. Neutrons from {+7}Li(p,n),E=1912 keV reaction. {+197}Au(n,|g),E lt 106 keV; measured |s and used as a standard. Estimated background contributions for |g-ray studies of double |b decay of {+76}Ge.</keywords>
 <doi>10.1103/PhysRevC.79.065802</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -1688,7 +1688,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Phys.Rev. C 81, 054606 (2010)</refrence>
 <authors>B.L.Goldblum, S.G.Prussin, L.A.Bernstein, W.Younes, M.Guttormsen, H.T.Nyhus</authors>
 <title>Surrogate ratio methodology for the indirect determination of neutron capture cross sections</title>
-<keywords>NUCLEAR REACTIONS {+161},{+162},{+163}Dy({+3}He,{+3}He'),({+3}He,|a),E=45 MeV; {+164}Dy({+3}He,{+3}He'),E=38 MeV; measured E|g,I|g. {+160},{+161},{+163}Dy(n,|g),E<600 keV; deduced |s using the external surrogate ratio method (SRM).</keywords>
+<keywords>NUCLEAR REACTIONS {+161},{+162},{+163}Dy({+3}He,{+3}He'),({+3}He,|a),E=45 MeV; {+164}Dy({+3}He,{+3}He'),E=38 MeV; measured E|g,I|g. {+160},{+161},{+163}Dy(n,|g),E lt 600 keV; deduced |s using the external surrogate ratio method (SRM).</keywords>
 <doi>10.1103/PhysRevC.81.054606</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -1701,7 +1701,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>J.Nucl.Sci.Technol.(Tokyo) 47, 1097 (2010)</refrence>
 <authors>S.Goko, A.Kimura, H.Harada, M.Oshima, M.Ohta, K.Furutaka, T.Kin, F.Kitatani, M.Koizumi, S.Nakamura, Y.Toh, M.Igashira, T.Katabuchi, M.Mizumoto, Y.Kiyanagi, K.Kino, M.Furusaka, F.Hiraga, T.Kamiyama, J.-i.Hori, T.Fujii, S.Fukutani, K.Takamiya</authors>
 <title>Measurement of Neutron Capture Cross Section Ratios of {+244}Cm Resonances Using NNRI</title>
-<keywords>NUCLEAR REACTIONS {+244}Cm(n,|g), E<200 eV; measured neutron time of flight, E|g,I|g; deduced the neutron capture |s ratios of {+244}Cm resonances.</keywords>
+<keywords>NUCLEAR REACTIONS {+244}Cm(n,|g), E lt 200 eV; measured neutron time of flight, E|g,I|g; deduced the neutron capture |s ratios of {+244}Cm resonances.</keywords>
 <doi>10.3327/jnst.47.1097</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -1753,7 +1753,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Phys.Rev. C 81, 044310 (2010)</refrence>
 <authors>K.S.Krane</authors>
 <title>Neutron capture by Ru: Neutron cross sections of {+96,102,104}Ru and |g-ray spectroscopy in the decays of {+97,103,105}Ru</title>
-<keywords>RADIOACTIVITY {+96}Tc(|b{++}),(EC)[from {+96}Ru(n,p)]; {+97}Ru(|b{++}),(EC)[from {+96}Ru(n,|g),E<1 eV]; {+103},{+105}Ru(|b{+-})[from {+102},{+104}Ru(n,|g),E<1 keV]; {+105}Rh(|b{+-})[from {+105}Ru(|b{+-})]; measured E|g, I|g; deduced I|b, I|e, logft;{+96}Mo,{+97}Tc,{+103},{+105}Rh,{+105}Pd; deduced levels. Comparison with previous studies and evaluated data.</keywords>
+<keywords>RADIOACTIVITY {+96}Tc(|b{++}),(EC)[from {+96}Ru(n,p)]; {+97}Ru(|b{++}),(EC)[from {+96}Ru(n,|g),E lt 1 eV]; {+103},{+105}Ru(|b{+-})[from {+102},{+104}Ru(n,|g),E lt 1 keV]; {+105}Rh(|b{+-})[from {+105}Ru(|b{+-})]; measured E|g, I|g; deduced I|b, I|e, logft;{+96}Mo,{+97}Tc,{+103},{+105}Rh,{+105}Pd; deduced levels. Comparison with previous studies and evaluated data.</keywords>
 <keywords>NUCLEAR REACTIONS {+96},{+102},{+104}Ru(n,|g), E=thermal and epithermal; measured E|g,I|g, cross sections and resonance integrals by activation method. Comparison with previous studies.</keywords>
 <doi>10.1103/PhysRevC.81.044310</doi>
 </nsr-entry>
@@ -2055,7 +2055,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Phys.Rev.Lett. 109, 172501 (2012)</refrence>
 <authors>R.L.Kozub, G.Arbanas, A.S.Adekola, D.W.Bardayan, J.C.Blackmon, K.Y.Chae, K.A.Chipps, J.A.Cizewski, L.Erikson, R.Hatarik, W.R.Hix, K.L.Jones, W.Krolas, J.F.Liang, Z.Ma, C.Matei, B.H.Moazen, C.D.Nesaraja, S.D.Pain, D.Shapira, J.F.Shriner, Jr., M.S.Smith, T.P.Swan</authors>
 <title>Neutron Single Particle Structure in {+131}Sn and Direct Neutron Capture Cross Sections</title>
-<keywords>NUCLEAR REACTIONS {+2}H({+130}Sn,p), E=630 MeV; {+130}Sn(n,|g), E<5 MeV;measured reaction products, Ep,Ip; deduced |s(|q), energy levels, J,|p, properties of single-particle states, direct-semidirect |s.  Comparison with  available data.</keywords>
+<keywords>NUCLEAR REACTIONS {+2}H({+130}Sn,p), E=630 MeV; {+130}Sn(n,|g), E lt 5 MeV;measured reaction products, Ep,Ip; deduced |s(|q), energy levels, J,|p, properties of single-particle states, direct-semidirect |s.  Comparison with  available data.</keywords>
 <doi>10.1103/PhysRevLett.109.172501</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -2202,7 +2202,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Phys.Rev.Lett. 110, 022501 (2013)</refrence>
 <authors>C.Lederer, for the n_TOF Collaboration</authors>
 <title>Neutron Capture Cross Section of Unstable {+63}Ni: Implications for Stellar Nucleosynthesis</title>
-<keywords>NUCLEAR REACTIONS {+63}Ni(n,|g), E<100 keV; measured reaction products, E|g,I|g; deduced resonances, yields, Maxwellian-averaged |s and their uncertainties. Comparison with SAMMY code calculations, KADONIS library.</keywords>
+<keywords>NUCLEAR REACTIONS {+63}Ni(n,|g), E lt 100 keV; measured reaction products, E|g,I|g; deduced resonances, yields, Maxwellian-averaged |s and their uncertainties. Comparison with SAMMY code calculations, KADONIS library.</keywords>
 <doi>10.1103/PhysRevLett.110.022501</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -2412,7 +2412,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Nucl.Data Sheets 120, 201 (2014)</refrence>
 <authors>C.Lederer, for the n_TOF Collaboration</authors>
 <title>Neutron Capture Reactions on Fe and Ni Isotopes for the Astrophysical s-process</title>
-<keywords>NUCLEAR REACTIONS {+58},{+62},{+63}Ni(n,|g), E<100 keV; measured reaction products, E|g,I|g.; deduced yields. Comparison with available data, ENDF/B-VII.1 nuclear reaction library.</keywords>
+<keywords>NUCLEAR REACTIONS {+58},{+62},{+63}Ni(n,|g), E lt 100 keV; measured reaction products, E|g,I|g.; deduced yields. Comparison with available data, ENDF/B-VII.1 nuclear reaction library.</keywords>
 <doi>10.1016/j.nds.2014.07.046</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -2438,8 +2438,8 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Phys.Rev. C 90, 044301 (2014)</refrence>
 <authors>A.Makinaga, R.Massarczyk, R.Schwengner, M.Beard, F.Donau, M.Anders, D.Bemmerer, R.Beyer, R.Hannaske, A.R.Junghans, M.Kempe, T.Kogler, M.Roder, K.Schmidt, A.Wagner</authors>
 <title>Dipole strength of {+181}Ta for the evaluation of the {+180}Ta stellar neutron capture rate</title>
-<keywords>NUCLEAR REACTIONS {+181}Ta(|g,|g'),E<10 MeV; measured E|g, I|g, |g|g-coin, photoabsorption |s(E) using the bremsstrahlung facility |g-ELBE at the electron accelerator of Dresden-Rossendorf (HZDR) facility; deduced mean branching ratios and uncertainty range of ground-state transitions from |g-ray cascades, dipole-strength distribution. Comparison with {+181}Ta(|g,n) experimental data, and QRPA calculations.</keywords>
-<keywords>NUCLEAR REACTIONS {+180},{+180m},{+181}Ta(n,|g),E<15 MeV; calculated |s(E), Maxwellian-averaged cross sections (MACS). {+181}Ta(|g,n) at T=2-5.5 GK; {+180m}Ta(n,|g) at T=0.1-1 GK; calculated stellar reaction rates. Calculations using the code TALYS with various models for the input strength function. Comparison with data in KADoNiS database.</keywords>
+<keywords>NUCLEAR REACTIONS {+181}Ta(|g,|g'),E lt 10 MeV; measured E|g, I|g, |g|g-coin, photoabsorption |s(E) using the bremsstrahlung facility |g-ELBE at the electron accelerator of Dresden-Rossendorf (HZDR) facility; deduced mean branching ratios and uncertainty range of ground-state transitions from |g-ray cascades, dipole-strength distribution. Comparison with {+181}Ta(|g,n) experimental data, and QRPA calculations.</keywords>
+<keywords>NUCLEAR REACTIONS {+180},{+180m},{+181}Ta(n,|g),E lt 15 MeV; calculated |s(E), Maxwellian-averaged cross sections (MACS). {+181}Ta(|g,n) at T=2-5.5 GK; {+180m}Ta(n,|g) at T=0.1-1 GK; calculated stellar reaction rates. Calculations using the code TALYS with various models for the input strength function. Comparison with data in KADoNiS database.</keywords>
 <doi>10.1103/PhysRevC.90.044301</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -2543,7 +2543,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Phys.Rev.Lett. 112, 192501 (2014)</refrence>
 <authors>A.Wallner, T.Belgya, M.Bichler, K.Buczak, I.Dillmann, F.Kappeler, C.Lederer, A.Mengoni, F.Quinto, P.Steier, L.Szentmiklosi</authors>
 <title>Novel Method to Study Neutron Capture of {+235}U and {+238}U Simultaneously at keV Energies</title>
-<keywords>NUCLEAR REACTIONS {+235}U,{+238}U(n,|g), E<426 keV;   measured reaction products; deduced |s. Comparison with ENDF/B-VII.1, JENDL-4.0, CENDL-3.1, ROSFOND 2010, and JEFF-3.1.2 evaluated nuclear libraries.</keywords>
+<keywords>NUCLEAR REACTIONS {+235}U,{+238}U(n,|g), E lt 426 keV;   measured reaction products; deduced |s. Comparison with ENDF/B-VII.1, JENDL-4.0, CENDL-3.1, ROSFOND 2010, and JEFF-3.1.2 evaluated nuclear libraries.</keywords>
 <doi>10.1103/PhysRevLett.112.192501</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -2648,7 +2648,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Phys.Rev. C 91, 037603 (2015)</refrence>
 <authors>T.Katabuchi, T.Matsuhashi, K.Terada, M.Igashira, M.Mizumoto, K.Hirose, A.Kimura, N.Iwamoto, K.Y.Hara, H.Harada, J.-i.Hori, T.Kamiyama, K.Kino, F.Kitatani, Y.Kiyanagi, S.Nakamura, Y.Toh</authors>
 <title>Misassigned neutron resonances of {+142}Nd and stellar neutron capture cross sections</title>
-<keywords>NUCLEAR REACTIONS {+141}Pr,{+142}Nd(n,|g),E<2.5 keV; measured time-of-flight spectra, E|g, I|g; deduced resonances, resonance parameters, capture yield TOF spectra. Previous six resonances from 218.6 to 1485 eV assigned to {+142}Nd reassigned to {+141}Pr. Measurements using spallation neutron source and the Accurate Neutron-Nucleus Reaction Measurement Instrument (ANNRI) at Japan Proton Accelerator Research Complex (J-PARC). Calculated Maxwellian-averaged neutron capture cross section of {+142}Nd and compared with JENDL-4.0 parameters.</keywords>
+<keywords>NUCLEAR REACTIONS {+141}Pr,{+142}Nd(n,|g),E lt 2.5 keV; measured time-of-flight spectra, E|g, I|g; deduced resonances, resonance parameters, capture yield TOF spectra. Previous six resonances from 218.6 to 1485 eV assigned to {+142}Nd reassigned to {+141}Pr. Measurements using spallation neutron source and the Accurate Neutron-Nucleus Reaction Measurement Instrument (ANNRI) at Japan Proton Accelerator Research Complex (J-PARC). Calculated Maxwellian-averaged neutron capture cross section of {+142}Nd and compared with JENDL-4.0 parameters.</keywords>
 <doi>10.1103/PhysRevC.91.037603</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -2661,7 +2661,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Nucl.Sci.Eng. 180, 86 (2015)</refrence>
 <authors>Y.-R.Kang, M.W.Lee, G.N.Kim, T.-I.Ro, Y.Danon, D.Williams, G.Leinweber, R.C.Block, D.P.Barry, M.J.Rapp</authors>
 <title>Neutron Capture Measurements and Resonance Parameters of Gadolinium</title>
-<keywords>NUCLEAR REACTIONS {+155},{+156},{+157},{+158},{+160}Gd(n,|g), E<20 MeV; measured reaction products, E|g,I|g; deduced |s,  yields, resonance parameters and integrals. Comparison with experimental data, ENDF/B-VII.0 library.</keywords>
+<keywords>NUCLEAR REACTIONS {+155},{+156},{+157},{+158},{+160}Gd(n,|g), E lt 20 MeV; measured reaction products, E|g,I|g; deduced |s,  yields, resonance parameters and integrals. Comparison with experimental data, ENDF/B-VII.0 library.</keywords>
 <doi>10.13182/NSE14-80</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -2819,7 +2819,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <authors>S.N.Liddick, A.Spyrou, B.P.Crider, F.Naqvi, A.C.Larsen, M.Guttormsen, M.Mumpower, R.Surman, G.Perdikakis, D.L.Bleuel, A.Couture, L.C.Campo, A.C.Dombos, R.Lewis, S.Mosby, S.Nikas, C.J.Prokop, T.Renstrom, B.Rubio, S.Siem, S.J.Quinn</authors>
 <title>Experimental Neutron Capture Rate Constraint Far from Stability</title>
 <keywords>RADIOACTIVITY {+70}Co(|b{+-}) [from {+9}Be({+86}Kr,X), E=140 MeV/nucleon]; measured decay products, E|g,I|g; deduced nuclear level density as a function of excitation energy. Comparison with available data.</keywords>
-<keywords>NUCLEAR REACTIONS {+69}Ni(n,|g), E<10 GK;   calculated nuclear reaction capture rates using experimental level densities and code TALYS.</keywords>
+<keywords>NUCLEAR REACTIONS {+69}Ni(n,|g), E lt 10 GK;   calculated nuclear reaction capture rates using experimental level densities and code TALYS.</keywords>
 <doi>10.1103/PhysRevLett.116.242502</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -3041,7 +3041,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Phys.Rev. C 97, 024605 (2018)</refrence>
 <authors>J.Lerendegui-Marco, for the n_TOF Collaboration</authors>
 <title>Radiative neutron capture on {+242}Pu in the resonance region at the CERN n_TOF-EAR1 facility</title>
-<keywords>NUCLEAR REACTIONS {+242}Pu(n,|g),E<4 keV; measured neutron spectra by time-of-flight method, E|g, I|g at CERN n_TOF-EAR1 facility; deduced |G{-|g}, sum of reduced neutron widths |G{-0} as function of neutron energy, distributions of reduced neutron widths, average resonance parameters. {+243}Pu; deduced energies and parameters of 251 individual neutron resonances in the range of E(n)=2.6 eV to 4 keV, J, |G{-|g}, |G{-n}. Comparison with JEFF calculations and DANCE data. SAMMY code used for resonance analysis.</keywords>
+<keywords>NUCLEAR REACTIONS {+242}Pu(n,|g),E lt 4 keV; measured neutron spectra by time-of-flight method, E|g, I|g at CERN n_TOF-EAR1 facility; deduced |G{-|g}, sum of reduced neutron widths |G{-0} as function of neutron energy, distributions of reduced neutron widths, average resonance parameters. {+243}Pu; deduced energies and parameters of 251 individual neutron resonances in the range of E(n)=2.6 eV to 4 keV, J, |G{-|g}, |G{-n}. Comparison with JEFF calculations and DANCE data. SAMMY code used for resonance analysis.</keywords>
 <doi>10.1103/PhysRevC.97.024605</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>

@@ -98,7 +98,7 @@ int main()
       return 1;
     }
 
-  std::ofstream xml_new("rprocess2.xml");
+  std::ofstream xml_new("rprocess_mass.xml");
 
 
   xml_document doc;

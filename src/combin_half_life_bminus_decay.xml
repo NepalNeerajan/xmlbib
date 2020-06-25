@@ -2433,7 +2433,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <coden>CONF Argonne(Nuclei at the Limits),P335,Walters</coden>
 <refrence>Proc.Nuclei at the Limits, Argonne, Illinois, D.Seweryniak and T.L.Khoo, eds., p.335 (2005); AIP Conf. Proc 764 (2005)</refrence>
 <authors>W.B.Walters, M.A.Stoyer, J.Shergur, N.Hoteling, J.J.Ressler, J.Rikovska, K.-L.Kratz, A.Wohr, B.Pfeiffer, O.Arndt, P.F.Mantica, B.Tomlin, H.Schatz, F.Montes, B.A.Brown, D.Seweryniak, H.Ravn, V.Fedoseyev, U.Koster, C.Y.Wu, D.Cline, H.Hua, A.B.Hayes, R.Teng, and the ISOLDE Collaboration</authors>
-<title>Structure And Decay Of Neutron-Rich Nuclides In The 115 |< A |< 138 Mass Range And r-Process Nucleosynthesis</title>
+<title>Structure And Decay Of Neutron-Rich Nuclides In The 115 lt A lt 138 Mass Range And r-Process Nucleosynthesis</title>
 <keywords>RADIOACTIVITY {+123},{+124},{+125}Ag(IT) [from {+136}Xe fragmentation]; measured E|g,I|g,isomeric states T{-1/2}. {+124}Ag(|b{+-}) [from {+238}U(|a,F)]; measured E|g,I|g,|g|g-coin. {+124}Cd deduced transitions.</keywords>
 <doi>10.1063/1.1905332</doi>
 </nsr-entry>
@@ -3238,7 +3238,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Phys.Rev. C 78, 015803 (2008)</refrence>
 <authors>A.Huke, K.Czerski, P.Heide, G.Ruprecht, N.Targosz, W.Zebrowski</authors>
 <title>Enhancement of deuteron-fusion reactions in metals and experimental implications</title>
-<keywords>NUCLEAR REACTIONS {+2}H(p,d),E<50 keV; measured screening energies, enhancement factors of host metals Li,Al,Zr,Pd,Ta. Comparison with theory and existing data.</keywords>
+<keywords>NUCLEAR REACTIONS {+2}H(p,d),E lt 50 keV; measured screening energies, enhancement factors of host metals Li,Al,Zr,Pd,Ta. Comparison with theory and existing data.</keywords>
 <keywords>RADIOACTIVITY {+22}Na(|b{++}),{+198}Au(|b{+-}),{+210}Po(|a); analyzed the effect of host metals on half-lives.</keywords>
 <doi>10.1103/PhysRevC.78.015803</doi>
 </nsr-entry>
@@ -3740,7 +3740,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <coden>JOUR PRVCA 79 035806</coden>
 <refrence>Phys.Rev. C 79, 035806 (2009)</refrence>
 <authors>J.Pereira, S.Hennrich, A.Aprahamian, O.Arndt, A.Becerril, T.Elliot, A.Estrade, D.Galaviz, R.Kessler, K.-L.Kratz, G.Lorusso, P.F.Mantica, M.Matos, P.Moller, F.Montes, B.Pfeiffer, H.Schatz, F.Schertz, L.Schnorrenberger, E.Smith, A.Stolz, M.Quinn, W.B.Walters, A.Wohr</authors>
-<title>|b-decay half-lives and |b-delayed neutron emission probabilities of nuclei in the region A |< 110, relevant for the r process</title>
+<title>|b-decay half-lives and |b-delayed neutron emission probabilities of nuclei in the region A lt 110, relevant for the r process</title>
 <keywords>RADIOACTIVITY {+100},{+101},{+102},{+103},{+104},{+105}Y,{+103},{+104},{+105},{+106},{+107}Zr,{+106},{+107},{+108},{+109}Nb,{+108},{+109},{+110},{+111}Mo,{+109},{+110},{+111},{+112},{+113}Tc(|b{+-}),(|b{+-}n)[from {+9}Be({+136}Xe,X),E=120 MeV/nucleon]; measured fragments,neutrons,|b,(fragment)|b-coin,half-lives; deduced delayed neutron-emission probabilities. Comparisons with quasiparticle random phase approximation (QRPA03 and QRPA06) calculations. Discussed relevance to r-process nuclei.</keywords>
 <doi>10.1103/PhysRevC.79.035806</doi>
 </nsr-entry>
@@ -4515,7 +4515,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Appl.Radiat.Isot. 69, 37 (2011)</refrence>
 <authors>S.Manenti, F.Groppi, A.Gandini, L.Gini, K.Abbas, U.Holzwarth, F.Simonelli, M.Bonardi</authors>
 <title>Excitation function for deuteron induced nuclear reactions on natural ytterbium for production of high specific activity {+177g}Lu in no-carrier-added form for metabolic radiotherapy</title>
-<keywords>NUCLEAR REACTIONS Yb(d,xn){+169}Lu/{+170}Lu/{+171}Lu/{+172}Lu/{+173}Lu/{+174}Lu/{+176}Lu/{+177}Lu, Yb(d,xnp){+169}Yb/{+175}Yb/{+177}Yb, E<18.18 MeV; measured E|g,I|g; deduced thin target yields, thick target yields, |s.  Comparison with experimental data.</keywords>
+<keywords>NUCLEAR REACTIONS Yb(d,xn){+169}Lu/{+170}Lu/{+171}Lu/{+172}Lu/{+173}Lu/{+174}Lu/{+176}Lu/{+177}Lu, Yb(d,xnp){+169}Yb/{+175}Yb/{+177}Yb, E lt 18.18 MeV; measured E|g,I|g; deduced thin target yields, thick target yields, |s.  Comparison with experimental data.</keywords>
 <keywords>RADIOACTIVITY {+170},{+171},{+172}Lu(EC),{+176},{+177}Lu,{+175},{+177}Yb(|b{+-}); measured E|g,I|g; deduced T{-1/2}. Comparison with other data.</keywords>
 <doi>10.1016/j.apradiso.2010.08.008</doi>
 </nsr-entry>
@@ -5189,7 +5189,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Phys.Rev. C 88, 047301 (2013)</refrence>
 <authors>K.Kolos, D.Verney, F.Ibrahim, F.Le Blanc, S.Franchoo, K.Sieja, F.Nowacki, C.Bonnin, M.C.Mhamed, P.V.Cuong, F.Didierjean, G.Duchene, S.Essabaa, G.Germogli, L.H.Khiem, C.Lau, I.Matea, M.Niikura, B.Roussiere, I.Stefan, D.Testov, J.-C.Thomas</authors>
 <title>Probing nuclear structures in the vicinity of {+78}Ni with |b- and |bn-decay spectroscopy of {+84}Ga</title>
-<keywords>RADIOACTIVITY {+84}Ga(|b{+-}),(|b{+-}n)[from {+238}U(|g,F),E<50 MeV bremsstrahlung]; measured E|g, I|g, |b|g-, |g|g-coin, half-life of {+84}Ga isotope using PARRNe mass spectrometer and resonant laser ionization at ALTO-IPN Orsay facility. {+83},{+84}Ge; deduced levels, J, |p, beta feedings, logft, configuration. Comparison with shell-model calculations.</keywords>
+<keywords>RADIOACTIVITY {+84}Ga(|b{+-}),(|b{+-}n)[from {+238}U(|g,F),E lt 50 MeV bremsstrahlung]; measured E|g, I|g, |b|g-, |g|g-coin, half-life of {+84}Ga isotope using PARRNe mass spectrometer and resonant laser ionization at ALTO-IPN Orsay facility. {+83},{+84}Ge; deduced levels, J, |p, beta feedings, logft, configuration. Comparison with shell-model calculations.</keywords>
 <keywords>NUCLEAR STRUCTURE {+83},{+84}Ge; calculated levels, J, |p, B(M1), B(E2) using shell model; deduced |g-branching ratios. Comparison with experimental data.</keywords>
 <doi>10.1103/PhysRevC.88.047301</doi>
 </nsr-entry>
@@ -6242,7 +6242,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Int.J.Mod.Phys. E25, 1650045 (2016)</refrence>
 <authors>S.Akkoyun, T.Bayram, F.Dulger, H.Dapo, I.Boztosun</authors>
 <title>Energy level and half-life determinations from photonuclear reaction on Ga target</title>
-<keywords>RADIOACTIVITY {+68}Ge(EC),{+70},{+72}Ge(|b{+-}) [from Ga(|g,X), E<18 MeV]; measured decay products, E|g,I|g; deduced T{-1/2}. Comparison with available data.</keywords>
+<keywords>RADIOACTIVITY {+68}Ge(EC),{+70},{+72}Ge(|b{+-}) [from Ga(|g,X), E lt 18 MeV]; measured decay products, E|g,I|g; deduced T{-1/2}. Comparison with available data.</keywords>
 <doi>10.1142/S0218301316500452</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
@@ -6981,7 +6981,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <refrence>Phys.Rev. C 95, 054320 (2017)</refrence>
 <authors>D.Verney, D.Testov, F.Ibrahim, Yu.Penionzhkevich, B.Roussiere, V.Smirnov, F.Didierjean, K.Flanagan, S.Franchoo, E.Kuznetsova, R.Li, B.Marsh, I.Matea, H.Pai, E.Sokol, I.Stefan, D.Suzuki</authors>
 <title>Pygmy Gamow-Teller resonance in the N=50 region: New evidence from staggering of |b-delayed neutron-emission probabilities</title>
-<keywords>RADIOACTIVITY {+82},{+83},{+84}Ga(|b{+-}),(|b{+-}n)[from {+238}U(|g,F),E<50 MeV bremsstrahlung beam followed by ionization using RILIS and PARRNe on-line separator at ALTO ISOL facility]; measured E|g, I|g, |b spectrum, |b-gated |g and |b(neutron)-gated |g spectra, delayed neutrons, %|b{+-}n and half-lives of decays of {+82},{+83},{+84}Ga using 4|p long-counter TETRA for neutrons; deduced systematics of %|b{+-}n values, B(GT) strengths. {+81},{+82},{+83},{+84}Ge; deduced levels.</keywords>
+<keywords>RADIOACTIVITY {+82},{+83},{+84}Ga(|b{+-}),(|b{+-}n)[from {+238}U(|g,F),E lt 50 MeV bremsstrahlung beam followed by ionization using RILIS and PARRNe on-line separator at ALTO ISOL facility]; measured E|g, I|g, |b spectrum, |b-gated |g and |b(neutron)-gated |g spectra, delayed neutrons, %|b{+-}n and half-lives of decays of {+82},{+83},{+84}Ga using 4|p long-counter TETRA for neutrons; deduced systematics of %|b{+-}n values, B(GT) strengths. {+81},{+82},{+83},{+84}Ge; deduced levels.</keywords>
 <doi>10.1103/PhysRevC.95.054320</doi>
 </nsr-entry>
 <?xml version="1.0 " encoding="UTF-8" ?>
