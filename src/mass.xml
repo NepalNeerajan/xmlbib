@@ -1,4 +1,3 @@
-
 <?xml version="1.0 " encoding="UTF-8" ?>
 <!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
 xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
@@ -49,7 +48,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <coden>JOUR NUPAB 677 75</coden>
 <refrence>Nucl.Phys. A677, 75 (2000)</refrence>
 <authors>T.Radon, H.Geissel, G.Munzenberg, B.Franzke, Th.Kerscher, F.Nolden, Yu.N.Novikov, Z.Patyk, C.Scheidenberger, F.Attallah, K.Beckert, T.Beha, F.Bosch, H.Eickhoff, M.Falch, Y.Fujita, M.Hausmann, F.Herfurth, H.Irnich, H.C.Jung, O.Klepper, C.Kozhuharov, Yu.A.Litvinov, K.E.G.Lobner, F.Nickel, H.Reich, W.Schwab, B.Schlitt, M.Steck, K.Summerer, T.Winkler, H.Wollnik</authors>
-<title>Schottky Mass Measurements of Stored and Cooled Neutron-Deficient Projectile Fragments in the Element Range of 57 | Z | 84</title>
+<title>Schottky Mass Measurements of Stored and Cooled Neutron-Deficient Projectile Fragments in the Element Range of 57 |< Z |< 84</title>
 <keywords>ATOMIC MASSES {+133}La,{+134}Ce,{+135},{+138}Nd,{+138}Pm,{+156}Ho,{+158}Er,{+158},{+160}Tm,{+160},{+161},{+162},{+164}Yb,{+162},{+163},{+164},{+166}Lu,{+164},{+165},{+166},{+167},{+168},{+170},{+171}Hf,{+167},{+168},{+169},{+170},{+171},{+173},{+175}Ta,{+170},{+171},{+172},{+173},{+174},{+175},{+176},{+177}W,{+172},{+173},{+174},{+175},{+176},{+177},{+178}Re,{+174},{+175},{+176},{+177},{+178},{+179},{+180},{+181}Os,{+177},{+178},{+179},{+180},{+181},{+183},{+184},{+185}Ir,{+178},{+179},{+180},{+181},{+182},{+183},{+184},{+185},{+187}Pt,{+181},{+182},{+183},{+184},{+185},{+187},{+188},{+189}Au,{+184},{+185},{+186},{+187},{+188},{+189},{+190},{+192}Hg,{+186},{+187},{+188},{+189},{+190},{+191},{+192},{+193},{+194},{+195}Tl,{+188},{+189},{+190},{+191},{+192},{+193},{+194},{+195},{+196},{+197},{+198}Pb,{+192},{+193},{+194},{+195},{+196},{+197},{+198}Bi,{+197},{+198},{+199},{+200},{+201},{+202}Po; measured masses. Schottky mass spectrometry.</keywords>
 <doi>10.1016/S0375-9474(00)00304-3</doi>
 </nsr-entry>
@@ -1075,7 +1074,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <coden>JOUR PLRAA 72 022510</coden>
 <refrence>Phys.Rev. A 72, 022510 (2005)</refrence>
 <authors>W.Shi, M.Redshaw, E.G.Myers</authors>
-<title>Atomic masses of {+32,33}S, {+84,86}Kr, and {+129,132}Xe with uncertainties | 0.1 ppb</title>
+<title>Atomic masses of {+32,33}S, {+84,86}Kr, and {+129,132}Xe with uncertainties |< 0.1 ppb</title>
 <keywords>ATOMIC MASSES {+32},{+33}S,{+84},{+86}Kr,{+129},{+132}Xe; measured masses. Penning trap.</keywords>
 <doi>10.1103/PhysRevA.72.022510</doi>
 </nsr-entry>
@@ -2348,7 +2347,7 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <coden>JOUR PLRAA 79 012507</coden>
 <refrence>Phys.Rev. A 79, 012507 (2009)</refrence>
 <authors>M.Redshaw, B.J.Mount, E.G.Myers</authors>
-<title>Penning-trap measurement of the atomic masses of {+18}O and {+19}F with uncertainties | 0.1 parts per 10{+9}</title>
+<title>Penning-trap measurement of the atomic masses of {+18}O and {+19}F with uncertainties < 0.1 parts per 10{+9}</title>
 <keywords>ATOMIC MASSES {+18}O,{+19}F; measured atomic masses using a cryogenic penning trap.</keywords>
 <doi>10.1103/PhysRevA.79.012507</doi>
 </nsr-entry>
@@ -2898,6 +2897,18 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <keywords>NUCLEAR STRUCTURE Z=36-44,N=48-65; calculated S(2n), mean-square charge radii, and energies of octupole correlations using HFB theory with SLy4 and Gogny-D1S potentials. Comparison with experimental data.</keywords>
 <doi>10.1103/PhysRevC.88.054322</doi>
 </nsr-entry>
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013SH30</keyno>
+<history>A20130903 M20131125</history>
+<coden>JOUR PRVCA 88 024310</coden>
+<refrence>Phys.Rev. C 88, 024310 (2013)</refrence>
+<authors>D.Shubina, R.B.Cakirli, Yu.A.Litvinov, K.Blaum, C.Brandau, F.Bosch, J.J.Carroll, R.F.Casten, D.M.Cullen, I.J.Cullen, A.Y.Deo, B.Detwiler, C.Dimopoulou, F.Farinon, H.Geissel, E.Haettner, M.Heil, R.S.Kempley, C.Kozhuharov, R.Knobel, J.Kurcewicz, N.Kuzminchuk, S.A.Litvinov, Z.Liu, R.Mao, C.Nociforo, F.Nolden, Z.Patyk, W.R.Plass, A.Prochazka, M.W.Reed, M.S.Sanjari, C.Scheidenberger, M.Steck, Th.Stohlker, B.Sun, T.P.D.Swan, G.Trees, P.M.Walker, H.Weick, N.Winckler, M.Winkler, P.J.Woods, T.Yamaguchi, C.Zhou</authors>
+<title>Schottky mass measurements of heavy neutron-rich nuclides in the element range 70|
+
+
 
 
 
@@ -4249,23 +4260,6 @@ xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
 <keywords>ATOMIC MASSES {+154}Nd,{+161}Pm,{+163}Sm,{+162},{+162m},{+163},{+164},{+165}Eu,{+163},{+163m},{+167}Gd,{+165},{+166},{+167},{+168}Tb; measured time-of-flight ion-cyclotron-resonances (TOF-ICR) and phase-imaging ion-cyclotron-resonances (PI-ICR), frequency ratios, mass excesses using the JYFLTRAP double penning trap at the IGISOL facility of University of Jyvaskyla; deduced S(n), S(2n), pairing-gap energies, and average proton neutron interaction of valence nucleons. {+162m}Eu,{+163m}Gd; deduced absolute energies of the isomers. Comparison with previous experimental measurements, and with evaluated data in AME2016. Isotopes formed in U(p,F),E=25 MeV reaction. Discussed impact on solar r-process abundances as a function of the mass number.</keywords>
 <doi>10.1103/PhysRevC.101.034312</doi>
 </nsr-entry>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
