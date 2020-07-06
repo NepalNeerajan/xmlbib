@@ -1,0 +1,12 @@
+
+<?xml version="1.0 " encoding="UTF-8" ?>
+<!-- <Address xmlns:xsi="http://www.nndc.bnl.gov/XMLSchema-instance
+xsi:noNamespaceSchemaLocation="SimpleNSR.xsd"> -->
+<nsr-entry>
+<keyno>2013SH30</keyno>
+<history>A20130903 M20131125</history>
+<coden>JOUR PRVCA 88 024310</coden>
+<refrence>Phys.Rev. C 88, 024310 (2013)</refrence>
+<authors>D.Shubina, R.B.Cakirli, Yu.A.Litvinov, K.Blaum, C.Brandau, F.Bosch, J.J.Carroll, R.F.Casten, D.M.Cullen, I.J.Cullen, A.Y.Deo, B.Detwiler, C.Dimopoulou, F.Farinon, H.Geissel, E.Haettner, M.Heil, R.S.Kempley, C.Kozhuharov, R.Knobel, J.Kurcewicz, N.Kuzminchuk, S.A.Litvinov, Z.Liu, R.Mao, C.Nociforo, F.Nolden, Z.Patyk, W.R.Plass, A.Prochazka, M.W.Reed, M.S.Sanjari, C.Scheidenberger, M.Steck, Th.Stohlker, B.Sun, T.P.D.Swan, G.Trees, P.M.Walker, H.Weick, N.Winckler, M.Winkler, P.J.Woods, T.Yamaguchi, C.Zhou</authors>
+<title>Schottky mass measurements of heavy neutron-rich nuclides in the element range 70|
+
